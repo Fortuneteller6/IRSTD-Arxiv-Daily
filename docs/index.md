@@ -3882,12 +3882,62 @@ layout: default
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-[contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
-[contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
-[forks-url]: https://github.com/Vincentqyw/cv-arxiv-daily/network/members
-[stars-shield]: https://img.shields.io/github/stars/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
-[stars-url]: https://github.com/Vincentqyw/cv-arxiv-daily/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
-[issues-url]: https://github.com/Vincentqyw/cv-arxiv-daily/issues
+## IRSTD
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-09**|**Robust infrared small target detection using self-supervised and a contrario paradigms**|Alina Ciocarlan et.al.|[2410.07437](http://arxiv.org/abs/2410.07437)|null|
+|**2024-09-29**|**Gradient is All You Need: Gradient-Based Attention Fusion for Infrared Small Target Detection**|Chen Hu et.al.|[2409.19599](http://arxiv.org/abs/2409.19599)|null|
+|**2024-10-04**|**Infrared Small Target Detection in Satellite Videos: A New Dataset and A Novel Recurrent Feature Refinement Framework**|Xinyi Ying et.al.|[2409.12448](http://arxiv.org/abs/2409.12448)|**[link](https://github.com/xinyiying/rfr)**|
+|**2024-09-07**|**Unleashing the Power of Generic Segmentation Models: A Simple Baseline for Infrared Small Target Detection**|Mingjin Zhang et.al.|[2409.04714](http://arxiv.org/abs/2409.04714)|null|
+|**2024-09-06**|**Hybrid Mask Generation for Infrared Small Target Detection with Single-Point Supervision**|Weijie He et.al.|[2409.04011](http://arxiv.org/abs/2409.04011)|null|
+|**2024-08-18**|**The First Competition on Resource-Limited Infrared Small Target Detection Challenge: Methods and Results**|Boyang Li et.al.|[2408.09615](http://arxiv.org/abs/2408.09615)|**[link](https://github.com/xinyiying/basicirstd)**|
+|**2024-11-16**|**Beyond Full Labels: Energy-Double-Guided Single-Point Prompt for Infrared Small Target Label Generation**|Shuai Yuan et.al.|[2408.08191](http://arxiv.org/abs/2408.08191)|**[link](https://github.com/xdfai/edgsp)**|
+|**2024-09-15**|**One Shot is Enough for Sequential Infrared Small Target Segmentation**|Bingbing Dan et.al.|[2408.04823](http://arxiv.org/abs/2408.04823)|**[link](https://github.com/d-iceice/one-shot-irsts)**|
+|**2024-10-03**|**Pick of the Bunch: Detecting Infrared Small Targets Beyond Hit-Miss Trade-Offs via Selective Rank-Aware Attention**|Yimian Dai et.al.|[2408.03717](http://arxiv.org/abs/2408.03717)|**[link](https://github.com/grokcv/serankdet)**|
+|**2024-08-05**|**LR-Net: A Lightweight and Robust Network for Infrared Small Target Detection**|Chuang Yu et.al.|[2408.02780](http://arxiv.org/abs/2408.02780)|null|
+|**2024-08-05**|**Refined Infrared Small Target Detection Scheme with Single-Point Supervision**|Jinmiao Zhao et.al.|[2408.02773](http://arxiv.org/abs/2408.02773)|null|
+|**2024-08-08**|**Single-Point Supervised High-Resolution Dynamic Network for Infrared Small Target Detection**|Jing Wu et.al.|[2408.01976](http://arxiv.org/abs/2408.01976)|null|
+|**2024-07-29**|**Infrared Small Target Detection based on Adjustable Sensitivity Strategy and Multi-Scale Fusion**|Jinmiao Zhao et.al.|[2407.20090](http://arxiv.org/abs/2407.20090)|null|
+|**2024-11-02**|**Background Semantics Matter: Cross-Task Feature Exchange Network for Clustered Infrared Small Target Detection With Sky-Annotated Dataset**|Mengxuan Xiao et.al.|[2407.20078](http://arxiv.org/abs/2407.20078)|**[link](https://github.com/grokcv/bafe-net)**|
+|**2024-07-22**|**Sparse Prior Is Not All You Need: When Differential Directionality Meets Saliency Coherence for Infrared Small Target Detection**|Fei Zhou et.al.|[2407.15369](http://arxiv.org/abs/2407.15369)|**[link](https://github.com/grokcv/sdd)**|
+|**2024-07-10**|**IRSAM: Advancing Segment Anything Model for Infrared Small Target Detection**|Mingjin Zhang et.al.|[2407.07520](http://arxiv.org/abs/2407.07520)|**[link](https://github.com/ipic-lab/irsam)**|
+|**2024-06-19**|**Lost in UNet: Improving Infrared Small Target Detection by Underappreciated Local Features**|Wuzhou Quan et.al.|[2406.13445](http://arxiv.org/abs/2406.13445)|**[link](https://github.com/wuzhou-quan/hintu)**|
+|**2024-09-05**|**Triple-domain Feature Learning with Frequency-aware Memory Enhancement for Moving Infrared Small Target Detection**|Weiwei Duan et.al.|[2406.06949](http://arxiv.org/abs/2406.06949)|**[link](https://github.com/uestc-nnlab/tridos)**|
+|**2024-06-04**|**Multi-Scale Direction-Aware Network for Infrared Small Target Detection**|Jinmiao Zhao et.al.|[2406.02037](http://arxiv.org/abs/2406.02037)|null|
+|**2024-06-02**|**Diff-Mosaic: Augmenting Realistic Representations in Infrared Small Target Detection via Diffusion Prior**|Yukai Shi et.al.|[2406.00632](http://arxiv.org/abs/2406.00632)|**[link](https://github.com/yupeilin2388/diff-mosaic)**|
+
+## Mamba
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-19**|**STREAM: A Universal State-Space Model for Sparse Geometric Data**|Mark Schöne et.al.|[2411.12603](http://arxiv.org/abs/2411.12603)|null|
+|**2024-11-19**|**Unlocking State-Tracking in Linear RNNs Through Negative Eigenvalues**|Riccardo Grazzi et.al.|[2411.12537](http://arxiv.org/abs/2411.12537)|null|
+|**2024-11-19**|**Contrast Similarity-Aware Dual-Pathway Mamba for Multivariate Time Series Node Classification**|Mingsen Du et.al.|[2411.12222](http://arxiv.org/abs/2411.12222)|null|
+|**2024-11-18**|**KAN-Mamba FusionNet: Redefining Medical Image Segmentation with Non-Linear Modeling**|Akansh Agrawal et.al.|[2411.11926](http://arxiv.org/abs/2411.11926)|null|
+|**2024-11-16**|**$\text{S}^{3}$ Mamba: Arbitrary-Scale Super-Resolution via Scaleable State Space Model**|Peizhe Xia et.al.|[2411.11906](http://arxiv.org/abs/2411.11906)|null|
+|**2024-11-18**|**Bi-Mamba: Towards Accurate 1-Bit State Space Models**|Shengkun Tang et.al.|[2411.11843](http://arxiv.org/abs/2411.11843)|null|
+|**2024-11-18**|**RAWMamba: Unified sRGB-to-RAW De-rendering With State Space Model**|Hongjun Chen et.al.|[2411.11717](http://arxiv.org/abs/2411.11717)|null|
+|**2024-11-15**|**SoftLMs: Efficient Adaptive Low-Rank Approximation of Language Models using Soft-Thresholding Mechanism**|Priyansh Bhatnagar et.al.|[2411.10543](http://arxiv.org/abs/2411.10543)|null|
+|**2024-11-15**|**M-VAR: Decoupled Scale-wise Autoregressive Modeling for High-Quality Image Generation**|Sucheng Ren et.al.|[2411.10433](http://arxiv.org/abs/2411.10433)|**[link](https://github.com/oliverrensu/mvar)**|
+|**2024-11-15**|**XLSR-Mamba: A Dual-Column Bidirectional State Space Model for Spoofing Attack Detection**|Yang Xiao et.al.|[2411.10027](http://arxiv.org/abs/2411.10027)|null|
+|**2024-11-14**|**When Mamba Meets xLSTM: An Efficient and Precise Method with the XLSTM-VMUNet Model for Skin lesion Segmentation**|Zhuoyi Fang et.al.|[2411.09363](http://arxiv.org/abs/2411.09363)|null|
+|**2024-11-13**|**Multimodal Instruction Tuning with Hybrid State Space Models**|Jianing Zhou et.al.|[2411.08840](http://arxiv.org/abs/2411.08840)|null|
+|**2024-11-13**|**MambaXCTrack: Mamba-based Tracker with SSM Cross-correlation and Motion Prompt for Ultrasound Needle Tracking**|Yuelin Zhang et.al.|[2411.08395](http://arxiv.org/abs/2411.08395)|null|
+|**2024-11-12**|**CT-Mamba: A Hybrid Convolutional State Space Model for Low-Dose CT Denoising**|Linxuan Li et.al.|[2411.07930](http://arxiv.org/abs/2411.07930)|null|
+|**2024-11-12**|**Diverse capability and scaling of diffusion and auto-regressive models when learning abstract rules**|Binxu Wang et.al.|[2411.07873](http://arxiv.org/abs/2411.07873)|null|
+|**2024-11-12**|**CDXFormer: Boosting Remote Sensing Change Detection with Extended Long Short-Term Memory**|Zhenkai Wu et.al.|[2411.07863](http://arxiv.org/abs/2411.07863)|**[link](https://github.com/xwmaxwma/rschange)**|
+|**2024-11-12**|**SAV-SE: Scene-aware Audio-Visual Speech Enhancement with Selective State Space Model**|Xinyuan Qian et.al.|[2411.07751](http://arxiv.org/abs/2411.07751)|null|
+|**2024-11-12**|**MaDiNet: Mamba Diffusion Network for SAR Target Detection**|Jie Zhou et.al.|[2411.07500](http://arxiv.org/abs/2411.07500)|**[link](https://github.com/joyezlearning/madinet)**|
+|**2024-11-11**|**AEROMamba: An efficient architecture for audio super-resolution using generative adversarial networks and state space models**|Wallace Abreu et.al.|[2411.07364](http://arxiv.org/abs/2411.07364)|null|
+|**2024-11-11**|**Mamba-based Decoder-Only Approach with Bidirectional Speech Modeling for Speech Recognition**|Yoshiki Masuyama et.al.|[2411.06968](http://arxiv.org/abs/2411.06968)|**[link](https://github.com/YoshikiMas/madeon-asr)**|
+
+[contributors-shield]: https://img.shields.io/github/contributors/Fortuneteller6/IRSTD-Arxiv-Daily.svg?style=for-the-badge
+[contributors-url]: https://github.com/Fortuneteller6/IRSTD-Arxiv-Daily/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Fortuneteller6/IRSTD-Arxiv-Daily.svg?style=for-the-badge
+[forks-url]: https://github.com/Fortuneteller6/IRSTD-Arxiv-Daily/network/members
+[stars-shield]: https://img.shields.io/github/stars/Fortuneteller6/IRSTD-Arxiv-Daily.svg?style=for-the-badge
+[stars-url]: https://github.com/Fortuneteller6/IRSTD-Arxiv-Daily/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Fortuneteller6/IRSTD-Arxiv-Daily.svg?style=for-the-badge
+[issues-url]: https://github.com/Fortuneteller6/IRSTD-Arxiv-Daily/issues
 
