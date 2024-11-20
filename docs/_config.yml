@@ -1,10 +1,10 @@
-title: CV Arxiv Daily
+title: IRSTD-Arxiv-Daily
 description: Automatically Update CV Papers Daily using Github Actions (Update Every 8th hours)
 show_downloads: true
 
 github:
-  zip_url: https://github.com/Vincentqyw/cv-arxiv-daily
-  another_url: https://github.com/Vincentqyw/cv-arxiv-daily
+  zip_url: https://github.com/Fortuneteller6/IRSTD-Arxiv-Daily
+  another_url: https://github.com/Fortuneteller6/IRSTD-Arxiv-Daily
 
 ## add remote theme
 remote_theme: jekyll/minima@v2.5.1
