@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.20
+## Updated on 2024.11.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -59,7 +59,7 @@
 |**2024-10-04**|**Mapping Degeneration Meets Label Evolution: Learning Infrared Small Target Detection with Single Point Supervision**|Xinyi Ying et.al.|[2304.01484](http://arxiv.org/abs/2304.01484)|**[link](https://github.com/xinyiying/lesps)**|
 |**2023-03-18**|**ABC: Attention with Bilinear Correlation for Infrared Small Target Detection**|Peiwen Pan et.al.|[2303.10321](http://arxiv.org/abs/2303.10321)|**[link](https://github.com/panpeiwen/abc)**|
 
-<p align=right>(<a href=#updated-on-20241120>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241121>back to top</a>)</p>
 
 ## Mamba
 
@@ -67,7 +67,7 @@
 |---|---|---|---|---|
 |**2024-11-19**|**STREAM: A Universal State-Space Model for Sparse Geometric Data**|Mark Schöne et.al.|[2411.12603](http://arxiv.org/abs/2411.12603)|null|
 |**2024-11-19**|**Unlocking State-Tracking in Linear RNNs Through Negative Eigenvalues**|Riccardo Grazzi et.al.|[2411.12537](http://arxiv.org/abs/2411.12537)|null|
-|**2024-11-19**|**Contrast Similarity-Aware Dual-Pathway Mamba for Multivariate Time Series Node Classification**|Mingsen Du et.al.|[2411.12222](http://arxiv.org/abs/2411.12222)|null|
+|**2024-11-19**|**Contrast Similarity-Aware Dual-Pathway Mamba for Multivariate Time Series Node Classification**|Mingsen Du et.al.|[2411.12222](http://arxiv.org/abs/2411.12222)|**[link](https://github.com/dumingsen/DPMamba)**|
 |**2024-11-18**|**KAN-Mamba FusionNet: Redefining Medical Image Segmentation with Non-Linear Modeling**|Akansh Agrawal et.al.|[2411.11926](http://arxiv.org/abs/2411.11926)|null|
 |**2024-11-16**|**$\text{S}^{3}$ Mamba: Arbitrary-Scale Super-Resolution via Scaleable State Space Model**|Peizhe Xia et.al.|[2411.11906](http://arxiv.org/abs/2411.11906)|null|
 |**2024-11-18**|**Bi-Mamba: Towards Accurate 1-Bit State Space Models**|Shengkun Tang et.al.|[2411.11843](http://arxiv.org/abs/2411.11843)|null|
@@ -106,7 +106,7 @@
 |**2024-10-31**|**NIMBA: Towards Robust and Principled Processing of Point Clouds With SSMs**|Nursena Köprücü et.al.|[2411.00151](http://arxiv.org/abs/2411.00151)|null|
 |**2024-11-01**|**Dynamical similarity analysis uniquely captures how computations develop in RNNs**|Quentin Guilhot et.al.|[2410.24070](http://arxiv.org/abs/2410.24070)|**[link](https://github.com/qglht/repal)**|
 
-<p align=right>(<a href=#updated-on-20241120>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241121>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Fortuneteller6/IRSTD-Arxiv-Daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Fortuneteller6/IRSTD-Arxiv-Daily/graphs/contributors

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.20
+## Updated on 2024.11.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## IRSTD
@@ -61,7 +61,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-11-19**|**STREAM: A Universal State-Space Model for Sparse Geometric Data**|Mark Schöne et.al.|[2411.12603](http://arxiv.org/abs/2411.12603)|null|
 |**2024-11-19**|**Unlocking State-Tracking in Linear RNNs Through Negative Eigenvalues**|Riccardo Grazzi et.al.|[2411.12537](http://arxiv.org/abs/2411.12537)|null|
-|**2024-11-19**|**Contrast Similarity-Aware Dual-Pathway Mamba for Multivariate Time Series Node Classification**|Mingsen Du et.al.|[2411.12222](http://arxiv.org/abs/2411.12222)|null|
+|**2024-11-19**|**Contrast Similarity-Aware Dual-Pathway Mamba for Multivariate Time Series Node Classification**|Mingsen Du et.al.|[2411.12222](http://arxiv.org/abs/2411.12222)|**[link](https://github.com/dumingsen/DPMamba)**|
 |**2024-11-18**|**KAN-Mamba FusionNet: Redefining Medical Image Segmentation with Non-Linear Modeling**|Akansh Agrawal et.al.|[2411.11926](http://arxiv.org/abs/2411.11926)|null|
 |**2024-11-16**|**$\text{S}^{3}$ Mamba: Arbitrary-Scale Super-Resolution via Scaleable State Space Model**|Peizhe Xia et.al.|[2411.11906](http://arxiv.org/abs/2411.11906)|null|
 |**2024-11-18**|**Bi-Mamba: Towards Accurate 1-Bit State Space Models**|Shengkun Tang et.al.|[2411.11843](http://arxiv.org/abs/2411.11843)|null|
