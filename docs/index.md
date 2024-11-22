@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.21
+## Updated on 2024.11.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## IRSTD
@@ -93,7 +93,7 @@ layout: default
 |**2024-11-05**|**A Mamba Foundation Model for Time Series Forecasting**|Haoyu Ma et.al.|[2411.02941](http://arxiv.org/abs/2411.02941)|null|
 |**2024-11-12**|**LE-PDE++: Mamba for accelerating PDEs Simulations**|Aoming Liang et.al.|[2411.01897](http://arxiv.org/abs/2411.01897)|null|
 |**2024-11-03**|**Optical Flow Representation Alignment Mamba Diffusion Model for Medical Video Generation**|Zhenbin Wang et.al.|[2411.01647](http://arxiv.org/abs/2411.01647)|null|
-|**2024-11-03**|**BiT-MamSleep: Bidirectional Temporal Mamba for EEG Sleep Staging**|Xinliang Zhou et.al.|[2411.01589](http://arxiv.org/abs/2411.01589)|null|
+|**2024-11-21**|**BiT-MamSleep: Bidirectional Temporal Mamba for EEG Sleep Staging**|Xinliang Zhou et.al.|[2411.01589](http://arxiv.org/abs/2411.01589)|null|
 |**2024-11-03**|**MambaReg: Mamba-Based Disentangled Convolutional Sparse Coding for Unsupervised Deformable Multi-Modal Image Registration**|Kaiang Wen et.al.|[2411.01399](http://arxiv.org/abs/2411.01399)|null|
 |**2024-11-05**|**A versatile framework for attitude tuning of beamlines at advanced light sources**|Peng-Cheng Li et.al.|[2411.01278](http://arxiv.org/abs/2411.01278)|null|
 |**2024-11-05**|**Beyond the EPICS: comprehensive Python IOC development with QueueIOC**|Peng-Cheng Li et.al.|[2411.01258](http://arxiv.org/abs/2411.01258)|null|
