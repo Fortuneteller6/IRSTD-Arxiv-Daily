@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.24
+## Updated on 2024.11.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## IRSTD
@@ -61,7 +61,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-11-21**|**BEST-STD: Bidirectional Mamba-Enhanced Speech Tokenization for Spoken Term Detection**|Anup Singh et.al.|[2411.14100](http://arxiv.org/abs/2411.14100)|null|
-|**2024-11-19**|**STREAM: A Universal State-Space Model for Sparse Geometric Data**|Mark Schöne et.al.|[2411.12603](http://arxiv.org/abs/2411.12603)|null|
+|**2024-11-22**|**STREAM: A Universal State-Space Model for Sparse Geometric Data**|Mark Schöne et.al.|[2411.12603](http://arxiv.org/abs/2411.12603)|null|
 |**2024-11-19**|**Unlocking State-Tracking in Linear RNNs Through Negative Eigenvalues**|Riccardo Grazzi et.al.|[2411.12537](http://arxiv.org/abs/2411.12537)|null|
 |**2024-11-19**|**Contrast Similarity-Aware Dual-Pathway Mamba for Multivariate Time Series Node Classification**|Mingsen Du et.al.|[2411.12222](http://arxiv.org/abs/2411.12222)|null|
 |**2024-11-18**|**KAN-Mamba FusionNet: Redefining Medical Image Segmentation with Non-Linear Modeling**|Akansh Agrawal et.al.|[2411.11926](http://arxiv.org/abs/2411.11926)|null|
