@@ -37,7 +37,7 @@
 |**2024-07-10**|**IRSAM: Advancing Segment Anything Model for Infrared Small Target Detection**|Mingjin Zhang et.al.|[2407.07520](http://arxiv.org/abs/2407.07520)|**[link](https://github.com/ipic-lab/irsam)**|
 |**2024-06-19**|**Lost in UNet: Improving Infrared Small Target Detection by Underappreciated Local Features**|Wuzhou Quan et.al.|[2406.13445](http://arxiv.org/abs/2406.13445)|**[link](https://github.com/wuzhou-quan/hintu)**|
 |**2024-09-05**|**Triple-domain Feature Learning with Frequency-aware Memory Enhancement for Moving Infrared Small Target Detection**|Weiwei Duan et.al.|[2406.06949](http://arxiv.org/abs/2406.06949)|**[link](https://github.com/uestc-nnlab/tridos)**|
-|**2024-06-04**|**Multi-Scale Direction-Aware Network for Infrared Small Target Detection**|Jinmiao Zhao et.al.|[2406.02037](http://arxiv.org/abs/2406.02037)|null|
+|**2024-11-25**|**Multi-Scale Direction-Aware Network for Infrared Small Target Detection**|Jinmiao Zhao et.al.|[2406.02037](http://arxiv.org/abs/2406.02037)|null|
 |**2024-06-02**|**Diff-Mosaic: Augmenting Realistic Representations in Infrared Small Target Detection via Diffusion Prior**|Yukai Shi et.al.|[2406.00632](http://arxiv.org/abs/2406.00632)|**[link](https://github.com/yupeilin2388/diff-mosaic)**|
 |**2024-03-28**|**Infrared Small Target Detection with Scale and Location Sensitivity**|Qiankun Liu et.al.|[2403.19366](http://arxiv.org/abs/2403.19366)|**[link](https://github.com/ying-fu/mshnet)**|
 |**2024-03-13**|**Mitigate Target-level Insensitivity of Infrared Small Target Detection via Posterior Distribution Modeling**|Haoqing Li et.al.|[2403.08380](http://arxiv.org/abs/2403.08380)|**[link](https://github.com/li-haoqing/irstd-diff)**|
@@ -66,6 +66,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-25**|**Deformable Mamba for Wide Field of View Segmentation**|Jie Hu et.al.|[2411.16481](http://arxiv.org/abs/2411.16481)|**[link](https://github.com/jiehu1996/deformablemamba)**|
+|**2024-11-25**|**M3: Mamba-assisted Multi-Circuit Optimization via MBRL with Effective Scheduling**|Youngmin Oh et.al.|[2411.16019](http://arxiv.org/abs/2411.16019)|null|
+|**2024-11-24**|**MobileMamba: Lightweight Multi-Receptive Visual Mamba Network**|Haoyang He et.al.|[2411.15941](http://arxiv.org/abs/2411.15941)|null|
+|**2024-11-24**|**MambaTrack: Exploiting Dual-Enhancement for Night UAV Tracking**|Chunhui Zhang et.al.|[2411.15761](http://arxiv.org/abs/2411.15761)|null|
+|**2024-11-23**|**Mamba-CL: Optimizing Selective State Space Model in Null Space for Continual Learning**|De Cheng et.al.|[2411.15469](http://arxiv.org/abs/2411.15469)|null|
+|**2024-11-23**|**MambaVLT: Time-Evolving Multimodal State Space Model for Vision-Language Tracking**|Xinqi Liu et.al.|[2411.15459](http://arxiv.org/abs/2411.15459)|null|
+|**2024-11-23**|**MUFM: A Mamba-Enhanced Feedback Model for Micro Video Popularity Prediction**|Jiacheng Lu et.al.|[2411.15455](http://arxiv.org/abs/2411.15455)|null|
+|**2024-11-22**|**MambaIRv2: Attentive State Space Restoration**|Hang Guo et.al.|[2411.15269](http://arxiv.org/abs/2411.15269)|**[link](https://github.com/csguoh/mambair)**|
+|**2024-11-22**|**OSMamba: Omnidirectional Spectral Mamba with Dual-Domain Prior Generator for Exposure Correction**|Gehui Li et.al.|[2411.15255](http://arxiv.org/abs/2411.15255)|null|
+|**2024-11-22**|**EfficientViM: Efficient Vision Mamba with Hidden State Mixer based State Space Duality**|Sanghyeok Lee et.al.|[2411.15241](http://arxiv.org/abs/2411.15241)|**[link](https://github.com/mlvlab/EfficientViM)**|
+|**2024-11-21**|**Parameter Efficient Mamba Tuning via Projector-targeted Diagonal-centric Linear Transformation**|Seokil Ham et.al.|[2411.15224](http://arxiv.org/abs/2411.15224)|null|
 |**2024-11-21**|**BEST-STD: Bidirectional Mamba-Enhanced Speech Tokenization for Spoken Term Detection**|Anup Singh et.al.|[2411.14100](http://arxiv.org/abs/2411.14100)|null|
 |**2024-11-22**|**STREAM: A Universal State-Space Model for Sparse Geometric Data**|Mark Schöne et.al.|[2411.12603](http://arxiv.org/abs/2411.12603)|null|
 |**2024-11-19**|**Unlocking State-Tracking in Linear RNNs Through Negative Eigenvalues**|Riccardo Grazzi et.al.|[2411.12537](http://arxiv.org/abs/2411.12537)|null|
@@ -77,7 +88,7 @@
 |**2024-11-15**|**SoftLMs: Efficient Adaptive Low-Rank Approximation of Language Models using Soft-Thresholding Mechanism**|Priyansh Bhatnagar et.al.|[2411.10543](http://arxiv.org/abs/2411.10543)|null|
 |**2024-11-15**|**M-VAR: Decoupled Scale-wise Autoregressive Modeling for High-Quality Image Generation**|Sucheng Ren et.al.|[2411.10433](http://arxiv.org/abs/2411.10433)|**[link](https://github.com/oliverrensu/mvar)**|
 |**2024-11-15**|**XLSR-Mamba: A Dual-Column Bidirectional State Space Model for Spoofing Attack Detection**|Yang Xiao et.al.|[2411.10027](http://arxiv.org/abs/2411.10027)|null|
-|**2024-11-14**|**When Mamba Meets xLSTM: An Efficient and Precise Method with the XLSTM-VMUNet Model for Skin lesion Segmentation**|Zhuoyi Fang et.al.|[2411.09363](http://arxiv.org/abs/2411.09363)|null|
+|**2024-11-25**|**When Mamba Meets xLSTM: An Efficient and Precise Method with the XLSTM-VMUNet Model for Skin lesion Segmentation**|Zhuoyi Fang et.al.|[2411.09363](http://arxiv.org/abs/2411.09363)|null|
 |**2024-11-13**|**Multimodal Instruction Tuning with Hybrid State Space Models**|Jianing Zhou et.al.|[2411.08840](http://arxiv.org/abs/2411.08840)|null|
 |**2024-11-13**|**MambaXCTrack: Mamba-based Tracker with SSM Cross-correlation and Motion Prompt for Ultrasound Needle Tracking**|Yuelin Zhang et.al.|[2411.08395](http://arxiv.org/abs/2411.08395)|null|
 |**2024-11-12**|**CT-Mamba: A Hybrid Convolutional State Space Model for Low-Dose CT Denoising**|Linxuan Li et.al.|[2411.07930](http://arxiv.org/abs/2411.07930)|null|
