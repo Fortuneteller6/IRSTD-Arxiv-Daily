@@ -66,6 +66,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-27**|**Vision Mamba Distillation for Low-resolution Fine-grained Image Classification**|Yao Chen et.al.|[2411.17980](http://arxiv.org/abs/2411.17980)|**[link](https://github.com/boa2004plaust/vimd)**|
+|**2024-11-26**|**MTS-UNMixers: Multivariate Time Series Forecasting via Channel-Time Dual Unmixing**|Xuanbing Zhu et.al.|[2411.17770](http://arxiv.org/abs/2411.17770)|**[link](https://github.com/zhu-0108/mts-unmixers)**|
 |**2024-11-26**|**TinyViM: Frequency Decoupling for Tiny Hybrid Vision Mamba**|Xiaowen Ma et.al.|[2411.17473](http://arxiv.org/abs/2411.17473)|**[link](https://github.com/xwmaxwma/tinyvim)**|
 |**2024-11-26**|**On the Efficiency of NLP-Inspired Methods for Tabular Deep Learning**|Anton Frederik Thielmann et.al.|[2411.17207](http://arxiv.org/abs/2411.17207)|**[link](https://github.com/basf/mamba-tabular)**|
 |**2024-11-25**|**Deformable Mamba for Wide Field of View Segmentation**|Jie Hu et.al.|[2411.16481](http://arxiv.org/abs/2411.16481)|**[link](https://github.com/jiehu1996/deformablemamba)**|
