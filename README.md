@@ -66,6 +66,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-29**|**RMIO: A Model-Based MARL Framework for Scenarios with Observation Loss in Some Agents**|Shi Zifeng et.al.|[2411.19639](http://arxiv.org/abs/2411.19639)|null|
+|**2024-11-28**|**MSEMG: Surface Electromyography Denoising with a Mamba-based Efficient Network**|Yu-Tung Liu et.al.|[2411.18902](http://arxiv.org/abs/2411.18902)|null|
 |**2024-11-27**|**Vision Mamba Distillation for Low-resolution Fine-grained Image Classification**|Yao Chen et.al.|[2411.17980](http://arxiv.org/abs/2411.17980)|**[link](https://github.com/boa2004plaust/vimd)**|
 |**2024-11-26**|**MTS-UNMixers: Multivariate Time Series Forecasting via Channel-Time Dual Unmixing**|Xuanbing Zhu et.al.|[2411.17770](http://arxiv.org/abs/2411.17770)|**[link](https://github.com/zhu-0108/mts-unmixers)**|
 |**2024-11-26**|**TinyViM: Frequency Decoupling for Tiny Hybrid Vision Mamba**|Xiaowen Ma et.al.|[2411.17473](http://arxiv.org/abs/2411.17473)|**[link](https://github.com/xwmaxwma/tinyvim)**|
@@ -95,7 +97,7 @@
 |**2024-11-25**|**When Mamba Meets xLSTM: An Efficient and Precise Method with the XLSTM-VMUNet Model for Skin lesion Segmentation**|Zhuoyi Fang et.al.|[2411.09363](http://arxiv.org/abs/2411.09363)|**[link](https://github.com/fangzhuoyi/xlstm-vmunet)**|
 |**2024-11-13**|**Multimodal Instruction Tuning with Hybrid State Space Models**|Jianing Zhou et.al.|[2411.08840](http://arxiv.org/abs/2411.08840)|null|
 |**2024-11-13**|**MambaXCTrack: Mamba-based Tracker with SSM Cross-correlation and Motion Prompt for Ultrasound Needle Tracking**|Yuelin Zhang et.al.|[2411.08395](http://arxiv.org/abs/2411.08395)|null|
-|**2024-11-12**|**CT-Mamba: A Hybrid Convolutional State Space Model for Low-Dose CT Denoising**|Linxuan Li et.al.|[2411.07930](http://arxiv.org/abs/2411.07930)|null|
+|**2024-11-29**|**CT-Mamba: A Hybrid Convolutional State Space Model for Low-Dose CT Denoising**|Linxuan Li et.al.|[2411.07930](http://arxiv.org/abs/2411.07930)|null|
 |**2024-11-12**|**Diverse capability and scaling of diffusion and auto-regressive models when learning abstract rules**|Binxu Wang et.al.|[2411.07873](http://arxiv.org/abs/2411.07873)|null|
 |**2024-11-12**|**CDXFormer: Boosting Remote Sensing Change Detection with Extended Long Short-Term Memory**|Zhenkai Wu et.al.|[2411.07863](http://arxiv.org/abs/2411.07863)|**[link](https://github.com/xwmaxwma/rschange)**|
 |**2024-11-12**|**SAV-SE: Scene-aware Audio-Visual Speech Enhancement with Selective State Space Model**|Xinyuan Qian et.al.|[2411.07751](http://arxiv.org/abs/2411.07751)|null|
