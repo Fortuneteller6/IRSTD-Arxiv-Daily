@@ -119,10 +119,10 @@ layout: default
 |**2024-11-11**|**Mamba-based Decoder-Only Approach with Bidirectional Speech Modeling for Speech Recognition**|Yoshiki Masuyama et.al.|[2411.06968](http://arxiv.org/abs/2411.06968)|**[link](https://github.com/YoshikiMas/madeon-asr)**|
 |**2024-11-11**|**LA4SR: illuminating the dark proteome with generative AI**|David R. Nelson et.al.|[2411.06798](http://arxiv.org/abs/2411.06798)|null|
 |**2024-11-11**|**LFSamba: Marry SAM with Mamba for Light Field Salient Object Detection**|Zhengyi Liu et.al.|[2411.06652](http://arxiv.org/abs/2411.06652)|null|
-|**2024-11-10**|**KMM: Key Frame Mask Mamba for Extended Motion Generation**|Zeyu Zhang et.al.|[2411.06481](http://arxiv.org/abs/2411.06481)|null|
+|**2024-11-10**|**KMM: Key Frame Mask Mamba for Extended Motion Generation**|Zeyu Zhang et.al.|[2411.06481](http://arxiv.org/abs/2411.06481)|**[link](https://github.com/steve-zeyu-zhang/KMM)**|
 |**2024-11-10**|**SEM-Net: Efficient Pixel Modelling for image inpainting with Spatially Enhanced SSM**|Shuang Chen et.al.|[2411.06318](http://arxiv.org/abs/2411.06318)|**[link](https://github.com/chrischen1023/sem-net)**|
 |**2024-11-09**|**Selective State Space Model for Monaural Speech Enhancement**|Moran Chen et.al.|[2411.06217](http://arxiv.org/abs/2411.06217)|null|
-|**2024-11-06**|**DiMSUM: Diffusion Mamba -- A Scalable and Unified Spatial-Frequency Method for Image Generation**|Hao Phung et.al.|[2411.04168](http://arxiv.org/abs/2411.04168)|null|
+|**2024-11-06**|**DiMSUM: Diffusion Mamba -- A Scalable and Unified Spatial-Frequency Method for Image Generation**|Hao Phung et.al.|[2411.04168](http://arxiv.org/abs/2411.04168)|**[link](https://github.com/vinairesearch/dimsum)**|
 |**2024-11-06**|**Can Custom Models Learn In-Context? An Exploration of Hybrid Architecture Performance on In-Context Learning Tasks**|Ryan Campbell et.al.|[2411.03945](http://arxiv.org/abs/2411.03945)|**[link](https://github.com/in-context-learning-2024/in-context)**|
 |**2024-11-06**|**MambaPEFT: Exploring Parameter-Efficient Fine-Tuning for Mamba**|Masakazu Yoshimura et.al.|[2411.03855](http://arxiv.org/abs/2411.03855)|null|
 |**2024-11-06**|**Towards 3D Semantic Scene Completion for Autonomous Driving: A Meta-Learning Framework Empowered by Deformable Large-Kernel Attention and Mamba Model**|Yansong Qu et.al.|[2411.03672](http://arxiv.org/abs/2411.03672)|null|
