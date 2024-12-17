@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-15**|**From Easy to Hard: Progressive Active Learning Framework for Infrared Small Target Detection with Single Point Supervision**|Chuang Yu et.al.|[2412.11154](http://arxiv.org/abs/2412.11154)|**[link](https://github.com/yuchuang1205/pal)**|
 |**2024-11-20**|**Paying more attention to local contrast: improving infrared small target detection performance via prior knowledge**|Peichao Wang et.al.|[2411.13260](http://arxiv.org/abs/2411.13260)|null|
 |**2024-10-09**|**Robust infrared small target detection using self-supervised and a contrario paradigms**|Alina Ciocarlan et.al.|[2410.07437](http://arxiv.org/abs/2410.07437)|null|
 |**2024-09-29**|**Gradient is All You Need: Gradient-Based Attention Fusion for Infrared Small Target Detection**|Chen Hu et.al.|[2409.19599](http://arxiv.org/abs/2409.19599)|null|
@@ -60,6 +61,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-15**|**A Comparative Study on Dynamic Graph Embedding based on Mamba and Transformers**|Ashish Parmanand Pandey et.al.|[2412.11293](http://arxiv.org/abs/2412.11293)|null|
+|**2024-12-15**|**Light-T2M: A Lightweight and Fast Model for Text-to-motion Generation**|Ling-An Zeng et.al.|[2412.11193](http://arxiv.org/abs/2412.11193)|null|
+|**2024-12-15**|**OccScene: Semantic Occupancy-based Cross-task Mutual Learning for 3D Scene Generation**|Bohan Li et.al.|[2412.11183](http://arxiv.org/abs/2412.11183)|null|
+|**2024-12-15**|**BarcodeMamba: State Space Models for Biodiversity Analysis**|Tiancheng Gao et.al.|[2412.11084](http://arxiv.org/abs/2412.11084)|**[link](https://github.com/bioscan-ml/barcodemamba)**|
+|**2024-12-15**|**Exploring Enhanced Contextual Information for Video-Level Object Tracking**|Ben Kang et.al.|[2412.11023](http://arxiv.org/abs/2412.11023)|**[link](https://github.com/kangben258/MCITrack)**|
+|**2024-12-14**|**MASV: Speaker Verification with Global and Local Context Mamba**|Yang Liu et.al.|[2412.10989](http://arxiv.org/abs/2412.10989)|null|
+|**2024-12-14**|**MambaPro: Multi-Modal Object Re-Identification with Mamba Aggregation and Synergistic Prompt**|Yuhao Wang et.al.|[2412.10707](http://arxiv.org/abs/2412.10707)|**[link](https://github.com/924973292/mambapro)**|
 |**2024-12-13**|**XYScanNet: An Interpretable State Space Model for Perceptual Image Deblurring**|Hanzhou Liu et.al.|[2412.10338](http://arxiv.org/abs/2412.10338)|null|
 |**2024-12-13**|**SCBench: A KV Cache-Centric Analysis of Long-Context Methods**|Yucheng Li et.al.|[2412.10319](http://arxiv.org/abs/2412.10319)|null|
 |**2024-12-13**|**Selective State Space Memory for Large Vision-Language Models**|Chee Ng et.al.|[2412.09875](http://arxiv.org/abs/2412.09875)|null|
@@ -68,7 +76,7 @@ layout: default
 |**2024-12-12**|**Selective Visual Prompting in Vision Mamba**|Yifeng Yao et.al.|[2412.08947](http://arxiv.org/abs/2412.08947)|null|
 |**2024-12-11**|**SAM-Mamba: Mamba Guided SAM Architecture for Generalized Zero-Shot Polyp Segmentation**|Tapas Kumar Dutta et.al.|[2412.08482](http://arxiv.org/abs/2412.08482)|null|
 |**2024-12-11**|**LOMA: Language-assisted Semantic Occupancy Network via Triplane Mamba**|Yubo Cui et.al.|[2412.08388](http://arxiv.org/abs/2412.08388)|null|
-|**2024-12-13**|**DG-Mamba: Robust and Efficient Dynamic Graph Structure Learning with Selective State Space Models**|Haonan Yuan et.al.|[2412.08160](http://arxiv.org/abs/2412.08160)|**[link](https://github.com/RingBDStack/DG-Mamba)**|
+|**2024-12-16**|**DG-Mamba: Robust and Efficient Dynamic Graph Structure Learning with Selective State Space Models**|Haonan Yuan et.al.|[2412.08160](http://arxiv.org/abs/2412.08160)|**[link](https://github.com/RingBDStack/DG-Mamba)**|
 |**2024-12-10**|**Manta: Enhancing Mamba for Few-Shot Action Recognition of Long Sub-Sequence**|Wenbo Huang et.al.|[2412.07481](http://arxiv.org/abs/2412.07481)|null|
 |**2024-12-10**|**Bidirectional Mamba state-space model for anomalous diffusion**|Maxime Lavaud et.al.|[2412.07299](http://arxiv.org/abs/2412.07299)|null|
 |**2024-12-10**|**MPSI: Mamba enhancement model for pixel-wise sequential interaction Image Super-Resolution**|Yuchun He et.al.|[2412.07222](http://arxiv.org/abs/2412.07222)|null|
