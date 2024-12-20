@@ -61,7 +61,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-18**|**MambaLCT: Boosting Tracking via Long-term Context State Space Model**|Xiaohai Li et.al.|[2412.13615](http://arxiv.org/abs/2412.13615)|null|
+|**2024-12-19**|**{S $^3$ -Mamba}: Small-Size-Sensitive Mamba for Lesion Segmentation**|Gui Wang et.al.|[2412.14546](http://arxiv.org/abs/2412.14546)|null|
+|**2024-12-19**|**Efficient Self-Supervised Video Hashing with Selective State Spaces**|Jinpeng Wang et.al.|[2412.14518](http://arxiv.org/abs/2412.14518)|**[link](https://github.com/gimpong/AAAI25-S5VH)**|
+|**2024-12-18**|**State Space Models are Strong Text Rerankers**|Zhichao Xu et.al.|[2412.14354](http://arxiv.org/abs/2412.14354)|null|
+|**2024-12-18**|**MambaLCT: Boosting Tracking via Long-term Context State Space Model**|Xiaohai Li et.al.|[2412.13615](http://arxiv.org/abs/2412.13615)|**[link](https://github.com/gxnu-zhonglab/mambalct)**|
 |**2024-12-18**|**Robust Tracking via Mamba-based Context-aware Token Learning**|Jinxia Xie et.al.|[2412.13611](http://arxiv.org/abs/2412.13611)|null|
 |**2024-12-18**|**TAME: Temporal Audio-based Mamba for Enhanced Drone Trajectory Estimation and Classification**|Zhenyuan Xiao et.al.|[2412.13037](http://arxiv.org/abs/2412.13037)|**[link](https://github.com/AmazingDay1/TAME)**|
 |**2024-12-17**|**Faster Vision Mamba is Rebuilt in Minutes via Merged Token Re-training**|Mingjia Shi et.al.|[2412.12496](http://arxiv.org/abs/2412.12496)|**[link](https://github.com/NUS-HPC-AI-Lab/R-MeeTo)**|
@@ -81,7 +84,7 @@ layout: default
 |**2024-12-12**|**Selective Visual Prompting in Vision Mamba**|Yifeng Yao et.al.|[2412.08947](http://arxiv.org/abs/2412.08947)|null|
 |**2024-12-11**|**SAM-Mamba: Mamba Guided SAM Architecture for Generalized Zero-Shot Polyp Segmentation**|Tapas Kumar Dutta et.al.|[2412.08482](http://arxiv.org/abs/2412.08482)|null|
 |**2024-12-11**|**LOMA: Language-assisted Semantic Occupancy Network via Triplane Mamba**|Yubo Cui et.al.|[2412.08388](http://arxiv.org/abs/2412.08388)|null|
-|**2024-12-16**|**DG-Mamba: Robust and Efficient Dynamic Graph Structure Learning with Selective State Space Models**|Haonan Yuan et.al.|[2412.08160](http://arxiv.org/abs/2412.08160)|**[link](https://github.com/RingBDStack/DG-Mamba)**|
+|**2024-12-19**|**DG-Mamba: Robust and Efficient Dynamic Graph Structure Learning with Selective State Space Models**|Haonan Yuan et.al.|[2412.08160](http://arxiv.org/abs/2412.08160)|**[link](https://github.com/RingBDStack/DG-Mamba)**|
 |**2024-12-10**|**Manta: Enhancing Mamba for Few-Shot Action Recognition of Long Sub-Sequence**|Wenbo Huang et.al.|[2412.07481](http://arxiv.org/abs/2412.07481)|null|
 |**2024-12-10**|**Bidirectional Mamba state-space model for anomalous diffusion**|Maxime Lavaud et.al.|[2412.07299](http://arxiv.org/abs/2412.07299)|null|
 |**2024-12-10**|**MPSI: Mamba enhancement model for pixel-wise sequential interaction Image Super-Resolution**|Yuchun He et.al.|[2412.07222](http://arxiv.org/abs/2412.07222)|null|
