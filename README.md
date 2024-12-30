@@ -70,6 +70,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-26**|**Completion as Enhancement: A Degradation-Aware Selective Image Guided Network for Depth Completion**|Zhiqiang Yan et.al.|[2412.19225](http://arxiv.org/abs/2412.19225)|null|
+|**2024-12-26**|**BSDB-Net: Band-Split Dual-Branch Network with Selective State Spaces Mechanism for Monaural Speech Enhancement**|Cunhang Fan et.al.|[2412.19099](http://arxiv.org/abs/2412.19099)|null|
 |**2024-12-24**|**Exploring Graph Mamba: A Comprehensive Survey on State-Space Models for Graph Learning**|Safa Ben Atitallah et.al.|[2412.18322](http://arxiv.org/abs/2412.18322)|null|
 |**2024-12-24**|**U-Mamba-Net: A highly efficient Mamba-based U-net style network for noisy and reverberant speech separation**|Shaoxiang Dang et.al.|[2412.18217](http://arxiv.org/abs/2412.18217)|null|
 |**2024-12-24**|**COMO: Cross-Mamba Interaction and Offset-Guided Fusion for Multimodal Object Detection**|Chang Liu et.al.|[2412.18076](http://arxiv.org/abs/2412.18076)|null|
