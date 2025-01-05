@@ -65,6 +65,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-02**|**A Unified Hyperparameter Optimization Pipeline for Transformer-Based Time Series Forecasting Models**|Jingjing Xu et.al.|[2501.01394](http://arxiv.org/abs/2501.01394)|null|
+|**2025-01-02**|**Detail Matters: Mamba-Inspired Joint Unfolding Network for Snapshot Spectral Compressive Imaging**|Mengjie Qin et.al.|[2501.01262](http://arxiv.org/abs/2501.01262)|null|
+|**2025-01-02**|**CryptoMamba: Leveraging State Space Models for Accurate Bitcoin Price Prediction**|Mohammad Shahab Sepehri et.al.|[2501.01010](http://arxiv.org/abs/2501.01010)|null|
+|**2025-01-01**|**HCMA-UNet: A Hybrid CNN-Mamba UNet with Inter-Slice Self-Attention for Efficient Breast Cancer Segmentation**|Haoxuan Li et.al.|[2501.00751](http://arxiv.org/abs/2501.00751)|null|
 |**2024-12-29**|**PTQ4VM: Post-Training Quantization for Visual Mamba**|Younghyun Cho et.al.|[2412.20386](http://arxiv.org/abs/2412.20386)|null|
 |**2024-12-28**|**STNMamba: Mamba-based Spatial-Temporal Normality Learning for Video Anomaly Detection**|Zhangxun Li et.al.|[2412.20084](http://arxiv.org/abs/2412.20084)|null|
 |**2024-12-28**|**MambaVO: Deep Visual Odometry Based on Sequential Matching Refinement and Training Smoothing**|Shuo Wang et.al.|[2412.20082](http://arxiv.org/abs/2412.20082)|null|
