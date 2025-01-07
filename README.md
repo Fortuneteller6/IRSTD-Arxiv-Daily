@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.06
+## Updated on 2025.01.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -65,7 +65,7 @@
 |**2024-10-04**|**Mapping Degeneration Meets Label Evolution: Learning Infrared Small Target Detection with Single Point Supervision**|Xinyi Ying et.al.|[2304.01484](http://arxiv.org/abs/2304.01484)|**[link](https://github.com/xinyiying/lesps)**|
 |**2023-03-18**|**ABC: Attention with Bilinear Correlation for Infrared Small Target Detection**|Peiwen Pan et.al.|[2303.10321](http://arxiv.org/abs/2303.10321)|**[link](https://github.com/panpeiwen/abc)**|
 
-<p align=right>(<a href=#updated-on-20250106>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250107>back to top</a>)</p>
 
 ## Mamba
 
@@ -73,11 +73,11 @@
 |---|---|---|---|---|
 |**2025-01-03**|**Improved Feature Extraction Network for Neuro-Oriented Target Speaker Extraction**|Cunhang Fan et.al.|[2501.01673](http://arxiv.org/abs/2501.01673)|null|
 |**2025-01-03**|**Merging Context Clustering with Visual State Space Models for Medical Image Segmentation**|Yun Zhu et.al.|[2501.01618](http://arxiv.org/abs/2501.01618)|null|
-|**2025-01-02**|**A Unified Hyperparameter Optimization Pipeline for Transformer-Based Time Series Forecasting Models**|Jingjing Xu et.al.|[2501.01394](http://arxiv.org/abs/2501.01394)|null|
-|**2025-01-02**|**Detail Matters: Mamba-Inspired Joint Unfolding Network for Snapshot Spectral Compressive Imaging**|Mengjie Qin et.al.|[2501.01262](http://arxiv.org/abs/2501.01262)|null|
+|**2025-01-02**|**A Unified Hyperparameter Optimization Pipeline for Transformer-Based Time Series Forecasting Models**|Jingjing Xu et.al.|[2501.01394](http://arxiv.org/abs/2501.01394)|**[link](https://github.com/jingjing-unilu/HPO_transformer_time_series)**|
+|**2025-01-02**|**Detail Matters: Mamba-Inspired Joint Unfolding Network for Snapshot Spectral Compressive Imaging**|Mengjie Qin et.al.|[2501.01262](http://arxiv.org/abs/2501.01262)|**[link](https://github.com/mengjie-s/mijun)**|
 |**2025-01-02**|**CryptoMamba: Leveraging State Space Models for Accurate Bitcoin Price Prediction**|Mohammad Shahab Sepehri et.al.|[2501.01010](http://arxiv.org/abs/2501.01010)|null|
 |**2025-01-01**|**HCMA-UNet: A Hybrid CNN-Mamba UNet with Inter-Slice Self-Attention for Efficient Breast Cancer Segmentation**|Haoxuan Li et.al.|[2501.00751](http://arxiv.org/abs/2501.00751)|null|
-|**2024-12-29**|**PTQ4VM: Post-Training Quantization for Visual Mamba**|Younghyun Cho et.al.|[2412.20386](http://arxiv.org/abs/2412.20386)|null|
+|**2024-12-29**|**PTQ4VM: Post-Training Quantization for Visual Mamba**|Younghyun Cho et.al.|[2412.20386](http://arxiv.org/abs/2412.20386)|**[link](https://github.com/younghyun197/ptq4vm)**|
 |**2024-12-28**|**STNMamba: Mamba-based Spatial-Temporal Normality Learning for Video Anomaly Detection**|Zhangxun Li et.al.|[2412.20084](http://arxiv.org/abs/2412.20084)|null|
 |**2024-12-28**|**MambaVO: Deep Visual Odometry Based on Sequential Matching Refinement and Training Smoothing**|Shuo Wang et.al.|[2412.20082](http://arxiv.org/abs/2412.20082)|null|
 |**2024-12-28**|**MaIR: A Locality- and Continuity-Preserving Mamba for Image Restoration**|Boyun Li et.al.|[2412.20066](http://arxiv.org/abs/2412.20066)|null|
@@ -197,7 +197,7 @@
 |**2024-10-31**|**NIMBA: Towards Robust and Principled Processing of Point Clouds With SSMs**|Nursena Köprücü et.al.|[2411.00151](http://arxiv.org/abs/2411.00151)|null|
 |**2024-11-01**|**Dynamical similarity analysis uniquely captures how computations develop in RNNs**|Quentin Guilhot et.al.|[2410.24070](http://arxiv.org/abs/2410.24070)|**[link](https://github.com/qglht/repal)**|
 
-<p align=right>(<a href=#updated-on-20250106>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250107>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Fortuneteller6/IRSTD-Arxiv-Daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Fortuneteller6/IRSTD-Arxiv-Daily/graphs/contributors
