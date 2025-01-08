@@ -66,7 +66,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-01-06**|**GLFC: Unified Global-Local Feature and Contrast Learning with Mamba-Enhanced UNet for Synthetic CT Generation from CBCT**|Xianhao Zhou et.al.|[2501.02992](http://arxiv.org/abs/2501.02992)|**[link](https://github.com/intelland/glfc)**|
-|**2025-01-06**|**Samba-asr state-of-the-art speech recognition leveraging structured state-space models**|Syed Abdul Gaffar Shakhadri et.al.|[2501.02832](http://arxiv.org/abs/2501.02832)|null|
+|**2025-01-07**|**Samba-ASR: State-Of-The-Art Speech Recognition Leveraging Structured State-Space Models**|Syed Abdul Gaffar Shakhadri et.al.|[2501.02832](http://arxiv.org/abs/2501.02832)|null|
 |**2025-01-05**|**KM-UNet KAN Mamba UNet for medical image segmentation**|Yibo Zhang et.al.|[2501.02559](http://arxiv.org/abs/2501.02559)|**[link](https://github.com/2760613195/km_unet)**|
 |**2025-01-03**|**A Separable Self-attention Inspired by the State Space Model for Computer Vision**|Juntao Zhang et.al.|[2501.02040](http://arxiv.org/abs/2501.02040)|**[link](https://github.com/yws-wxs/vminet)**|
 |**2025-01-03**|**Improved Feature Extraction Network for Neuro-Oriented Target Speaker Extraction**|Cunhang Fan et.al.|[2501.01673](http://arxiv.org/abs/2501.01673)|null|
@@ -92,7 +92,7 @@ layout: default
 |**2024-12-28**|**Lillama: Large Language Models Compression via Low-Rank Feature Distillation**|Yaya Sy et.al.|[2412.16719](http://arxiv.org/abs/2412.16719)|null|
 |**2024-12-21**|**From Pixels to Gigapixels: Bridging Local Inductive Bias and Long-Range Dependencies with Pixel-Mamba**|Zhongwei Qiu et.al.|[2412.16711](http://arxiv.org/abs/2412.16711)|null|
 |**2025-01-02**|**Mamba-SEUNet: Mamba UNet for Monaural Speech Enhancement**|Junyu Wang et.al.|[2412.16626](http://arxiv.org/abs/2412.16626)|null|
-|**2025-01-07**|**Trusted Mamba Contrastive Network for Multi-View Clustering**|Jian Zhu et.al.|[2412.16487](http://arxiv.org/abs/2412.16487)|null|
+|**2025-01-07**|**Trusted Mamba Contrastive Network for Multi-View Clustering**|Jian Zhu et.al.|[2412.16487](http://arxiv.org/abs/2412.16487)|**[link](https://github.com/hackerhyper/tmcn)**|
 |**2024-12-21**|**MOL-Mamba: Enhancing Molecular Representation with Structural & Electronic Insights**|Jingjing Hu et.al.|[2412.16483](http://arxiv.org/abs/2412.16483)|**[link](https://github.com/xian-sh/mol-mamba)**|
 |**2024-12-20**|**BabyHGRN: Exploring RNNs for Sample-Efficient Training of Language Models**|Patrick Haller et.al.|[2412.15978](http://arxiv.org/abs/2412.15978)|null|
 |**2024-12-20**|**Mamba-based Deep Learning Approaches for Sleep Staging on a Wireless Multimodal Wearable System without Electroencephalography**|Andrew H. Zhang et.al.|[2412.15947](http://arxiv.org/abs/2412.15947)|null|
