@@ -97,7 +97,7 @@
 |**2024-12-23**|**BrainMAP: Learning Multiple Activation Pathways in Brain Networks**|Song Wang et.al.|[2412.17404](http://arxiv.org/abs/2412.17404)|null|
 |**2024-12-23**|**VarAD: Lightweight High-Resolution Image Anomaly Detection via Visual Autoregressive Modeling**|Yunkang Cao et.al.|[2412.17263](http://arxiv.org/abs/2412.17263)|**[link](https://github.com/caoyunkang/VarAD)**|
 |**2024-12-22**|**Temporal-Frequency State Space Duality: An Efficient Paradigm for Speech Emotion Recognition**|Jiaqi Zhao et.al.|[2412.16904](http://arxiv.org/abs/2412.16904)|null|
-|**2024-12-21**|**ViM-Disparity: Bridging the Gap of Speed, Accuracy and Memory for Disparity Map Generation**|Maheswar Bora et.al.|[2412.16745](http://arxiv.org/abs/2412.16745)|null|
+|**2024-12-21**|**ViM-Disparity: Bridging the Gap of Speed, Accuracy and Memory for Disparity Map Generation**|Maheswar Bora et.al.|[2412.16745](http://arxiv.org/abs/2412.16745)|**[link](https://github.com/mbora/vim-disparity)**|
 |**2024-12-28**|**Lillama: Large Language Models Compression via Low-Rank Feature Distillation**|Yaya Sy et.al.|[2412.16719](http://arxiv.org/abs/2412.16719)|null|
 |**2024-12-21**|**From Pixels to Gigapixels: Bridging Local Inductive Bias and Long-Range Dependencies with Pixel-Mamba**|Zhongwei Qiu et.al.|[2412.16711](http://arxiv.org/abs/2412.16711)|null|
 |**2025-01-02**|**Mamba-SEUNet: Mamba UNet for Monaural Speech Enhancement**|Junyu Wang et.al.|[2412.16626](http://arxiv.org/abs/2412.16626)|null|
