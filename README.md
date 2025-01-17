@@ -71,6 +71,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-16**|**WMamba: Wavelet-based Mamba for Face Forgery Detection**|Siran Peng et.al.|[2501.09617](http://arxiv.org/abs/2501.09617)|null|
 |**2025-01-15**|**MANTA: Diffusion Mamba for Efficient and Effective Stochastic Long-Term Dense Anticipation**|Olga Zatsarynna et.al.|[2501.08837](http://arxiv.org/abs/2501.08837)|null|
 |**2025-01-14**|**DM-Mamba: Dual-domain Multi-scale Mamba for MRI reconstruction**|Yucong Meng et.al.|[2501.08163](http://arxiv.org/abs/2501.08163)|**[link](https://github.com/xiaomenglilili/dm-mamba)**|
 |**2025-01-14**|**AVS-Mamba: Exploring Temporal and Multi-modal Mamba for Audio-Visual Segmentation**|Sitong Gong et.al.|[2501.07810](http://arxiv.org/abs/2501.07810)|**[link](https://github.com/sitonggong/avs-mamba)**|
