@@ -157,7 +157,7 @@ layout: default
 |**2024-11-25**|**Deformable Mamba for Wide Field of View Segmentation**|Jie Hu et.al.|[2411.16481](http://arxiv.org/abs/2411.16481)|**[link](https://github.com/jiehu1996/deformablemamba)**|
 |**2024-11-25**|**M3: Mamba-assisted Multi-Circuit Optimization via MBRL with Effective Scheduling**|Youngmin Oh et.al.|[2411.16019](http://arxiv.org/abs/2411.16019)|null|
 |**2024-11-24**|**MobileMamba: Lightweight Multi-Receptive Visual Mamba Network**|Haoyang He et.al.|[2411.15941](http://arxiv.org/abs/2411.15941)|**[link](https://github.com/lewandofskee/MobileMamba)**|
-|**2024-11-24**|**MambaTrack: Exploiting Dual-Enhancement for Night UAV Tracking**|Chunhui Zhang et.al.|[2411.15761](http://arxiv.org/abs/2411.15761)|null|
+|**2024-11-24**|**MambaTrack: Exploiting Dual-Enhancement for Night UAV Tracking**|Chunhui Zhang et.al.|[2411.15761](http://arxiv.org/abs/2411.15761)|**[link](https://github.com/983632847/awesome-multimodal-object-tracking)**|
 |**2024-11-23**|**Mamba-CL: Optimizing Selective State Space Model in Null Space for Continual Learning**|De Cheng et.al.|[2411.15469](http://arxiv.org/abs/2411.15469)|null|
 |**2024-11-23**|**MambaVLT: Time-Evolving Multimodal State Space Model for Vision-Language Tracking**|Xinqi Liu et.al.|[2411.15459](http://arxiv.org/abs/2411.15459)|null|
 |**2024-11-23**|**MUFM: A Mamba-Enhanced Feedback Model for Micro Video Popularity Prediction**|Jiacheng Lu et.al.|[2411.15455](http://arxiv.org/abs/2411.15455)|null|
