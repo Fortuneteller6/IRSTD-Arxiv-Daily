@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.02
+## Updated on 2025.02.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -65,14 +65,14 @@
 |**2024-10-04**|**Mapping Degeneration Meets Label Evolution: Learning Infrared Small Target Detection with Single Point Supervision**|Xinyi Ying et.al.|[2304.01484](http://arxiv.org/abs/2304.01484)|**[link](https://github.com/xinyiying/lesps)**|
 |**2023-03-18**|**ABC: Attention with Bilinear Correlation for Infrared Small Target Detection**|Peiwen Pan et.al.|[2303.10321](http://arxiv.org/abs/2303.10321)|**[link](https://github.com/panpeiwen/abc)**|
 
-<p align=right>(<a href=#updated-on-20250202>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250203>back to top</a>)</p>
 
 ## Mamba
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-01-30**|**HSRMamba: Contextual Spatial-Spectral State Space Model for Single Hyperspectral Super-Resolution**|Shi Chen et.al.|[2501.18500](http://arxiv.org/abs/2501.18500)|null|
-|**2025-01-30**|**MatIR: A Hybrid Mamba-Transformer Image Restoration Model**|Juan Wen et.al.|[2501.18401](http://arxiv.org/abs/2501.18401)|null|
+|**2025-01-31**|**MatIR: A Hybrid Mamba-Transformer Image Restoration Model**|Juan Wen et.al.|[2501.18401](http://arxiv.org/abs/2501.18401)|null|
 |**2025-01-28**|**Mamba-Shedder: Post-Transformer Compression for Efficient Selective Structured State Space Models**|J. Pablo Muñoz et.al.|[2501.17088](http://arxiv.org/abs/2501.17088)|**[link](https://github.com/intellabs/hardware-aware-automated-machine-learning)**|
 |**2025-01-28**|**Post-Training Quantization for Vision Mamba with k-Scaled Quantization and Reparameterization**|Bo-Yun Shi et.al.|[2501.16738](http://arxiv.org/abs/2501.16738)|null|
 |**2025-01-27**|**Directing Mamba to Complex Textures: An Efficient Texture-Aware State Space Model for Image Restoration**|Long Peng et.al.|[2501.16583](http://arxiv.org/abs/2501.16583)|null|
@@ -83,7 +83,7 @@
 |**2025-01-26**|**CD-Lamba: Boosting Remote Sensing Change Detection via a Cross-Temporal Locally Adaptive State Space Model**|Zhenkai Wu et.al.|[2501.15455](http://arxiv.org/abs/2501.15455)|**[link](https://github.com/xwmaxwma/rschange)**|
 |**2025-01-24**|**Surface Vision Mamba: Leveraging Bidirectional State Space Model for Efficient Spherical Manifold Representation**|Rongzhao He et.al.|[2501.14679](http://arxiv.org/abs/2501.14679)|null|
 |**2025-01-24**|**State Space Models for Extractive Summarization in Low Resource Scenarios**|Nisrine Ait Khayi et.al.|[2501.14673](http://arxiv.org/abs/2501.14673)|null|
-|**2025-01-24**|**A Comprehensive Framework for Semantic Similarity Detection Using Transformer Architectures and Enhanced Ensemble Techniques**|Lifu Gao et.al.|[2501.14288](http://arxiv.org/abs/2501.14288)|null|
+|**2025-01-31**|**A Comprehensive Framework for Semantic Similarity Analysis of Human and AI-Generated Text Using Transformer Architectures and Ensemble Techniques**|Lifu Gao et.al.|[2501.14288](http://arxiv.org/abs/2501.14288)|null|
 |**2025-01-23**|**MV-GMN: State Space Model for Multi-View Action Recognition**|Yuhui Lin et.al.|[2501.13829](http://arxiv.org/abs/2501.13829)|null|
 |**2025-01-23**|**MambaQuant: Quantizing the Mamba Family with Variance Aligned Rotation Methods**|Zukang Xu et.al.|[2501.13484](http://arxiv.org/abs/2501.13484)|**[link](https://github.com/mambaquant/mambaquant)**|
 |**2025-01-23**|**Contrast: A Hybrid Architecture of Transformers and State Space Models for Low-Level Vision**|Aman Urumbekov et.al.|[2501.13353](http://arxiv.org/abs/2501.13353)|null|
@@ -237,7 +237,7 @@
 |**2024-10-31**|**NIMBA: Towards Robust and Principled Processing of Point Clouds With SSMs**|Nursena Köprücü et.al.|[2411.00151](http://arxiv.org/abs/2411.00151)|null|
 |**2024-11-01**|**Dynamical similarity analysis uniquely captures how computations develop in RNNs**|Quentin Guilhot et.al.|[2410.24070](http://arxiv.org/abs/2410.24070)|**[link](https://github.com/qglht/repal)**|
 
-<p align=right>(<a href=#updated-on-20250202>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250203>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Fortuneteller6/IRSTD-Arxiv-Daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Fortuneteller6/IRSTD-Arxiv-Daily/graphs/contributors

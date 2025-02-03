@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.02
+## Updated on 2025.02.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## IRSTD
@@ -66,7 +66,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-01-30**|**HSRMamba: Contextual Spatial-Spectral State Space Model for Single Hyperspectral Super-Resolution**|Shi Chen et.al.|[2501.18500](http://arxiv.org/abs/2501.18500)|null|
-|**2025-01-30**|**MatIR: A Hybrid Mamba-Transformer Image Restoration Model**|Juan Wen et.al.|[2501.18401](http://arxiv.org/abs/2501.18401)|null|
+|**2025-01-31**|**MatIR: A Hybrid Mamba-Transformer Image Restoration Model**|Juan Wen et.al.|[2501.18401](http://arxiv.org/abs/2501.18401)|null|
 |**2025-01-28**|**Mamba-Shedder: Post-Transformer Compression for Efficient Selective Structured State Space Models**|J. Pablo Muñoz et.al.|[2501.17088](http://arxiv.org/abs/2501.17088)|**[link](https://github.com/intellabs/hardware-aware-automated-machine-learning)**|
 |**2025-01-28**|**Post-Training Quantization for Vision Mamba with k-Scaled Quantization and Reparameterization**|Bo-Yun Shi et.al.|[2501.16738](http://arxiv.org/abs/2501.16738)|null|
 |**2025-01-27**|**Directing Mamba to Complex Textures: An Efficient Texture-Aware State Space Model for Image Restoration**|Long Peng et.al.|[2501.16583](http://arxiv.org/abs/2501.16583)|null|
@@ -77,7 +77,7 @@ layout: default
 |**2025-01-26**|**CD-Lamba: Boosting Remote Sensing Change Detection via a Cross-Temporal Locally Adaptive State Space Model**|Zhenkai Wu et.al.|[2501.15455](http://arxiv.org/abs/2501.15455)|**[link](https://github.com/xwmaxwma/rschange)**|
 |**2025-01-24**|**Surface Vision Mamba: Leveraging Bidirectional State Space Model for Efficient Spherical Manifold Representation**|Rongzhao He et.al.|[2501.14679](http://arxiv.org/abs/2501.14679)|null|
 |**2025-01-24**|**State Space Models for Extractive Summarization in Low Resource Scenarios**|Nisrine Ait Khayi et.al.|[2501.14673](http://arxiv.org/abs/2501.14673)|null|
-|**2025-01-24**|**A Comprehensive Framework for Semantic Similarity Detection Using Transformer Architectures and Enhanced Ensemble Techniques**|Lifu Gao et.al.|[2501.14288](http://arxiv.org/abs/2501.14288)|null|
+|**2025-01-31**|**A Comprehensive Framework for Semantic Similarity Analysis of Human and AI-Generated Text Using Transformer Architectures and Ensemble Techniques**|Lifu Gao et.al.|[2501.14288](http://arxiv.org/abs/2501.14288)|null|
 |**2025-01-23**|**MV-GMN: State Space Model for Multi-View Action Recognition**|Yuhui Lin et.al.|[2501.13829](http://arxiv.org/abs/2501.13829)|null|
 |**2025-01-23**|**MambaQuant: Quantizing the Mamba Family with Variance Aligned Rotation Methods**|Zukang Xu et.al.|[2501.13484](http://arxiv.org/abs/2501.13484)|**[link](https://github.com/mambaquant/mambaquant)**|
 |**2025-01-23**|**Contrast: A Hybrid Architecture of Transformers and State Space Models for Low-Level Vision**|Aman Urumbekov et.al.|[2501.13353](http://arxiv.org/abs/2501.13353)|null|
