@@ -65,6 +65,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-06**|**Scaling Laws in Patchification: An Image Is Worth 50,176 Tokens And More**|Feng Wang et.al.|[2502.03738](http://arxiv.org/abs/2502.03738)|null|
+|**2025-02-05**|**Proxy Prompt: Endowing SAM and SAM 2 with Auto-Interactive-Prompt for Medical Segmentation**|Wang Xinyi et.al.|[2502.03501](http://arxiv.org/abs/2502.03501)|null|
 |**2025-02-04**|**On the Expressivity of Selective State-Space Layers: A Multivariate Polynomial Approach**|Edo Cohen-Karlik et.al.|[2502.02209](http://arxiv.org/abs/2502.02209)|null|
 |**2025-02-04**|**UD-Mamba: A pixel-level uncertainty-driven Mamba model for medical image segmentation**|Weiren Zhao et.al.|[2502.02024](http://arxiv.org/abs/2502.02024)|null|
 |**2025-02-04**|**DCT-Mamba3D: Spectral Decorrelation and Spatial-Spectral Feature Extraction for Hyperspectral Image Classification**|Weijia Cao et.al.|[2502.01986](http://arxiv.org/abs/2502.01986)|null|
@@ -88,7 +90,7 @@ layout: default
 |**2025-01-24**|**State Space Models for Extractive Summarization in Low Resource Scenarios**|Nisrine Ait Khayi et.al.|[2501.14673](http://arxiv.org/abs/2501.14673)|null|
 |**2025-01-31**|**A Comprehensive Framework for Semantic Similarity Analysis of Human and AI-Generated Text Using Transformer Architectures and Ensemble Techniques**|Lifu Gao et.al.|[2501.14288](http://arxiv.org/abs/2501.14288)|null|
 |**2025-01-23**|**MV-GMN: State Space Model for Multi-View Action Recognition**|Yuhui Lin et.al.|[2501.13829](http://arxiv.org/abs/2501.13829)|null|
-|**2025-01-23**|**MambaQuant: Quantizing the Mamba Family with Variance Aligned Rotation Methods**|Zukang Xu et.al.|[2501.13484](http://arxiv.org/abs/2501.13484)|**[link](https://github.com/mambaquant/mambaquant)**|
+|**2025-02-06**|**MambaQuant: Quantizing the Mamba Family with Variance Aligned Rotation Methods**|Zukang Xu et.al.|[2501.13484](http://arxiv.org/abs/2501.13484)|**[link](https://github.com/mambaquant/mambaquant)**|
 |**2025-01-23**|**Contrast: A Hybrid Architecture of Transformers and State Space Models for Low-Level Vision**|Aman Urumbekov et.al.|[2501.13353](http://arxiv.org/abs/2501.13353)|null|
 |**2025-01-22**|**UniUIR: Considering Underwater Image Restoration as An All-in-One Learner**|Xu Zhang et.al.|[2501.12981](http://arxiv.org/abs/2501.12981)|null|
 |**2025-01-22**|**LiT: Delving into a Simplified Linear Diffusion Transformer for Image Generation**|Jiahao Wang et.al.|[2501.12976](http://arxiv.org/abs/2501.12976)|null|
