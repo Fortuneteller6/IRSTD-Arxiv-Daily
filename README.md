@@ -74,13 +74,13 @@
 |**2025-02-06**|**Scaling Laws in Patchification: An Image Is Worth 50,176 Tokens And More**|Feng Wang et.al.|[2502.03738](http://arxiv.org/abs/2502.03738)|null|
 |**2025-02-05**|**Proxy Prompt: Endowing SAM and SAM 2 with Auto-Interactive-Prompt for Medical Segmentation**|Wang Xinyi et.al.|[2502.03501](http://arxiv.org/abs/2502.03501)|null|
 |**2025-02-04**|**On the Expressivity of Selective State-Space Layers: A Multivariate Polynomial Approach**|Edo Cohen-Karlik et.al.|[2502.02209](http://arxiv.org/abs/2502.02209)|null|
-|**2025-02-04**|**UD-Mamba: A pixel-level uncertainty-driven Mamba model for medical image segmentation**|Weiren Zhao et.al.|[2502.02024](http://arxiv.org/abs/2502.02024)|null|
+|**2025-02-04**|**UD-Mamba: A pixel-level uncertainty-driven Mamba model for medical image segmentation**|Weiren Zhao et.al.|[2502.02024](http://arxiv.org/abs/2502.02024)|**[link](https://github.com/piooip/ud-mamba)**|
 |**2025-02-04**|**DCT-Mamba3D: Spectral Decorrelation and Spatial-Spectral Feature Extraction for Hyperspectral Image Classification**|Weijia Cao et.al.|[2502.01986](http://arxiv.org/abs/2502.01986)|null|
 |**2025-02-03**|**Generalization Error Analysis for Selective State-Space Models Through the Lens of Attention**|Arya Honarpisheh et.al.|[2502.01473](http://arxiv.org/abs/2502.01473)|null|
 |**2025-02-03**|**Deep Active Speech Cancellation with Multi-Band Mamba Network**|Yehuda Mishaly et.al.|[2502.01185](http://arxiv.org/abs/2502.01185)|null|
 |**2025-02-01**|**Fast Vision Mamba: Pooling Spatial Dimensions for Accelerated Processing**|Saarthak Kapse et.al.|[2502.00594](http://arxiv.org/abs/2502.00594)|null|
 |**2025-02-01**|**Enhancing Memory and Imagination Consistency in Diffusion-based World Models via Linear-Time Sequence Modeling**|Jia-Hua Lee et.al.|[2502.00466](http://arxiv.org/abs/2502.00466)|null|
-|**2025-02-01**|**MambaGlue: Fast and Robust Local Feature Matching With Mamba**|Kihwan Ryoo et.al.|[2502.00462](http://arxiv.org/abs/2502.00462)|null|
+|**2025-02-01**|**MambaGlue: Fast and Robust Local Feature Matching With Mamba**|Kihwan Ryoo et.al.|[2502.00462](http://arxiv.org/abs/2502.00462)|**[link](https://github.com/url-kaist/mambaglue)**|
 |**2025-02-01**|**A Study on the Performance of U-Net Modifications in Retroperitoneal Tumor Segmentation**|Moein Heidari et.al.|[2502.00314](http://arxiv.org/abs/2502.00314)|null|
 |**2025-01-30**|**HSRMamba: Contextual Spatial-Spectral State Space Model for Single Hyperspectral Super-Resolution**|Shi Chen et.al.|[2501.18500](http://arxiv.org/abs/2501.18500)|null|
 |**2025-01-31**|**MatIR: A Hybrid Mamba-Transformer Image Restoration Model**|Juan Wen et.al.|[2501.18401](http://arxiv.org/abs/2501.18401)|**[link](https://github.com/wenjuan7275/matir)**|
