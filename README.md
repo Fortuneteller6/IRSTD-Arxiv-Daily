@@ -71,6 +71,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-07**|**Before It's Too Late: A State Space Model for the Early Prediction of Misinformation and Disinformation Engagement**|Lin Tian et.al.|[2502.04655](http://arxiv.org/abs/2502.04655)|null|
+|**2025-02-07**|**The $α$ -Alternator: Dynamic Adaptation To Varying Noise Levels In Sequences Using The Vendi Score For Improved Robustness and Performance**|Mohammad Reza Rezaei et.al.|[2502.04593](http://arxiv.org/abs/2502.04593)|null|
 |**2025-02-06**|**Scaling Laws in Patchification: An Image Is Worth 50,176 Tokens And More**|Feng Wang et.al.|[2502.03738](http://arxiv.org/abs/2502.03738)|null|
 |**2025-02-05**|**Proxy Prompt: Endowing SAM and SAM 2 with Auto-Interactive-Prompt for Medical Segmentation**|Wang Xinyi et.al.|[2502.03501](http://arxiv.org/abs/2502.03501)|null|
 |**2025-02-04**|**On the Expressivity of Selective State-Space Layers: A Multivariate Polynomial Approach**|Edo Cohen-Karlik et.al.|[2502.02209](http://arxiv.org/abs/2502.02209)|null|
