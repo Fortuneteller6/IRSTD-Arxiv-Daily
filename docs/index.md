@@ -132,7 +132,7 @@ layout: default
 |**2024-12-24**|**Exploring Graph Mamba: A Comprehensive Survey on State-Space Models for Graph Learning**|Safa Ben Atitallah et.al.|[2412.18322](http://arxiv.org/abs/2412.18322)|null|
 |**2024-12-24**|**U-Mamba-Net: A highly efficient Mamba-based U-net style network for noisy and reverberant speech separation**|Shaoxiang Dang et.al.|[2412.18217](http://arxiv.org/abs/2412.18217)|null|
 |**2024-12-24**|**COMO: Cross-Mamba Interaction and Offset-Guided Fusion for Multimodal Object Detection**|Chang Liu et.al.|[2412.18076](http://arxiv.org/abs/2412.18076)|null|
-|**2024-12-23**|**BrainMAP: Learning Multiple Activation Pathways in Brain Networks**|Song Wang et.al.|[2412.17404](http://arxiv.org/abs/2412.17404)|null|
+|**2024-12-23**|**BrainMAP: Learning Multiple Activation Pathways in Brain Networks**|Song Wang et.al.|[2412.17404](http://arxiv.org/abs/2412.17404)|**[link](https://github.com/lzyfischer/brainmap)**|
 |**2024-12-23**|**VarAD: Lightweight High-Resolution Image Anomaly Detection via Visual Autoregressive Modeling**|Yunkang Cao et.al.|[2412.17263](http://arxiv.org/abs/2412.17263)|**[link](https://github.com/caoyunkang/VarAD)**|
 |**2024-12-22**|**Temporal-Frequency State Space Duality: An Efficient Paradigm for Speech Emotion Recognition**|Jiaqi Zhao et.al.|[2412.16904](http://arxiv.org/abs/2412.16904)|null|
 |**2025-01-10**|**ViM-Disparity: Bridging the Gap of Speed, Accuracy and Memory for Disparity Map Generation**|Maheswar Bora et.al.|[2412.16745](http://arxiv.org/abs/2412.16745)|**[link](https://github.com/mbora/vim-disparity)**|
