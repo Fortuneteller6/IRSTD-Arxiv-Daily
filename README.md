@@ -71,6 +71,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-10**|**FinMamba: Market-Aware Graph Enhanced Multi-Level Mamba for Stock Movement Prediction**|Yifan Hu et.al.|[2502.06707](http://arxiv.org/abs/2502.06707)|null|
+|**2025-02-10**|**FEMBA: Efficient and Scalable EEG Analysis with a Bidirectional Mamba Foundation Model**|Anna Tegon et.al.|[2502.06438](http://arxiv.org/abs/2502.06438)|null|
+|**2025-02-10**|**Hybrid State-Space and GRU-based Graph Tokenization Mamba for Hyperspectral Image Classification**|Muhammad Ahmad et.al.|[2502.06427](http://arxiv.org/abs/2502.06427)|null|
+|**2025-02-10**|**Multi-Level Decoupled Relational Distillation for Heterogeneous Architectures**|Yaoxin Yang et.al.|[2502.06189](http://arxiv.org/abs/2502.06189)|null|
 |**2025-02-07**|**Before It's Too Late: A State Space Model for the Early Prediction of Misinformation and Disinformation Engagement**|Lin Tian et.al.|[2502.04655](http://arxiv.org/abs/2502.04655)|null|
 |**2025-02-07**|**The $α$ -Alternator: Dynamic Adaptation To Varying Noise Levels In Sequences Using The Vendi Score For Improved Robustness and Performance**|Mohammad Reza Rezaei et.al.|[2502.04593](http://arxiv.org/abs/2502.04593)|null|
 |**2025-02-06**|**Scaling Laws in Patchification: An Image Is Worth 50,176 Tokens And More**|Feng Wang et.al.|[2502.03738](http://arxiv.org/abs/2502.03738)|null|
