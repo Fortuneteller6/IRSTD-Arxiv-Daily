@@ -65,6 +65,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-11**|**NARCE: A Mamba-Based Neural Algorithmic Reasoner Framework for Online Complex Event Detection**|Liying Han et.al.|[2502.07250](http://arxiv.org/abs/2502.07250)|null|
+|**2025-02-11**|**A Survey on Mamba Architecture for Vision Applications**|Fady Ibrahim et.al.|[2502.07161](http://arxiv.org/abs/2502.07161)|null|
+|**2025-02-10**|**Is Long Range Sequential Modeling Necessary For Colorectal Tumor Segmentation?**|Abhishek Srivastava et.al.|[2502.07120](http://arxiv.org/abs/2502.07120)|null|
 |**2025-02-10**|**FinMamba: Market-Aware Graph Enhanced Multi-Level Mamba for Stock Movement Prediction**|Yifan Hu et.al.|[2502.06707](http://arxiv.org/abs/2502.06707)|null|
 |**2025-02-10**|**FEMBA: Efficient and Scalable EEG Analysis with a Bidirectional Mamba Foundation Model**|Anna Tegon et.al.|[2502.06438](http://arxiv.org/abs/2502.06438)|null|
 |**2025-02-10**|**Hybrid State-Space and GRU-based Graph Tokenization Mamba for Hyperspectral Image Classification**|Muhammad Ahmad et.al.|[2502.06427](http://arxiv.org/abs/2502.06427)|null|
