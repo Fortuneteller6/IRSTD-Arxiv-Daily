@@ -65,6 +65,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-11**|**MAAT: Mamba Adaptive Anomaly Transformer with association discrepancy for time series**|Abdellah Zakaria Sellam et.al.|[2502.07858](http://arxiv.org/abs/2502.07858)|null|
 |**2025-02-11**|**NARCE: A Mamba-Based Neural Algorithmic Reasoner Framework for Online Complex Event Detection**|Liying Han et.al.|[2502.07250](http://arxiv.org/abs/2502.07250)|null|
 |**2025-02-11**|**A Survey on Mamba Architecture for Vision Applications**|Fady Ibrahim et.al.|[2502.07161](http://arxiv.org/abs/2502.07161)|null|
 |**2025-02-10**|**Is Long Range Sequential Modeling Necessary For Colorectal Tumor Segmentation?**|Abhishek Srivastava et.al.|[2502.07120](http://arxiv.org/abs/2502.07120)|null|
@@ -95,7 +96,7 @@ layout: default
 |**2025-01-27**|**Application of Structured State Space Models to High energy physics with locality-sensitive hashing**|Cheng Jiang et.al.|[2501.16237](http://arxiv.org/abs/2501.16237)|null|
 |**2025-01-26**|**Mamba-Based Graph Convolutional Networks: Tackling Over-smoothing with Selective State Space**|Xin He et.al.|[2501.15461](http://arxiv.org/abs/2501.15461)|null|
 |**2025-01-26**|**CD-Lamba: Boosting Remote Sensing Change Detection via a Cross-Temporal Locally Adaptive State Space Model**|Zhenkai Wu et.al.|[2501.15455](http://arxiv.org/abs/2501.15455)|**[link](https://github.com/xwmaxwma/rschange)**|
-|**2025-01-24**|**Surface Vision Mamba: Leveraging Bidirectional State Space Model for Efficient Spherical Manifold Representation**|Rongzhao He et.al.|[2501.14679](http://arxiv.org/abs/2501.14679)|null|
+|**2025-02-12**|**Surface Vision Mamba: Leveraging Bidirectional State Space Model for Efficient Spherical Manifold Representation**|Rongzhao He et.al.|[2501.14679](http://arxiv.org/abs/2501.14679)|null|
 |**2025-01-24**|**State Space Models for Extractive Summarization in Low Resource Scenarios**|Nisrine Ait Khayi et.al.|[2501.14673](http://arxiv.org/abs/2501.14673)|null|
 |**2025-01-31**|**A Comprehensive Framework for Semantic Similarity Analysis of Human and AI-Generated Text Using Transformer Architectures and Ensemble Techniques**|Lifu Gao et.al.|[2501.14288](http://arxiv.org/abs/2501.14288)|null|
 |**2025-01-23**|**MV-GMN: State Space Model for Multi-View Action Recognition**|Yuhui Lin et.al.|[2501.13829](http://arxiv.org/abs/2501.13829)|null|
