@@ -71,6 +71,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-17**|**LLMs on the Line: Data Determines Loss-to-Loss Scaling Laws**|Prasanna Mayilvahanan et.al.|[2502.12120](http://arxiv.org/abs/2502.12120)|null|
+|**2025-02-17**|**S2TX: Cross-Attention Multi-Scale State-Space Transformer for Time Series Forecasting**|Zihao Wu et.al.|[2502.11340](http://arxiv.org/abs/2502.11340)|null|
+|**2025-02-16**|**RT-DEMT: A hybrid real-time acupoint detection model combining mamba and transformer**|Shilong Yang et.al.|[2502.11179](http://arxiv.org/abs/2502.11179)|null|
+|**2025-02-16**|**DAViMNet: SSMs-Based Domain Adaptive Object Detection**|A. Enes Doruk et.al.|[2502.11178](http://arxiv.org/abs/2502.11178)|null|
+|**2025-02-16**|**DuplexMamba: Enhancing Real-time Speech Conversations with Duplex and Streaming Capabilities**|Xiangyu Lu et.al.|[2502.11123](http://arxiv.org/abs/2502.11123)|null|
 |**2025-02-14**|**DeltaProduct: Increasing the Expressivity of DeltaNet Through Products of Householders**|Julien Siems et.al.|[2502.10297](http://arxiv.org/abs/2502.10297)|null|
 |**2025-02-14**|**From Markov to Laplace: How Mamba In-Context Learns Markov Chains**|Marco Bondaschi et.al.|[2502.10178](http://arxiv.org/abs/2502.10178)|null|
 |**2025-02-14**|**EmbBERT-Q: Breaking Memory Barriers in Embedded NLP**|Riccardo Bravin et.al.|[2502.10001](http://arxiv.org/abs/2502.10001)|null|
