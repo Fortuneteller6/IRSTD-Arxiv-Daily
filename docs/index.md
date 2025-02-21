@@ -22,7 +22,7 @@ layout: default
 |**2024-11-20**|**Paying more attention to local contrast: improving infrared small target detection performance via prior knowledge**|Peichao Wang et.al.|[2411.13260](http://arxiv.org/abs/2411.13260)|null|
 |**2024-10-09**|**Robust infrared small target detection using self-supervised and a contrario paradigms**|Alina Ciocarlan et.al.|[2410.07437](http://arxiv.org/abs/2410.07437)|null|
 |**2025-01-15**|**DATransNet: Dynamic Attention Transformer Network for Infrared Small Target Detection**|Chen Hu et.al.|[2409.19599](http://arxiv.org/abs/2409.19599)|**[link](https://github.com/greekinroma/datransnet)**|
-|**2024-10-04**|**Infrared Small Target Detection in Satellite Videos: A New Dataset and A Novel Recurrent Feature Refinement Framework**|Xinyi Ying et.al.|[2409.12448](http://arxiv.org/abs/2409.12448)|**[link](https://github.com/xinyiying/rfr)**|
+|**2025-02-20**|**Infrared Small Target Detection in Satellite Videos: A New Dataset and A Novel Recurrent Feature Refinement Framework**|Xinyi Ying et.al.|[2409.12448](http://arxiv.org/abs/2409.12448)|**[link](https://github.com/xinyiying/rfr)**|
 |**2024-09-07**|**Unleashing the Power of Generic Segmentation Models: A Simple Baseline for Infrared Small Target Detection**|Mingjin Zhang et.al.|[2409.04714](http://arxiv.org/abs/2409.04714)|**[link](https://github.com/o937-blip/simir)**|
 |**2024-09-06**|**Hybrid Mask Generation for Infrared Small Target Detection with Single-Point Supervision**|Weijie He et.al.|[2409.04011](http://arxiv.org/abs/2409.04011)|null|
 |**2024-08-18**|**The First Competition on Resource-Limited Infrared Small Target Detection Challenge: Methods and Results**|Boyang Li et.al.|[2408.09615](http://arxiv.org/abs/2408.09615)|**[link](https://github.com/xinyiying/basicirstd)**|
@@ -65,6 +65,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-20**|**Multiscale Byte Language Models -- A Hierarchical Architecture for Causal Million-Length Sequence Modeling**|Eric Egli et.al.|[2502.14553](http://arxiv.org/abs/2502.14553)|null|
+|**2025-02-20**|**Llamba: Scaling Distilled Recurrent Models for Efficient Language Processing**|Aviv Bick et.al.|[2502.14458](http://arxiv.org/abs/2502.14458)|null|
+|**2025-02-20**|**Topology-Aware Wavelet Mamba for Airway Structure Segmentation in Postoperative Recurrent Nasopharyngeal Carcinoma CT Scans**|Haishan Huang et.al.|[2502.14363](http://arxiv.org/abs/2502.14363)|null|
+|**2025-02-19**|**MambaLiteSR: Image Super-Resolution with Low-Rank Mamba using Knowledge Distillation**|Romina Aalishah et.al.|[2502.14090](http://arxiv.org/abs/2502.14090)|null|
 |**2025-02-19**|**Medical Image Classification with KAN-Integrated Transformers and Dilated Neighborhood Attention**|Omid Nejati Manzari et.al.|[2502.13693](http://arxiv.org/abs/2502.13693)|**[link](https://github.com/Omid-Nejati/MedViTV2)**|
 |**2025-02-19**|**CardiacMamba: A Multimodal RGB-RF Fusion Framework with State Space Models for Remote Physiological Measurement**|Zheng Wu et.al.|[2502.13624](http://arxiv.org/abs/2502.13624)|null|
 |**2025-02-19**|**MobileViM: A Light-weight and Dimension-independent Vision Mamba for 3D Medical Image Analysis**|Wei Dai et.al.|[2502.13524](http://arxiv.org/abs/2502.13524)|**[link](https://github.com/anthonyweidai/MobileViM_3D)**|
@@ -75,13 +79,13 @@ layout: default
 |**2025-02-19**|**X-IL: Exploring the Design Space of Imitation Learning Policies**|Xiaogang Jia et.al.|[2502.12330](http://arxiv.org/abs/2502.12330)|null|
 |**2025-02-17**|**LLMs on the Line: Data Determines Loss-to-Loss Scaling Laws**|Prasanna Mayilvahanan et.al.|[2502.12120](http://arxiv.org/abs/2502.12120)|null|
 |**2025-02-17**|**S2TX: Cross-Attention Multi-Scale State-Space Transformer for Time Series Forecasting**|Zihao Wu et.al.|[2502.11340](http://arxiv.org/abs/2502.11340)|null|
-|**2025-02-16**|**RT-DEMT: A hybrid real-time acupoint detection model combining mamba and transformer**|Shilong Yang et.al.|[2502.11179](http://arxiv.org/abs/2502.11179)|null|
+|**2025-02-16**|**RT-DEMT: A hybrid real-time acupoint detection model combining mamba and transformer**|Shilong Yang et.al.|[2502.11179](http://arxiv.org/abs/2502.11179)|**[link](https://github.com/sohyu1/rt-demt)**|
 |**2025-02-16**|**DAViMNet: SSMs-Based Domain Adaptive Object Detection**|A. Enes Doruk et.al.|[2502.11178](http://arxiv.org/abs/2502.11178)|null|
 |**2025-02-16**|**DuplexMamba: Enhancing Real-time Speech Conversations with Duplex and Streaming Capabilities**|Xiangyu Lu et.al.|[2502.11123](http://arxiv.org/abs/2502.11123)|null|
 |**2025-02-14**|**DeltaProduct: Increasing the Expressivity of DeltaNet Through Products of Householders**|Julien Siems et.al.|[2502.10297](http://arxiv.org/abs/2502.10297)|null|
-|**2025-02-14**|**From Markov to Laplace: How Mamba In-Context Learns Markov Chains**|Marco Bondaschi et.al.|[2502.10178](http://arxiv.org/abs/2502.10178)|null|
+|**2025-02-14**|**From Markov to Laplace: How Mamba In-Context Learns Markov Chains**|Marco Bondaschi et.al.|[2502.10178](http://arxiv.org/abs/2502.10178)|**[link](https://github.com/Bond1995/Markov-Mamba)**|
 |**2025-02-14**|**EmbBERT-Q: Breaking Memory Barriers in Embedded NLP**|Riccardo Bravin et.al.|[2502.10001](http://arxiv.org/abs/2502.10001)|null|
-|**2025-02-14**|**A Lightweight and Effective Image Tampering Localization Network with Vision Mamba**|Kun Guo et.al.|[2502.09941](http://arxiv.org/abs/2502.09941)|null|
+|**2025-02-14**|**A Lightweight and Effective Image Tampering Localization Network with Vision Mamba**|Kun Guo et.al.|[2502.09941](http://arxiv.org/abs/2502.09941)|**[link](https://github.com/multimediafor/forma)**|
 |**2025-02-19**|**MAAT: Mamba Adaptive Anomaly Transformer with association discrepancy for time series**|Abdellah Zakaria Sellam et.al.|[2502.07858](http://arxiv.org/abs/2502.07858)|null|
 |**2025-02-11**|**NARCE: A Mamba-Based Neural Algorithmic Reasoner Framework for Online Complex Event Detection**|Liying Han et.al.|[2502.07250](http://arxiv.org/abs/2502.07250)|null|
 |**2025-02-11**|**A Survey on Mamba Architecture for Vision Applications**|Fady Ibrahim et.al.|[2502.07161](http://arxiv.org/abs/2502.07161)|null|
