@@ -71,7 +71,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-20**|**Multiscale Byte Language Models -- A Hierarchical Architecture for Causal Million-Length Sequence Modeling**|Eric Egli et.al.|[2502.14553](http://arxiv.org/abs/2502.14553)|null|
+|**2025-02-21**|**LaTIM: Measuring Latent Token-to-Token Interactions in Mamba Models**|Hugo Pitorro et.al.|[2502.15612](http://arxiv.org/abs/2502.15612)|null|
+|**2025-02-21**|**LightMamba: Efficient Mamba Acceleration on FPGA with Quantization and Hardware Co-design**|Renjie Wei et.al.|[2502.15260](http://arxiv.org/abs/2502.15260)|null|
+|**2025-02-21**|**TransMamba: Fast Universal Architecture Adaption from Transformers to Mamba**|Xiuwei Chen et.al.|[2502.15130](http://arxiv.org/abs/2502.15130)|null|
+|**2025-02-17**|**High-Dynamic Radar Sequence Prediction for Weather Nowcasting Using Spatiotemporal Coherent Gaussian Representation**|Ziye Wang et.al.|[2502.14895](http://arxiv.org/abs/2502.14895)|null|
+|**2025-02-20**|**Multiscale Byte Language Models -- A Hierarchical Architecture for Causal Million-Length Sequence Modeling**|Eric Egli et.al.|[2502.14553](http://arxiv.org/abs/2502.14553)|**[link](https://github.com/ai4sd/multiscale-byte-lm)**|
 |**2025-02-20**|**Llamba: Scaling Distilled Recurrent Models for Efficient Language Processing**|Aviv Bick et.al.|[2502.14458](http://arxiv.org/abs/2502.14458)|null|
 |**2025-02-20**|**Topology-Aware Wavelet Mamba for Airway Structure Segmentation in Postoperative Recurrent Nasopharyngeal Carcinoma CT Scans**|Haishan Huang et.al.|[2502.14363](http://arxiv.org/abs/2502.14363)|null|
 |**2025-02-19**|**MambaLiteSR: Image Super-Resolution with Low-Rank Mamba using Knowledge Distillation**|Romina Aalishah et.al.|[2502.14090](http://arxiv.org/abs/2502.14090)|null|
