@@ -65,12 +65,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-24**|**MDN: Mamba-Driven Dualstream Network For Medical Hyperspectral Image Segmentation**|Shijie Lin et.al.|[2502.17255](http://arxiv.org/abs/2502.17255)|null|
+|**2025-02-24**|**MambaFlow: A Novel and Flow-guided State Space Model for Scene Flow Estimation**|Jiehao Luo et.al.|[2502.16907](http://arxiv.org/abs/2502.16907)|null|
+|**2025-02-23**|**Intrinsic Model Weaknesses: How Priming Attacks Unveil Vulnerabilities in Large Language Models**|Yuyi Huang et.al.|[2502.16491](http://arxiv.org/abs/2502.16491)|null|
+|**2025-02-23**|**MAPN: Enhancing Heterogeneous Sparse Graph Representation by Mamba-based Asynchronous Aggregation**|Xuqi Mao et.al.|[2502.16454](http://arxiv.org/abs/2502.16454)|null|
+|**2025-02-22**|**SalM $2$ : An Extremely Lightweight Saliency Mamba Model for Real-Time Cognitive Awareness of Driver Attention**|Chunyu Zhao et.al.|[2502.16214](http://arxiv.org/abs/2502.16214)|null|
+|**2025-02-22**|**Improving Speech Enhancement by Cross- and Sub-band Processing with State Space Model**|Jizhen Li et.al.|[2502.16207](http://arxiv.org/abs/2502.16207)|null|
+|**2025-02-09**|**CacheMamba: Popularity Prediction for Mobile Edge Caching Networks via Selective State Spaces**|Ghazaleh Kianfar et.al.|[2502.15746](http://arxiv.org/abs/2502.15746)|null|
 |**2025-02-21**|**LaTIM: Measuring Latent Token-to-Token Interactions in Mamba Models**|Hugo Pitorro et.al.|[2502.15612](http://arxiv.org/abs/2502.15612)|null|
 |**2025-02-21**|**LightMamba: Efficient Mamba Acceleration on FPGA with Quantization and Hardware Co-design**|Renjie Wei et.al.|[2502.15260](http://arxiv.org/abs/2502.15260)|null|
 |**2025-02-21**|**TransMamba: Fast Universal Architecture Adaption from Transformers to Mamba**|Xiuwei Chen et.al.|[2502.15130](http://arxiv.org/abs/2502.15130)|null|
 |**2025-02-17**|**High-Dynamic Radar Sequence Prediction for Weather Nowcasting Using Spatiotemporal Coherent Gaussian Representation**|Ziye Wang et.al.|[2502.14895](http://arxiv.org/abs/2502.14895)|null|
 |**2025-02-20**|**Multiscale Byte Language Models -- A Hierarchical Architecture for Causal Million-Length Sequence Modeling**|Eric Egli et.al.|[2502.14553](http://arxiv.org/abs/2502.14553)|**[link](https://github.com/ai4sd/multiscale-byte-lm)**|
-|**2025-02-20**|**Llamba: Scaling Distilled Recurrent Models for Efficient Language Processing**|Aviv Bick et.al.|[2502.14458](http://arxiv.org/abs/2502.14458)|null|
+|**2025-02-23**|**Llamba: Scaling Distilled Recurrent Models for Efficient Language Processing**|Aviv Bick et.al.|[2502.14458](http://arxiv.org/abs/2502.14458)|null|
 |**2025-02-20**|**Topology-Aware Wavelet Mamba for Airway Structure Segmentation in Postoperative Recurrent Nasopharyngeal Carcinoma CT Scans**|Haishan Huang et.al.|[2502.14363](http://arxiv.org/abs/2502.14363)|null|
 |**2025-02-19**|**MambaLiteSR: Image Super-Resolution with Low-Rank Mamba using Knowledge Distillation**|Romina Aalishah et.al.|[2502.14090](http://arxiv.org/abs/2502.14090)|null|
 |**2025-02-19**|**Medical Image Classification with KAN-Integrated Transformers and Dilated Neighborhood Attention**|Omid Nejati Manzari et.al.|[2502.13693](http://arxiv.org/abs/2502.13693)|**[link](https://github.com/Omid-Nejati/MedViTV2)**|
