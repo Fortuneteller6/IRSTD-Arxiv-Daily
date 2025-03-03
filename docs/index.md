@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.02
+## Updated on 2025.03.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## IRSTD
@@ -75,7 +75,7 @@ layout: default
 |**2025-02-24**|**MambaFlow: A Novel and Flow-guided State Space Model for Scene Flow Estimation**|Jiehao Luo et.al.|[2502.16907](http://arxiv.org/abs/2502.16907)|**[link](https://github.com/scnu-rislab/mambaflow)**|
 |**2025-02-23**|**Intrinsic Model Weaknesses: How Priming Attacks Unveil Vulnerabilities in Large Language Models**|Yuyi Huang et.al.|[2502.16491](http://arxiv.org/abs/2502.16491)|null|
 |**2025-02-23**|**MAPN: Enhancing Heterogeneous Sparse Graph Representation by Mamba-based Asynchronous Aggregation**|Xuqi Mao et.al.|[2502.16454](http://arxiv.org/abs/2502.16454)|null|
-|**2025-02-22**|**SalM $2$ : An Extremely Lightweight Saliency Mamba Model for Real-Time Cognitive Awareness of Driver Attention**|Chunyu Zhao et.al.|[2502.16214](http://arxiv.org/abs/2502.16214)|**[link](https://github.com/zhao-chunyu/SaliencyMamba)**|
+|**2025-02-28**|**SalM $^{2}$ : An Extremely Lightweight Saliency Mamba Model for Real-Time Cognitive Awareness of Driver Attention**|Chunyu Zhao et.al.|[2502.16214](http://arxiv.org/abs/2502.16214)|**[link](https://github.com/zhao-chunyu/SaliencyMamba)**|
 |**2025-02-22**|**Improving Speech Enhancement by Cross- and Sub-band Processing with State Space Model**|Jizhen Li et.al.|[2502.16207](http://arxiv.org/abs/2502.16207)|null|
 |**2025-02-09**|**CacheMamba: Popularity Prediction for Mobile Edge Caching Networks via Selective State Spaces**|Ghazaleh Kianfar et.al.|[2502.15746](http://arxiv.org/abs/2502.15746)|null|
 |**2025-02-24**|**LaTIM: Measuring Latent Token-to-Token Interactions in Mamba Models**|Hugo Pitorro et.al.|[2502.15612](http://arxiv.org/abs/2502.15612)|null|
