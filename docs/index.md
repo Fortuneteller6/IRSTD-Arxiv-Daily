@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-04**|**10K is Enough: An Ultra-Lightweight Binarized Network for Infrared Small-Target Detection**|Biqiao Xin et.al.|[2503.02662](http://arxiv.org/abs/2503.02662)|null|
+|**2025-03-04**|**Low-Level Matters: An Efficient Hybrid Architecture for Robust Multi-frame Infrared Small Target Detection**|Zhihua Shen et.al.|[2503.02220](http://arxiv.org/abs/2503.02220)|null|
 |**2024-12-27**|**YOLO-MST: Multiscale deep learning method for infrared small target detection based on super-resolution and YOLO**|Taoran Yue et.al.|[2412.19878](http://arxiv.org/abs/2412.19878)|null|
 |**2024-12-23**|**Learning Dynamic Local Context Representations for Infrared Small Target Detection**|Guoyi Zhang et.al.|[2412.17401](http://arxiv.org/abs/2412.17401)|null|
 |**2024-12-23**|**Neural Spatial-Temporal Tensor Representation for Infrared Small Target Detection**|Fengyi Wu et.al.|[2412.17302](http://arxiv.org/abs/2412.17302)|**[link](https://github.com/fengyiwu98/neurstt)**|
@@ -65,6 +67,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-04**|**XFMamba: Cross-Fusion Mamba for Multi-View Medical Image Classification**|Xiaoyu Zheng et.al.|[2503.02619](http://arxiv.org/abs/2503.02619)|null|
+|**2025-03-04**|**COMMA: Coordinate-aware Modulated Mamba Network for 3D Dispersed Vessel Segmentation**|Gen Shi et.al.|[2503.02332](http://arxiv.org/abs/2503.02332)|null|
+|**2025-03-03**|**Mamba base PKD for efficient knowledge compression**|José Medina et.al.|[2503.01727](http://arxiv.org/abs/2503.01727)|null|
+|**2025-03-03**|**SparseMamba-PCL: Scribble-Supervised Medical Image Segmentation via SAM-Guided Progressive Collaborative Learning**|Luyi Qiu et.al.|[2503.01633](http://arxiv.org/abs/2503.01633)|**[link](https://github.com/qlycode/sparsemamba-pcl)**|
+|**2025-03-03**|**From Claims to Evidence: A Unified Framework and Critical Analysis of CNN vs. Transformer vs. Mamba in Medical Image Segmentation**|Pooya Mohammadi Kazaj et.al.|[2503.01306](http://arxiv.org/abs/2503.01306)|null|
+|**2025-03-03**|**DCAMamba: Mamba-based Rapid Response DC Arc Fault Detection**|Lukun Wang et.al.|[2503.01264](http://arxiv.org/abs/2503.01264)|null|
+|**2025-03-03**|**SCSegamba: Lightweight Structure-Aware Vision Mamba for Crack Segmentation in Structures**|Hui Liu et.al.|[2503.01113](http://arxiv.org/abs/2503.01113)|**[link](https://github.com/karl1109/scsegamba)**|
+|**2025-03-02**|**LightEndoStereo: A Real-time Lightweight Stereo Matching Method for Endoscopy Images**|Yang Ding et.al.|[2503.00731](http://arxiv.org/abs/2503.00731)|**[link](https://github.com/sonne-ding/lightendostereo)**|
+|**2025-03-01**|**2DMCG:2DMambawith Change Flow Guidance for Change Detection in Remote Sensing**|JunYao Kaung et.al.|[2503.00521](http://arxiv.org/abs/2503.00521)|null|
 |**2025-02-28**|**Visual Attention Exploration in Vision-Based Mamba Models**|Junpeng Wang et.al.|[2502.20764](http://arxiv.org/abs/2502.20764)|null|
 |**2025-02-28**|**A Quantum-Empowered SPEI Drought Forecasting Algorithm Using Spatially-Aware Mamba Network**|Po-Wei Tang et.al.|[2502.20703](http://arxiv.org/abs/2502.20703)|null|
 |**2025-02-27**|**Thinking Slow, Fast: Scaling Inference Compute with Distilled Reasoners**|Daniele Paliotta et.al.|[2502.20339](http://arxiv.org/abs/2502.20339)|null|
