@@ -67,6 +67,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-05**|**JamMa: Ultra-lightweight Local Feature Matching with Joint Mamba**|Xiaoyong Lu et.al.|[2503.03437](http://arxiv.org/abs/2503.03437)|null|
 |**2025-03-04**|**XFMamba: Cross-Fusion Mamba for Multi-View Medical Image Classification**|Xiaoyu Zheng et.al.|[2503.02619](http://arxiv.org/abs/2503.02619)|null|
 |**2025-03-04**|**COMMA: Coordinate-aware Modulated Mamba Network for 3D Dispersed Vessel Segmentation**|Gen Shi et.al.|[2503.02332](http://arxiv.org/abs/2503.02332)|null|
 |**2025-03-03**|**Mamba base PKD for efficient knowledge compression**|José Medina et.al.|[2503.01727](http://arxiv.org/abs/2503.01727)|null|
