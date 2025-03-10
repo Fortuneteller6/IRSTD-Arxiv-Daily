@@ -73,6 +73,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-07**|**Growth-fragmentation model for a population presenting heterogeneity in growth rate: Malthus parameter and long-time behavior**|Anaïs Rat et.al.|[2503.05232](http://arxiv.org/abs/2503.05232)|null|
+|**2025-03-06**|**Spectral Informed Mamba for Robust Point Cloud Processing**|Ali Bahri et.al.|[2503.04953](http://arxiv.org/abs/2503.04953)|null|
 |**2025-03-06**|**Token-Efficient Long Video Understanding for Multimodal LLMs**|Jindong Jiang et.al.|[2503.04130](http://arxiv.org/abs/2503.04130)|null|
 |**2025-03-05**|**JamMa: Ultra-lightweight Local Feature Matching with Joint Mamba**|Xiaoyong Lu et.al.|[2503.03437](http://arxiv.org/abs/2503.03437)|null|
 |**2025-03-04**|**XFMamba: Cross-Fusion Mamba for Multi-View Medical Image Classification**|Xiaoyu Zheng et.al.|[2503.02619](http://arxiv.org/abs/2503.02619)|null|
