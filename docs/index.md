@@ -14,7 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-04**|**10K is Enough: An Ultra-Lightweight Binarized Network for Infrared Small-Target Detection**|Biqiao Xin et.al.|[2503.02662](http://arxiv.org/abs/2503.02662)|null|
+|**2025-03-10**|**Text-IRSTD: Leveraging Semantic Text to Promote Infrared Small Target Detection in Complex Scenes**|Feng Huang et.al.|[2503.07249](http://arxiv.org/abs/2503.07249)|null|
+|**2025-03-10**|**10K is Enough: An Ultra-Lightweight Binarized Network for Infrared Small-Target Detection**|Biqiao Xin et.al.|[2503.02662](http://arxiv.org/abs/2503.02662)|null|
 |**2025-03-04**|**Low-Level Matters: An Efficient Hybrid Architecture for Robust Multi-frame Infrared Small Target Detection**|Zhihua Shen et.al.|[2503.02220](http://arxiv.org/abs/2503.02220)|null|
 |**2024-12-27**|**YOLO-MST: Multiscale deep learning method for infrared small target detection based on super-resolution and YOLO**|Taoran Yue et.al.|[2412.19878](http://arxiv.org/abs/2412.19878)|null|
 |**2024-12-23**|**Learning Dynamic Local Context Representations for Infrared Small Target Detection**|Guoyi Zhang et.al.|[2412.17401](http://arxiv.org/abs/2412.17401)|null|
@@ -67,6 +68,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-10**|**MambaFlow: A Mamba-Centric Architecture for End-to-End Optical Flow Estimation**|Juntian Du et.al.|[2503.07046](http://arxiv.org/abs/2503.07046)|null|
+|**2025-03-10**|**HiSTF Mamba: Hierarchical Spatiotemporal Fusion with Multi-Granular Body-Spatial Modeling for High-Fidelity Text-to-Motion Generation**|Xingzu Zhan et.al.|[2503.06897](http://arxiv.org/abs/2503.06897)|null|
+|**2025-03-10**|**From Image- to Pixel-level: Label-efficient Hyperspectral Image Reconstruction**|Yihong Leng et.al.|[2503.06852](http://arxiv.org/abs/2503.06852)|null|
+|**2025-03-09**|**Global-Aware Monocular Semantic Scene Completion with State Space Models**|Shijie Li et.al.|[2503.06569](http://arxiv.org/abs/2503.06569)|null|
+|**2025-03-09**|**Future-Aware Interaction Network For Motion Forecasting**|Shijie Li et.al.|[2503.06565](http://arxiv.org/abs/2503.06565)|null|
+|**2025-03-09**|**M $^3$ amba: CLIP-driven Mamba Model for Multi-modal Remote Sensing Classification**|Mingxiang Cao et.al.|[2503.06446](http://arxiv.org/abs/2503.06446)|null|
+|**2025-03-09**|**Swift Hydra: Self-Reinforcing Generative Framework for Anomaly Detection with Multiple Mamba Models**|Nguyen Do et.al.|[2503.06413](http://arxiv.org/abs/2503.06413)|null|
 |**2025-03-07**|**Growth-fragmentation model for a population presenting heterogeneity in growth rate: Malthus parameter and long-time behavior**|Anaïs Rat et.al.|[2503.05232](http://arxiv.org/abs/2503.05232)|null|
 |**2025-03-06**|**Spectral Informed Mamba for Robust Point Cloud Processing**|Ali Bahri et.al.|[2503.04953](http://arxiv.org/abs/2503.04953)|null|
 |**2025-03-06**|**Token-Efficient Long Video Understanding for Multimodal LLMs**|Jindong Jiang et.al.|[2503.04130](http://arxiv.org/abs/2503.04130)|null|
