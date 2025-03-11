@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.10
+## Updated on 2025.03.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## IRSTD
@@ -77,7 +77,7 @@ layout: default
 |**2025-03-03**|**SparseMamba-PCL: Scribble-Supervised Medical Image Segmentation via SAM-Guided Progressive Collaborative Learning**|Luyi Qiu et.al.|[2503.01633](http://arxiv.org/abs/2503.01633)|**[link](https://github.com/qlycode/sparsemamba-pcl)**|
 |**2025-03-03**|**From Claims to Evidence: A Unified Framework and Critical Analysis of CNN vs. Transformer vs. Mamba in Medical Image Segmentation**|Pooya Mohammadi Kazaj et.al.|[2503.01306](http://arxiv.org/abs/2503.01306)|null|
 |**2025-03-03**|**DCAMamba: Mamba-based Rapid Response DC Arc Fault Detection**|Lukun Wang et.al.|[2503.01264](http://arxiv.org/abs/2503.01264)|null|
-|**2025-03-03**|**SCSegamba: Lightweight Structure-Aware Vision Mamba for Crack Segmentation in Structures**|Hui Liu et.al.|[2503.01113](http://arxiv.org/abs/2503.01113)|**[link](https://github.com/karl1109/scsegamba)**|
+|**2025-03-09**|**SCSegamba: Lightweight Structure-Aware Vision Mamba for Crack Segmentation in Structures**|Hui Liu et.al.|[2503.01113](http://arxiv.org/abs/2503.01113)|**[link](https://github.com/karl1109/scsegamba)**|
 |**2025-03-02**|**LightEndoStereo: A Real-time Lightweight Stereo Matching Method for Endoscopy Images**|Yang Ding et.al.|[2503.00731](http://arxiv.org/abs/2503.00731)|**[link](https://github.com/sonne-ding/lightendostereo)**|
 |**2025-03-01**|**2DMCG:2DMambawith Change Flow Guidance for Change Detection in Remote Sensing**|JunYao Kaung et.al.|[2503.00521](http://arxiv.org/abs/2503.00521)|null|
 |**2025-02-28**|**Visual Attention Exploration in Vision-Based Mamba Models**|Junpeng Wang et.al.|[2502.20764](http://arxiv.org/abs/2502.20764)|null|
