@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.12
+## Updated on 2025.03.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## IRSTD
@@ -27,7 +27,7 @@ layout: default
 |**2025-03-01**|**DATransNet: Dynamic Attention Transformer Network for Infrared Small Target Detection**|Chen Hu et.al.|[2409.19599](http://arxiv.org/abs/2409.19599)|**[link](https://github.com/greekinroma/datransnet)**|
 |**2025-02-20**|**Infrared Small Target Detection in Satellite Videos: A New Dataset and A Novel Recurrent Feature Refinement Framework**|Xinyi Ying et.al.|[2409.12448](http://arxiv.org/abs/2409.12448)|**[link](https://github.com/xinyiying/rfr)**|
 |**2024-09-07**|**Unleashing the Power of Generic Segmentation Models: A Simple Baseline for Infrared Small Target Detection**|Mingjin Zhang et.al.|[2409.04714](http://arxiv.org/abs/2409.04714)|**[link](https://github.com/o937-blip/simir)**|
-|**2024-09-06**|**Hybrid Mask Generation for Infrared Small Target Detection with Single-Point Supervision**|Weijie He et.al.|[2409.04011](http://arxiv.org/abs/2409.04011)|null|
+|**2025-03-12**|**Hybrid Mask Generation for Infrared Small Target Detection with Single-Point Supervision**|Weijie He et.al.|[2409.04011](http://arxiv.org/abs/2409.04011)|null|
 |**2024-08-18**|**The First Competition on Resource-Limited Infrared Small Target Detection Challenge: Methods and Results**|Boyang Li et.al.|[2408.09615](http://arxiv.org/abs/2408.09615)|**[link](https://github.com/xinyiying/basicirstd)**|
 |**2024-11-16**|**Beyond Full Labels: Energy-Double-Guided Single-Point Prompt for Infrared Small Target Label Generation**|Shuai Yuan et.al.|[2408.08191](http://arxiv.org/abs/2408.08191)|**[link](https://github.com/xdfai/edgsp)**|
 |**2024-09-15**|**One Shot is Enough for Sequential Infrared Small Target Segmentation**|Bingbing Dan et.al.|[2408.04823](http://arxiv.org/abs/2408.04823)|**[link](https://github.com/d-iceice/one-shot-irsts)**|
