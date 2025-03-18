@@ -74,6 +74,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-17**|**MaTVLM: Hybrid Mamba-Transformer for Efficient Vision-Language Modeling**|Yingyue Li et.al.|[2503.13440](http://arxiv.org/abs/2503.13440)|**[link](https://github.com/hustvl/MaTVLM)**|
+|**2025-03-17**|**xLSTM 7B: A Recurrent LLM for Fast and Efficient Inference**|Maximilian Beck et.al.|[2503.13427](http://arxiv.org/abs/2503.13427)|null|
+|**2025-03-17**|**Scale Efficient Training for Large Datasets**|Qing Zhou et.al.|[2503.13385](http://arxiv.org/abs/2503.13385)|null|
+|**2025-03-17**|**DynSTG-Mamba: Dynamic Spatio-Temporal Graph Mamba with Cross-Graph Knowledge Distillation for Gait Disorders Recognition**|Zakariae Zrimek et.al.|[2503.13156](http://arxiv.org/abs/2503.13156)|null|
+|**2025-03-17**|**TFDM: Time-Variant Frequency-Based Point Cloud Diffusion with Mamba**|Jiaxu Liu et.al.|[2503.13004](http://arxiv.org/abs/2503.13004)|null|
+|**2025-03-17**|**Pose as a Modality: A Psychology-Inspired Network for Personality Recognition with a New Multimodal Dataset**|Bin Tang et.al.|[2503.12912](http://arxiv.org/abs/2503.12912)|null|
+|**2025-03-16**|**BS-Mamba for Black-Soil Area Detection On the Qinghai-Tibetan Plateau**|Xuan Ma et.al.|[2503.12495](http://arxiv.org/abs/2503.12495)|null|
+|**2025-03-16**|**VideoMAP: Toward Scalable Mamba-based Video Autoregressive Pretraining**|Yunze Liu et.al.|[2503.12332](http://arxiv.org/abs/2503.12332)|null|
+|**2025-03-15**|**Toward Foundation Models for Online Complex Event Detection in CPS-IoT: A Case Study**|Liying Han et.al.|[2503.12282](http://arxiv.org/abs/2503.12282)|null|
+|**2025-03-15**|**UniMamba: Unified Spatial-Channel Representation Learning with Group-Efficient Mamba for LiDAR-based 3D Object Detection**|Xin Jin et.al.|[2503.12009](http://arxiv.org/abs/2503.12009)|null|
+|**2025-03-14**|**BioMamba: Leveraging Spectro-Temporal Embedding in Bidirectional Mamba for Enhanced Biosignal Classification**|Jian Qian et.al.|[2503.11741](http://arxiv.org/abs/2503.11741)|null|
 |**2025-03-14**|**Vamba: Understanding Hour-Long Videos with Hybrid Mamba-Transformers**|Weiming Ren et.al.|[2503.11579](http://arxiv.org/abs/2503.11579)|null|
 |**2025-03-14**|**Hierarchical Information-Guided Spatio-Temporal Mamba for Stock Time Series Forecasting**|Wenbo Yan et.al.|[2503.11387](http://arxiv.org/abs/2503.11387)|null|
 |**2025-03-14**|**Breaking Shallow Limits: Task-Driven Pixel Fusion for Gap-free RGBT Tracking**|Andong Lu et.al.|[2503.11247](http://arxiv.org/abs/2503.11247)|null|
@@ -93,7 +104,7 @@
 |**2025-03-12**|**ViM-VQ: Efficient Post-Training Vector Quantization for Visual Mamba**|Juncan Deng et.al.|[2503.09509](http://arxiv.org/abs/2503.09509)|null|
 |**2025-03-12**|**Diff-CL: A Novel Cross Pseudo-Supervision Method for Semi-supervised Medical Image Segmentation**|Xiuzhen Guo et.al.|[2503.09408](http://arxiv.org/abs/2503.09408)|null|
 |**2025-03-12**|**GIGP: A Global Information Interacting and Geometric Priors Focusing Framework for Semi-supervised Medical Image Segmentation**|Lianyuan Yu et.al.|[2503.09355](http://arxiv.org/abs/2503.09355)|null|
-|**2025-03-12**|**Dual-Domain Homogeneous Fusion with Cross-Modal Mamba and Progressive Decoder for 3D Object Detection**|Xuzhong Hu et.al.|[2503.08992](http://arxiv.org/abs/2503.08992)|null|
+|**2025-03-17**|**Dual-Domain Homogeneous Fusion with Cross-Modal Mamba and Progressive Decoder for 3D Object Detection**|Xuzhong Hu et.al.|[2503.08992](http://arxiv.org/abs/2503.08992)|null|
 |**2025-03-11**|**MinGRU-Based Encoder for Turbo Autoencoder Frameworks**|Rick Fritschek et.al.|[2503.08451](http://arxiv.org/abs/2503.08451)|null|
 |**2025-03-11**|**EnergyFormer: Energy Attention with Fourier Embedding for Hyperspectral Image Classification**|Saad Sohail et.al.|[2503.08239](http://arxiv.org/abs/2503.08239)|null|
 |**2025-03-10**|**MambaFlow: A Mamba-Centric Architecture for End-to-End Optical Flow Estimation**|Juntian Du et.al.|[2503.07046](http://arxiv.org/abs/2503.07046)|null|
