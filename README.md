@@ -75,6 +75,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-26**|**Mamba-3D as Masked Autoencoders for Accurate and Data-Efficient Analysis of Medical Ultrasound Videos**|Jiaheng Zhou et.al.|[2503.20258](http://arxiv.org/abs/2503.20258)|null|
 |**2025-03-25**|**EventMamba: Enhancing Spatio-Temporal Locality with State Space Models for Event-Based Video Reconstruction**|Chengjie Ge et.al.|[2503.19721](http://arxiv.org/abs/2503.19721)|null|
 |**2025-03-25**|**Burst Image Super-Resolution with Mamba**|Ozan Unal et.al.|[2503.19634](http://arxiv.org/abs/2503.19634)|null|
 |**2025-03-25**|**Prompt-Guided Dual-Path UNet with Mamba for Medical Image Segmentation**|Shaolei Zhang et.al.|[2503.19589](http://arxiv.org/abs/2503.19589)|null|
