@@ -267,7 +267,7 @@
 |**2024-12-29**|**PTQ4VM: Post-Training Quantization for Visual Mamba**|Younghyun Cho et.al.|[2412.20386](http://arxiv.org/abs/2412.20386)|**[link](https://github.com/younghyun197/ptq4vm)**|
 |**2024-12-28**|**STNMamba: Mamba-based Spatial-Temporal Normality Learning for Video Anomaly Detection**|Zhangxun Li et.al.|[2412.20084](http://arxiv.org/abs/2412.20084)|null|
 |**2024-12-28**|**MambaVO: Deep Visual Odometry Based on Sequential Matching Refinement and Training Smoothing**|Shuo Wang et.al.|[2412.20082](http://arxiv.org/abs/2412.20082)|null|
-|**2024-12-28**|**MaIR: A Locality- and Continuity-Preserving Mamba for Image Restoration**|Boyun Li et.al.|[2412.20066](http://arxiv.org/abs/2412.20066)|null|
+|**2024-12-28**|**MaIR: A Locality- and Continuity-Preserving Mamba for Image Restoration**|Boyun Li et.al.|[2412.20066](http://arxiv.org/abs/2412.20066)|**[link](https://github.com/XLearning-SCU/2025-CVPR-MaIR)**|
 |**2024-12-28**|**DepthMamba with Adaptive Fusion**|Zelin Meng et.al.|[2412.19964](http://arxiv.org/abs/2412.19964)|null|
 |**2024-12-26**|**Completion as Enhancement: A Degradation-Aware Selective Image Guided Network for Depth Completion**|Zhiqiang Yan et.al.|[2412.19225](http://arxiv.org/abs/2412.19225)|null|
 |**2024-12-26**|**BSDB-Net: Band-Split Dual-Branch Network with Selective State Spaces Mechanism for Monaural Speech Enhancement**|Cunhang Fan et.al.|[2412.19099](http://arxiv.org/abs/2412.19099)|null|
@@ -326,7 +326,7 @@
 |**2024-12-01**|**2DMamba: Efficient State Space Model for Image Representation with Applications on Giga-Pixel Whole Slide Image Classification**|Jingwei Zhang et.al.|[2412.00678](http://arxiv.org/abs/2412.00678)|**[link](https://github.com/atlasanalyticslab/2dmamba)**|
 |**2024-12-01**|**MambaNUT: Nighttime UAV Tracking via Mamba and Adaptive Curriculum Learning**|You Wu et.al.|[2412.00626](http://arxiv.org/abs/2412.00626)|null|
 |**2024-11-29**|**RMIO: A Model-Based MARL Framework for Scenarios with Observation Loss in Some Agents**|Shi Zifeng et.al.|[2411.19639](http://arxiv.org/abs/2411.19639)|null|
-|**2024-11-28**|**MSEMG: Surface Electromyography Denoising with a Mamba-based Efficient Network**|Yu-Tung Liu et.al.|[2411.18902](http://arxiv.org/abs/2411.18902)|null|
+|**2024-11-28**|**MSEMG: Surface Electromyography Denoising with a Mamba-based Efficient Network**|Yu-Tung Liu et.al.|[2411.18902](http://arxiv.org/abs/2411.18902)|**[link](https://github.com/tonyliu0910/msemg)**|
 |**2024-11-27**|**Vision Mamba Distillation for Low-resolution Fine-grained Image Classification**|Yao Chen et.al.|[2411.17980](http://arxiv.org/abs/2411.17980)|**[link](https://github.com/boa2004plaust/vimd)**|
 |**2024-11-26**|**MTS-UNMixers: Multivariate Time Series Forecasting via Channel-Time Dual Unmixing**|Xuanbing Zhu et.al.|[2411.17770](http://arxiv.org/abs/2411.17770)|**[link](https://github.com/zhu-0108/mts-unmixers)**|
 |**2024-11-26**|**TinyViM: Frequency Decoupling for Tiny Hybrid Vision Mamba**|Xiaowen Ma et.al.|[2411.17473](http://arxiv.org/abs/2411.17473)|**[link](https://github.com/xwmaxwma/tinyvim)**|
