@@ -75,6 +75,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-31**|**TransMamba: Flexibly Switching between Transformer and Mamba**|Yixing Li et.al.|[2503.24067](http://arxiv.org/abs/2503.24067)|null|
+|**2025-03-31**|**AMMSM: Adaptive Motion Magnification and Sparse Mamba for Micro-Expression Recognition**|Xuxiong Liu et.al.|[2503.24057](http://arxiv.org/abs/2503.24057)|null|
+|**2025-03-31**|**Exploring Temporal Dynamics in Event-based Eye Tracker**|Hongwei Ren et.al.|[2503.23725](http://arxiv.org/abs/2503.23725)|**[link](https://github.com/rhwxmx/tdtracker)**|
+|**2025-03-29**|**Efficient Explicit Joint-level Interaction Modeling with Mamba for Text-guided HOI Generation**|Guohong Huang et.al.|[2503.23121](http://arxiv.org/abs/2503.23121)|**[link](https://github.com/huanggh531/ejim)**|
+|**2025-03-29**|**SSM-RDU: A Reconfigurable Dataflow Unit for Long-Sequence State-Space Models**|Sho Ko et.al.|[2503.22937](http://arxiv.org/abs/2503.22937)|null|
+|**2025-03-26**|**Adaptive State-Space Mamba for Real-Time Sensor Data Anomaly Detection**|Alice Zhang et.al.|[2503.22743](http://arxiv.org/abs/2503.22743)|null|
+|**2025-03-26**|**Ancestral Mamba: Enhancing Selective Discriminant Space Model with Online Visual Prototype Learning for Efficient and Robust Discriminant Approach**|Jiahao Qin et.al.|[2503.22729](http://arxiv.org/abs/2503.22729)|null|
 |**2025-03-27**|**Q-MambaIR: Accurate Quantized Mamba for Efficient Image Restoration**|Yujie Chen et.al.|[2503.21970](http://arxiv.org/abs/2503.21970)|null|
 |**2025-03-27**|**vGamba: Attentive State Space Bottleneck for efficient Long-range Dependencies in Visual Recognition**|Yunusa Haruna et.al.|[2503.21262](http://arxiv.org/abs/2503.21262)|**[link](https://github.com/yunusa2k2/vGamba)**|
 |**2025-03-27**|**VADMamba: Exploring State Space Models for Fast Video Anomaly Detection**|Jiahao Lyu et.al.|[2503.21169](http://arxiv.org/abs/2503.21169)|**[link](https://github.com/jLooo/VADMamba)**|
