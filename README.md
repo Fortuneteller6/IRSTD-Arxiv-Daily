@@ -75,6 +75,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-02**|**Mesh Mamba: A Unified State Space Model for Saliency Prediction in Non-Textured and Textured Meshes**|Kaiwei Zhang et.al.|[2504.01466](http://arxiv.org/abs/2504.01466)|null|
+|**2025-04-02**|**CFMD: Dynamic Cross-layer Feature Fusion for Salient Object Detection**|Jin Lian et.al.|[2504.01326](http://arxiv.org/abs/2504.01326)|null|
+|**2025-03-30**|**ViT-Linearizer: Distilling Quadratic Knowledge into Linear-Time Vision Models**|Guoyizhe Wei et.al.|[2504.00037](http://arxiv.org/abs/2504.00037)|null|
 |**2025-03-31**|**TransMamba: Flexibly Switching between Transformer and Mamba**|Yixing Li et.al.|[2503.24067](http://arxiv.org/abs/2503.24067)|null|
 |**2025-03-31**|**AMMSM: Adaptive Motion Magnification and Sparse Mamba for Micro-Expression Recognition**|Xuxiong Liu et.al.|[2503.24057](http://arxiv.org/abs/2503.24057)|null|
 |**2025-03-31**|**Exploring Temporal Dynamics in Event-based Eye Tracker**|Hongwei Ren et.al.|[2503.23725](http://arxiv.org/abs/2503.23725)|**[link](https://github.com/rhwxmx/tdtracker)**|
