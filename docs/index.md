@@ -69,6 +69,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-07**|**One-Minute Video Generation with Test-Time Training**|Karan Dalal et.al.|[2504.05298](http://arxiv.org/abs/2504.05298)|null|
+|**2025-04-07**|**GAMDTP: Dynamic Trajectory Prediction with Graph Attention Mamba Network**|Yunxiang Liu et.al.|[2504.04862](http://arxiv.org/abs/2504.04862)|null|
+|**2025-04-07**|**Dynamic Vision Mamba**|Mengxuan Wu et.al.|[2504.04787](http://arxiv.org/abs/2504.04787)|null|
+|**2025-04-06**|**GAMBAS: Generalised-Hilbert Mamba for Super-resolution of Paediatric Ultra-Low-Field MRI**|Levente Baljer et.al.|[2504.04523](http://arxiv.org/abs/2504.04523)|null|
+|**2025-04-06**|**Gating is Weighting: Understanding Gated Linear Attention through In-context Learning**|Yingcong Li et.al.|[2504.04308](http://arxiv.org/abs/2504.04308)|null|
 |**2025-04-04**|**Nemotron-H: A Family of Accurate and Efficient Hybrid Mamba-Transformer Models**|NVIDIA et.al.|[2504.03624](http://arxiv.org/abs/2504.03624)|null|
 |**2025-04-04**|**Pyramid-based Mamba Multi-class Unsupervised Anomaly Detection**|Nasar Iqbal et.al.|[2504.03442](http://arxiv.org/abs/2504.03442)|null|
 |**2025-04-04**|**Mamba as a Bridge: Where Vision Foundation Models Meet Vision Language Models for Domain-Generalized Semantic Segmentation**|Xin Zhang et.al.|[2504.03193](http://arxiv.org/abs/2504.03193)|null|
