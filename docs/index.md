@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.09
+## Updated on 2025.04.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## IRSTD
@@ -82,7 +82,7 @@ layout: default
 |**2025-04-03**|**Cognitive Memory in Large Language Models**|Lianlei Shan et.al.|[2504.02441](http://arxiv.org/abs/2504.02441)|null|
 |**2025-04-03**|**EvMic: Event-based Non-contact sound recovery from effective spatial-temporal modeling**|Hao Yin et.al.|[2504.02402](http://arxiv.org/abs/2504.02402)|null|
 |**2025-04-02**|**Attention Mamba: Time Series Modeling with Adaptive Pooling Acceleration and Receptive Field Enhancements**|Sijie Xiong et.al.|[2504.02013](http://arxiv.org/abs/2504.02013)|null|
-|**2025-04-02**|**Mesh Mamba: A Unified State Space Model for Saliency Prediction in Non-Textured and Textured Meshes**|Kaiwei Zhang et.al.|[2504.01466](http://arxiv.org/abs/2504.01466)|**[link](https://github.com/kaviezhang/meshmamba)**|
+|**2025-04-09**|**Mesh Mamba: A Unified State Space Model for Saliency Prediction in Non-Textured and Textured Meshes**|Kaiwei Zhang et.al.|[2504.01466](http://arxiv.org/abs/2504.01466)|**[link](https://github.com/kaviezhang/meshmamba)**|
 |**2025-04-02**|**CFMD: Dynamic Cross-layer Feature Fusion for Salient Object Detection**|Jin Lian et.al.|[2504.01326](http://arxiv.org/abs/2504.01326)|null|
 |**2025-03-30**|**ViT-Linearizer: Distilling Quadratic Knowledge into Linear-Time Vision Models**|Guoyizhe Wei et.al.|[2504.00037](http://arxiv.org/abs/2504.00037)|null|
 |**2025-03-31**|**TransMamba: Flexibly Switching between Transformer and Mamba**|Yixing Li et.al.|[2503.24067](http://arxiv.org/abs/2503.24067)|null|

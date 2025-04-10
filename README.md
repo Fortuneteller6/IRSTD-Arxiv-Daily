@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.09
+## Updated on 2025.04.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -69,7 +69,7 @@
 |**2024-10-04**|**Mapping Degeneration Meets Label Evolution: Learning Infrared Small Target Detection with Single Point Supervision**|Xinyi Ying et.al.|[2304.01484](http://arxiv.org/abs/2304.01484)|**[link](https://github.com/xinyiying/lesps)**|
 |**2023-03-18**|**ABC: Attention with Bilinear Correlation for Infrared Small Target Detection**|Peiwen Pan et.al.|[2303.10321](http://arxiv.org/abs/2303.10321)|**[link](https://github.com/panpeiwen/abc)**|
 
-<p align=right>(<a href=#updated-on-20250409>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250410>back to top</a>)</p>
 
 ## Mamba
 
@@ -88,7 +88,7 @@
 |**2025-04-03**|**Cognitive Memory in Large Language Models**|Lianlei Shan et.al.|[2504.02441](http://arxiv.org/abs/2504.02441)|null|
 |**2025-04-03**|**EvMic: Event-based Non-contact sound recovery from effective spatial-temporal modeling**|Hao Yin et.al.|[2504.02402](http://arxiv.org/abs/2504.02402)|null|
 |**2025-04-02**|**Attention Mamba: Time Series Modeling with Adaptive Pooling Acceleration and Receptive Field Enhancements**|Sijie Xiong et.al.|[2504.02013](http://arxiv.org/abs/2504.02013)|null|
-|**2025-04-02**|**Mesh Mamba: A Unified State Space Model for Saliency Prediction in Non-Textured and Textured Meshes**|Kaiwei Zhang et.al.|[2504.01466](http://arxiv.org/abs/2504.01466)|**[link](https://github.com/kaviezhang/meshmamba)**|
+|**2025-04-09**|**Mesh Mamba: A Unified State Space Model for Saliency Prediction in Non-Textured and Textured Meshes**|Kaiwei Zhang et.al.|[2504.01466](http://arxiv.org/abs/2504.01466)|**[link](https://github.com/kaviezhang/meshmamba)**|
 |**2025-04-02**|**CFMD: Dynamic Cross-layer Feature Fusion for Salient Object Detection**|Jin Lian et.al.|[2504.01326](http://arxiv.org/abs/2504.01326)|null|
 |**2025-03-30**|**ViT-Linearizer: Distilling Quadratic Knowledge into Linear-Time Vision Models**|Guoyizhe Wei et.al.|[2504.00037](http://arxiv.org/abs/2504.00037)|null|
 |**2025-03-31**|**TransMamba: Flexibly Switching between Transformer and Mamba**|Yixing Li et.al.|[2503.24067](http://arxiv.org/abs/2503.24067)|null|
@@ -408,7 +408,7 @@
 |**2024-10-31**|**NIMBA: Towards Robust and Principled Processing of Point Clouds With SSMs**|Nursena Köprücü et.al.|[2411.00151](http://arxiv.org/abs/2411.00151)|null|
 |**2024-11-01**|**Dynamical similarity analysis uniquely captures how computations develop in RNNs**|Quentin Guilhot et.al.|[2410.24070](http://arxiv.org/abs/2410.24070)|**[link](https://github.com/qglht/repal)**|
 
-<p align=right>(<a href=#updated-on-20250409>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250410>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Fortuneteller6/IRSTD-Arxiv-Daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Fortuneteller6/IRSTD-Arxiv-Daily/graphs/contributors
