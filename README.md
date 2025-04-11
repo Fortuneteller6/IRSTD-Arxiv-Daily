@@ -75,6 +75,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-10**|**ms-Mamba: Multi-scale Mamba for Time-Series Forecasting**|Yusuf Meric Karadag et.al.|[2504.07654](http://arxiv.org/abs/2504.07654)|null|
+|**2025-04-10**|**A Novel Mamba-based Sequential Recommendation Method**|Jun Yuan et.al.|[2504.07398](http://arxiv.org/abs/2504.07398)|null|
+|**2025-04-10**|**Novel Diffusion Models for Multimodal 3D Hand Trajectory Prediction**|Junyi Ma et.al.|[2504.07375](http://arxiv.org/abs/2504.07375)|null|
 |**2025-04-09**|**HGMamba: Enhancing 3D Human Pose Estimation with a HyperGCN-Mamba Network**|Hu Cui et.al.|[2504.06638](http://arxiv.org/abs/2504.06638)|null|
 |**2025-04-08**|**DefMamba: Deformable Visual State Space Model**|Leiye Liu et.al.|[2504.05794](http://arxiv.org/abs/2504.05794)|null|
 |**2025-04-07**|**One-Minute Video Generation with Test-Time Training**|Karan Dalal et.al.|[2504.05298](http://arxiv.org/abs/2504.05298)|null|
@@ -84,8 +87,8 @@
 |**2025-04-06**|**Gating is Weighting: Understanding Gated Linear Attention through In-context Learning**|Yingcong Li et.al.|[2504.04308](http://arxiv.org/abs/2504.04308)|null|
 |**2025-04-10**|**Nemotron-H: A Family of Accurate and Efficient Hybrid Mamba-Transformer Models**|NVIDIA et.al.|[2504.03624](http://arxiv.org/abs/2504.03624)|null|
 |**2025-04-04**|**Pyramid-based Mamba Multi-class Unsupervised Anomaly Detection**|Nasar Iqbal et.al.|[2504.03442](http://arxiv.org/abs/2504.03442)|null|
-|**2025-04-04**|**Mamba as a Bridge: Where Vision Foundation Models Meet Vision Language Models for Domain-Generalized Semantic Segmentation**|Xin Zhang et.al.|[2504.03193](http://arxiv.org/abs/2504.03193)|null|
-|**2025-04-07**|**Audio-visual Controlled Video Diffusion with Masked Selective State Spaces Modeling for Natural Talking Head Generation**|Fa-Ting Hong et.al.|[2504.02542](http://arxiv.org/abs/2504.02542)|null|
+|**2025-04-04**|**Mamba as a Bridge: Where Vision Foundation Models Meet Vision Language Models for Domain-Generalized Semantic Segmentation**|Xin Zhang et.al.|[2504.03193](http://arxiv.org/abs/2504.03193)|**[link](https://github.com/devinxzhang/mfuser)**|
+|**2025-04-07**|**Audio-visual Controlled Video Diffusion with Masked Selective State Spaces Modeling for Natural Talking Head Generation**|Fa-Ting Hong et.al.|[2504.02542](http://arxiv.org/abs/2504.02542)|**[link](https://github.com/harlanhong/actalker)**|
 |**2025-04-03**|**Cognitive Memory in Large Language Models**|Lianlei Shan et.al.|[2504.02441](http://arxiv.org/abs/2504.02441)|null|
 |**2025-04-03**|**EvMic: Event-based Non-contact sound recovery from effective spatial-temporal modeling**|Hao Yin et.al.|[2504.02402](http://arxiv.org/abs/2504.02402)|null|
 |**2025-04-02**|**Attention Mamba: Time Series Modeling with Adaptive Pooling Acceleration and Receptive Field Enhancements**|Sijie Xiong et.al.|[2504.02013](http://arxiv.org/abs/2504.02013)|null|
