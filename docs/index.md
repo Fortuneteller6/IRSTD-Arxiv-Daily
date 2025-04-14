@@ -272,7 +272,7 @@ layout: default
 |**2025-01-13**|**MSV-Mamba: A Multiscale Vision Mamba Network for Echocardiography Segmentation**|Xiaoxian Yang et.al.|[2501.07120](http://arxiv.org/abs/2501.07120)|null|
 |**2025-01-12**|**Mamba-MOC: A Multicategory Remote Object Counting via State Space Model**|Peng Liu et.al.|[2501.06697](http://arxiv.org/abs/2501.06697)|null|
 |**2025-01-10**|**MS-Temba : Multi-Scale Temporal Mamba for Efficient Temporal Action Detection**|Arkaprava Sinha et.al.|[2501.06138](http://arxiv.org/abs/2501.06138)|**[link](https://github.com/thearkaprava/ms-temba)**|
-|**2025-01-10**|**Comparison Between Effective and Individual Fitness in a Heterogeneous Population**|Marie Doumic et.al.|[2501.05751](http://arxiv.org/abs/2501.05751)|null|
+|**2025-01-10**|**Comparison Between Effective and Individual Fitness in a Heterogeneous Population**|Marie Doumic et.al.|[2501.05751](http://arxiv.org/abs/2501.05751)|**[link](https://github.com/anais-rat/growth-fragmentation)**|
 |**2025-01-09**|**MambaHSI: Spatial-Spectral Mamba for Hyperspectral Image Classification**|Yapeng Li et.al.|[2501.04944](http://arxiv.org/abs/2501.04944)|**[link](https://github.com/li-yapeng/mambahsi)**|
 |**2025-01-08**|**EDMB: Edge Detector with Mamba**|Yachuan Li et.al.|[2501.04846](http://arxiv.org/abs/2501.04846)|**[link](https://github.com/li-yachuan/edmb)**|
 |**2025-01-08**|**H-MBA: Hierarchical MamBa Adaptation for Multi-Modal Video Understanding in Autonomous Driving**|Siran Chen et.al.|[2501.04302](http://arxiv.org/abs/2501.04302)|null|
