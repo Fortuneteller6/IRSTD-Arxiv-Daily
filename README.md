@@ -75,6 +75,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-14**|**M1: Towards Scalable Test-Time Compute with Mamba Reasoning Models**|Junxiong Wang et.al.|[2504.10449](http://arxiv.org/abs/2504.10449)|null|
+|**2025-04-14**|**Global and Local Mamba Network for Multi-Modality Medical Image Super-Resolution**|Zexin Ji et.al.|[2504.10105](http://arxiv.org/abs/2504.10105)|null|
+|**2025-04-13**|**OmniMamba4D: Spatio-temporal Mamba for longitudinal CT lesion segmentation**|Justin Namuk Kim et.al.|[2504.09655](http://arxiv.org/abs/2504.09655)|null|
+|**2025-04-13**|**Sparse Deformable Mamba for Hyperspectral Image Classification**|Lincoln Linlin Xu et.al.|[2504.09446](http://arxiv.org/abs/2504.09446)|null|
+|**2025-04-12**|**Repetitive Contrastive Learning Enhances Mamba's Selectivity in Time Series Prediction**|Wenbo Yan et.al.|[2504.09185](http://arxiv.org/abs/2504.09185)|null|
 |**2025-04-11**|**EMO-X: Efficient Multi-Person Pose and Shape Estimation in One-Stage**|Haohang Jian et.al.|[2504.08718](http://arxiv.org/abs/2504.08718)|null|
 |**2025-04-10**|**ms-Mamba: Multi-scale Mamba for Time-Series Forecasting**|Yusuf Meric Karadag et.al.|[2504.07654](http://arxiv.org/abs/2504.07654)|null|
 |**2025-04-10**|**A Novel Mamba-based Sequential Recommendation Method**|Jun Yuan et.al.|[2504.07398](http://arxiv.org/abs/2504.07398)|null|
