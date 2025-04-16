@@ -69,6 +69,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-15**|**Mamba-Based Ensemble learning for White Blood Cell Classification**|Lewis Clifton et.al.|[2504.11438](http://arxiv.org/abs/2504.11438)|null|
+|**2025-04-15**|**Change State Space Models for Remote Sensing Change Detection**|Elman Ghazaei et.al.|[2504.11080](http://arxiv.org/abs/2504.11080)|null|
+|**2025-04-15**|**An Efficient and Mixed Heterogeneous Model for Image Restoration**|Yubin Gu et.al.|[2504.10967](http://arxiv.org/abs/2504.10967)|null|
 |**2025-04-14**|**M1: Towards Scalable Test-Time Compute with Mamba Reasoning Models**|Junxiong Wang et.al.|[2504.10449](http://arxiv.org/abs/2504.10449)|null|
 |**2025-04-14**|**Global and Local Mamba Network for Multi-Modality Medical Image Super-Resolution**|Zexin Ji et.al.|[2504.10105](http://arxiv.org/abs/2504.10105)|null|
 |**2025-04-13**|**OmniMamba4D: Spatio-temporal Mamba for longitudinal CT lesion segmentation**|Justin Namuk Kim et.al.|[2504.09655](http://arxiv.org/abs/2504.09655)|null|
