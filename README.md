@@ -139,7 +139,7 @@
 |**2025-03-21**|**Salient Object Detection in Traffic Scene through the TSOD10K Dataset**|Yu Qiu et.al.|[2503.16910](http://arxiv.org/abs/2503.16910)|null|
 |**2025-03-21**|**Auto-Regressive Diffusion for Generating 3D Human-Object Interactions**|Zichen Geng et.al.|[2503.16801](http://arxiv.org/abs/2503.16801)|**[link](https://github.com/gengzichen/ARDHOI)**|
 |**2025-03-20**|**Binarized Mamba-Transformer for Lightweight Quad Bayer HybridEVS Demosaicing**|Shiyang Zhou et.al.|[2503.16134](http://arxiv.org/abs/2503.16134)|**[link](https://github.com/clausy9/bmtnet)**|
-|**2025-03-20**|**SaMam: Style-aware State Space Model for Arbitrary Image Style Transfer**|Hongda Liu et.al.|[2503.15934](http://arxiv.org/abs/2503.15934)|null|
+|**2025-03-20**|**SaMam: Style-aware State Space Model for Arbitrary Image Style Transfer**|Hongda Liu et.al.|[2503.15934](http://arxiv.org/abs/2503.15934)|**[link](https://github.com/Chernobyllight/SaMam)**|
 |**2025-03-18**|**Core-Periphery Principle Guided State Space Model for Functional Connectome Classification**|Minheng Chen et.al.|[2503.14655](http://arxiv.org/abs/2503.14655)|null|
 |**2025-03-18**|**Tiled Flash Linear Attention: More Efficient Linear RNN and xLSTM Kernels**|Maximilian Beck et.al.|[2503.14376](http://arxiv.org/abs/2503.14376)|**[link](https://github.com/nx-ai/mlstm_kernels)**|
 |**2025-03-26**|**MamBEV: Enabling State Space Models to Learn Birds-Eye-View Representations**|Hongyu Ke et.al.|[2503.13858](http://arxiv.org/abs/2503.13858)|**[link](https://github.com/amai-gsu/mambev)**|
