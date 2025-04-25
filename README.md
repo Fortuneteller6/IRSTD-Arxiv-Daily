@@ -77,6 +77,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-24**|**Mamba-Sea: A Mamba-based Framework with Global-to-Local Sequence Augmentation for Generalizable Medical Image Segmentation**|Zihan Cheng et.al.|[2504.17515](http://arxiv.org/abs/2504.17515)|null|
+|**2025-04-24**|**StereoMamba: Real-time and Robust Intraoperative Stereo Disparity Estimation via Long-range Spatial Dependencies**|Xu Wang et.al.|[2504.17401](http://arxiv.org/abs/2504.17401)|null|
+|**2025-04-22**|**Bidirectional Mamba for Single-Cell Data: Efficient Context Learning with Biological Fidelity**|Cong Qi et.al.|[2504.16956](http://arxiv.org/abs/2504.16956)|null|
 |**2025-04-23**|**Random Long-Context Access for Mamba via Hardware-aligned Hierarchical Sparse Attention**|Xiang Hu et.al.|[2504.16795](http://arxiv.org/abs/2504.16795)|null|
 |**2025-04-23**|**A Diff-Attention Aware State Space Fusion Model for Remote Sensing Classification**|Wenping Ma et.al.|[2504.16665](http://arxiv.org/abs/2504.16665)|null|
 |**2025-04-22**|**LongMamba: Enhancing Mamba's Long Context Capabilities via Training-Free Receptive Field Enlargement**|Zhifan Ye et.al.|[2504.16053](http://arxiv.org/abs/2504.16053)|null|
