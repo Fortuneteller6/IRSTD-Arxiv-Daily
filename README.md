@@ -91,7 +91,7 @@
 |**2025-04-19**|**Efficient Spiking Point Mamba for Point Cloud Analysis**|Peixi Wu et.al.|[2504.14371](http://arxiv.org/abs/2504.14371)|null|
 |**2025-04-18**|**WeatherGen: A Unified Diverse Weather Generator for LiDAR Point Clouds via Spider Mamba Diffusion**|Yang Wu et.al.|[2504.13561](http://arxiv.org/abs/2504.13561)|null|
 |**2025-04-18**|**A Novel Hybrid Approach for Retinal Vessel Segmentation with Dynamic Long-Range Dependency and Multi-Scale Retinal Edge Fusion Enhancement**|Yihao Ouyang et.al.|[2504.13553](http://arxiv.org/abs/2504.13553)|**[link](https://github.com/frank-oy/hrefnet)**|
-|**2025-04-18**|**U-Shape Mamba: State Space Model for faster diffusion**|Alex Ergasti et.al.|[2504.13499](http://arxiv.org/abs/2504.13499)|null|
+|**2025-04-18**|**U-Shape Mamba: State Space Model for faster diffusion**|Alex Ergasti et.al.|[2504.13499](http://arxiv.org/abs/2504.13499)|**[link](https://github.com/ErgastiAlex/U-Shape-Mamba)**|
 |**2025-04-16**|**RadMamba: Efficient Human Activity Recognition through Radar-based Micro-Doppler-Oriented Mamba State-Space Model**|Yizhuo Wu et.al.|[2504.12039](http://arxiv.org/abs/2504.12039)|**[link](https://github.com/lab-emi/airhar)**|
 |**2025-04-16**|**ACMamba: Fast Unsupervised Anomaly Detection via An Asymmetrical Consensus State Space Model**|Guanchun Wang et.al.|[2504.11781](http://arxiv.org/abs/2504.11781)|null|
 |**2025-04-15**|**Mamba-Based Ensemble learning for White Blood Cell Classification**|Lewis Clifton et.al.|[2504.11438](http://arxiv.org/abs/2504.11438)|**[link](https://github.com/lewisclifton/mamba-wbc-classification)**|
