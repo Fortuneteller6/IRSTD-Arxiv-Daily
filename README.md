@@ -77,6 +77,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-25**|**RSFR: A Coarse-to-Fine Reconstruction Framework for Diffusion Tensor Cardiac MRI with Semantic-Aware Refinement**|Jiahao Huang et.al.|[2504.18520](http://arxiv.org/abs/2504.18520)|null|
 |**2025-04-24**|**Mamba-Sea: A Mamba-based Framework with Global-to-Local Sequence Augmentation for Generalizable Medical Image Segmentation**|Zihan Cheng et.al.|[2504.17515](http://arxiv.org/abs/2504.17515)|null|
 |**2025-04-24**|**StereoMamba: Real-time and Robust Intraoperative Stereo Disparity Estimation via Long-range Spatial Dependencies**|Xu Wang et.al.|[2504.17401](http://arxiv.org/abs/2504.17401)|null|
 |**2025-04-22**|**Bidirectional Mamba for Single-Cell Data: Efficient Context Learning with Biological Fidelity**|Cong Qi et.al.|[2504.16956](http://arxiv.org/abs/2504.16956)|null|
