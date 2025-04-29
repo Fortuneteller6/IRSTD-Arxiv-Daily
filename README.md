@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.28
+## Updated on 2025.04.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -71,7 +71,7 @@
 |**2024-10-04**|**Mapping Degeneration Meets Label Evolution: Learning Infrared Small Target Detection with Single Point Supervision**|Xinyi Ying et.al.|[2304.01484](http://arxiv.org/abs/2304.01484)|**[link](https://github.com/xinyiying/lesps)**|
 |**2023-03-18**|**ABC: Attention with Bilinear Correlation for Infrared Small Target Detection**|Peiwen Pan et.al.|[2303.10321](http://arxiv.org/abs/2303.10321)|**[link](https://github.com/panpeiwen/abc)**|
 
-<p align=right>(<a href=#updated-on-20250428>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250429>back to top</a>)</p>
 
 ## Mamba
 
@@ -87,12 +87,12 @@
 |**2025-04-22**|**MVQA: Mamba with Unified Sampling for Efficient Video Quality Assessment**|Yachun Mi et.al.|[2504.16003](http://arxiv.org/abs/2504.16003)|null|
 |**2025-04-22**|**Observability conditions for neural state-space models with eigenvalues and their roots of unity**|Andrew Gracyk et.al.|[2504.15758](http://arxiv.org/abs/2504.15758)|null|
 |**2025-04-22**|**HS-Mamba: Full-Field Interaction Multi-Groups Mamba for Hyperspectral Image Classification**|Hongxing Peng et.al.|[2504.15612](http://arxiv.org/abs/2504.15612)|null|
-|**2025-04-21**|**Instance-Adaptive Keypoint Learning with Local-to-Global Geometric Aggregation for Category-Level Object Pose Estimation**|Xiao Zhang et.al.|[2504.15134](http://arxiv.org/abs/2504.15134)|null|
+|**2025-04-27**|**Instance-Adaptive Keypoint Learning with Local-to-Global Geometric Aggregation for Category-Level Object Pose Estimation**|Xiao Zhang et.al.|[2504.15134](http://arxiv.org/abs/2504.15134)|null|
 |**2025-04-20**|**VM-BHINet:Vision Mamba Bimanual Hand Interaction Network for 3D Interacting Hand Mesh Recovery From a Single RGB Image**|Han Bi et.al.|[2504.14618](http://arxiv.org/abs/2504.14618)|null|
 |**2025-04-19**|**Efficient Spiking Point Mamba for Point Cloud Analysis**|Peixi Wu et.al.|[2504.14371](http://arxiv.org/abs/2504.14371)|null|
 |**2025-04-18**|**WeatherGen: A Unified Diverse Weather Generator for LiDAR Point Clouds via Spider Mamba Diffusion**|Yang Wu et.al.|[2504.13561](http://arxiv.org/abs/2504.13561)|null|
 |**2025-04-18**|**A Novel Hybrid Approach for Retinal Vessel Segmentation with Dynamic Long-Range Dependency and Multi-Scale Retinal Edge Fusion Enhancement**|Yihao Ouyang et.al.|[2504.13553](http://arxiv.org/abs/2504.13553)|**[link](https://github.com/frank-oy/hrefnet)**|
-|**2025-04-18**|**U-Shape Mamba: State Space Model for faster diffusion**|Alex Ergasti et.al.|[2504.13499](http://arxiv.org/abs/2504.13499)|**[link](https://github.com/ErgastiAlex/U-Shape-Mamba)**|
+|**2025-04-26**|**U-Shape Mamba: State Space Model for faster diffusion**|Alex Ergasti et.al.|[2504.13499](http://arxiv.org/abs/2504.13499)|**[link](https://github.com/ErgastiAlex/U-Shape-Mamba)**|
 |**2025-04-16**|**RadMamba: Efficient Human Activity Recognition through Radar-based Micro-Doppler-Oriented Mamba State-Space Model**|Yizhuo Wu et.al.|[2504.12039](http://arxiv.org/abs/2504.12039)|**[link](https://github.com/lab-emi/airhar)**|
 |**2025-04-16**|**ACMamba: Fast Unsupervised Anomaly Detection via An Asymmetrical Consensus State Space Model**|Guanchun Wang et.al.|[2504.11781](http://arxiv.org/abs/2504.11781)|null|
 |**2025-04-15**|**Mamba-Based Ensemble learning for White Blood Cell Classification**|Lewis Clifton et.al.|[2504.11438](http://arxiv.org/abs/2504.11438)|**[link](https://github.com/lewisclifton/mamba-wbc-classification)**|
@@ -441,7 +441,7 @@
 |**2024-10-31**|**NIMBA: Towards Robust and Principled Processing of Point Clouds With SSMs**|Nursena Köprücü et.al.|[2411.00151](http://arxiv.org/abs/2411.00151)|null|
 |**2024-11-01**|**Dynamical similarity analysis uniquely captures how computations develop in RNNs**|Quentin Guilhot et.al.|[2410.24070](http://arxiv.org/abs/2410.24070)|**[link](https://github.com/qglht/repal)**|
 
-<p align=right>(<a href=#updated-on-20250428>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250429>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Fortuneteller6/IRSTD-Arxiv-Daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Fortuneteller6/IRSTD-Arxiv-Daily/graphs/contributors
