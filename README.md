@@ -79,6 +79,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-06**|**A Comprehensive Survey of Large AI Models for Future Communications: Foundations, Applications and Challenges**|Feibo Jiang et.al.|[2505.03556](http://arxiv.org/abs/2505.03556)|null|
+|**2025-05-06**|**Recall with Reasoning: Chain-of-Thought Distillation for Mamba's Long-Context Memory and Extrapolation**|Junyu Ma et.al.|[2505.03320](http://arxiv.org/abs/2505.03320)|null|
+|**2025-05-06**|**Mamba-Diffusion Model with Learnable Wavelet for Controllable Symbolic Music Generation**|Jincheng Zhang et.al.|[2505.03314](http://arxiv.org/abs/2505.03314)|null|
+|**2025-05-06**|**DiffVQA: Video Quality Assessment Using Diffusion Feature Extractor**|Wei-Ting Chen et.al.|[2505.03261](http://arxiv.org/abs/2505.03261)|null|
 |**2025-05-05**|**Text to Image Generation and Editing: A Survey**|Pengfei Yang et.al.|[2505.02527](http://arxiv.org/abs/2505.02527)|null|
 |**2025-05-04**|**Meta-Black-Box-Optimization through Offline Q-function Learning**|Zeyuan Ma et.al.|[2505.02010](http://arxiv.org/abs/2505.02010)|null|
 |**2025-05-02**|**RD-UIE: Relation-Driven State Space Modeling for Underwater Image Enhancement**|Kui Jiang et.al.|[2505.01224](http://arxiv.org/abs/2505.01224)|null|
