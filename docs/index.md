@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.07
+## Updated on 2025.05.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## IRSTD
@@ -75,13 +75,13 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-06**|**A Comprehensive Survey of Large AI Models for Future Communications: Foundations, Applications and Challenges**|Feibo Jiang et.al.|[2505.03556](http://arxiv.org/abs/2505.03556)|null|
 |**2025-05-06**|**Recall with Reasoning: Chain-of-Thought Distillation for Mamba's Long-Context Memory and Extrapolation**|Junyu Ma et.al.|[2505.03320](http://arxiv.org/abs/2505.03320)|null|
-|**2025-05-06**|**Mamba-Diffusion Model with Learnable Wavelet for Controllable Symbolic Music Generation**|Jincheng Zhang et.al.|[2505.03314](http://arxiv.org/abs/2505.03314)|null|
+|**2025-05-06**|**Mamba-Diffusion Model with Learnable Wavelet for Controllable Symbolic Music Generation**|Jincheng Zhang et.al.|[2505.03314](http://arxiv.org/abs/2505.03314)|**[link](https://github.com/jinchengzhanggg/proffusion)**|
 |**2025-05-06**|**DiffVQA: Video Quality Assessment Using Diffusion Feature Extractor**|Wei-Ting Chen et.al.|[2505.03261](http://arxiv.org/abs/2505.03261)|null|
 |**2025-05-05**|**Text to Image Generation and Editing: A Survey**|Pengfei Yang et.al.|[2505.02527](http://arxiv.org/abs/2505.02527)|null|
-|**2025-05-04**|**Meta-Black-Box-Optimization through Offline Q-function Learning**|Zeyuan Ma et.al.|[2505.02010](http://arxiv.org/abs/2505.02010)|null|
-|**2025-05-02**|**RD-UIE: Relation-Driven State Space Modeling for Underwater Image Enhancement**|Kui Jiang et.al.|[2505.01224](http://arxiv.org/abs/2505.01224)|null|
+|**2025-05-04**|**Meta-Black-Box-Optimization through Offline Q-function Learning**|Zeyuan Ma et.al.|[2505.02010](http://arxiv.org/abs/2505.02010)|**[link](https://github.com/metaevo/q-mamba)**|
+|**2025-05-02**|**RD-UIE: Relation-Driven State Space Modeling for Underwater Image Enhancement**|Kui Jiang et.al.|[2505.01224](http://arxiv.org/abs/2505.01224)|**[link](https://github.com/kkoucy/rd-uie)**|
 |**2025-05-02**|**LMDepth: Lightweight Mamba-based Monocular Depth Estimation for Real-World Deployment**|Jiahuan Long et.al.|[2505.00980](http://arxiv.org/abs/2505.00980)|null|
-|**2025-05-03**|**Vision Mamba in Remote Sensing: A Comprehensive Survey of Techniques, Applications and Outlook**|Muyi Bao et.al.|[2505.00630](http://arxiv.org/abs/2505.00630)|null|
+|**2025-05-03**|**Vision Mamba in Remote Sensing: A Comprehensive Survey of Techniques, Applications and Outlook**|Muyi Bao et.al.|[2505.00630](http://arxiv.org/abs/2505.00630)|**[link](https://github.com/baobao0926/awesome-mamba-in-remote-sensing)**|
 |**2025-04-30**|**Mamba Based Feature Extraction And Adaptive Multilevel Feature Fusion For 3D Tumor Segmentation From Multi-modal Medical Image**|Zexin Ji et.al.|[2504.21281](http://arxiv.org/abs/2504.21281)|null|
 |**2025-04-29**|**DYNAMAX: Dynamic computing for Transformers and Mamba based architectures**|Miguel Nogales et.al.|[2504.20922](http://arxiv.org/abs/2504.20922)|null|
 |**2025-04-29**|**ISDrama: Immersive Spatial Drama Generation through Multimodal Prompting**|Yu Zhang et.al.|[2504.20630](http://arxiv.org/abs/2504.20630)|null|

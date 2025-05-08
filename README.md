@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.07
+## Updated on 2025.05.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -73,7 +73,7 @@
 |**2024-10-04**|**Mapping Degeneration Meets Label Evolution: Learning Infrared Small Target Detection with Single Point Supervision**|Xinyi Ying et.al.|[2304.01484](http://arxiv.org/abs/2304.01484)|**[link](https://github.com/xinyiying/lesps)**|
 |**2023-03-18**|**ABC: Attention with Bilinear Correlation for Infrared Small Target Detection**|Peiwen Pan et.al.|[2303.10321](http://arxiv.org/abs/2303.10321)|**[link](https://github.com/panpeiwen/abc)**|
 
-<p align=right>(<a href=#updated-on-20250507>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250508>back to top</a>)</p>
 
 ## Mamba
 
@@ -81,13 +81,13 @@
 |---|---|---|---|---|
 |**2025-05-06**|**A Comprehensive Survey of Large AI Models for Future Communications: Foundations, Applications and Challenges**|Feibo Jiang et.al.|[2505.03556](http://arxiv.org/abs/2505.03556)|null|
 |**2025-05-06**|**Recall with Reasoning: Chain-of-Thought Distillation for Mamba's Long-Context Memory and Extrapolation**|Junyu Ma et.al.|[2505.03320](http://arxiv.org/abs/2505.03320)|null|
-|**2025-05-06**|**Mamba-Diffusion Model with Learnable Wavelet for Controllable Symbolic Music Generation**|Jincheng Zhang et.al.|[2505.03314](http://arxiv.org/abs/2505.03314)|null|
+|**2025-05-06**|**Mamba-Diffusion Model with Learnable Wavelet for Controllable Symbolic Music Generation**|Jincheng Zhang et.al.|[2505.03314](http://arxiv.org/abs/2505.03314)|**[link](https://github.com/jinchengzhanggg/proffusion)**|
 |**2025-05-06**|**DiffVQA: Video Quality Assessment Using Diffusion Feature Extractor**|Wei-Ting Chen et.al.|[2505.03261](http://arxiv.org/abs/2505.03261)|null|
 |**2025-05-05**|**Text to Image Generation and Editing: A Survey**|Pengfei Yang et.al.|[2505.02527](http://arxiv.org/abs/2505.02527)|null|
-|**2025-05-04**|**Meta-Black-Box-Optimization through Offline Q-function Learning**|Zeyuan Ma et.al.|[2505.02010](http://arxiv.org/abs/2505.02010)|null|
-|**2025-05-02**|**RD-UIE: Relation-Driven State Space Modeling for Underwater Image Enhancement**|Kui Jiang et.al.|[2505.01224](http://arxiv.org/abs/2505.01224)|null|
+|**2025-05-04**|**Meta-Black-Box-Optimization through Offline Q-function Learning**|Zeyuan Ma et.al.|[2505.02010](http://arxiv.org/abs/2505.02010)|**[link](https://github.com/metaevo/q-mamba)**|
+|**2025-05-02**|**RD-UIE: Relation-Driven State Space Modeling for Underwater Image Enhancement**|Kui Jiang et.al.|[2505.01224](http://arxiv.org/abs/2505.01224)|**[link](https://github.com/kkoucy/rd-uie)**|
 |**2025-05-02**|**LMDepth: Lightweight Mamba-based Monocular Depth Estimation for Real-World Deployment**|Jiahuan Long et.al.|[2505.00980](http://arxiv.org/abs/2505.00980)|null|
-|**2025-05-03**|**Vision Mamba in Remote Sensing: A Comprehensive Survey of Techniques, Applications and Outlook**|Muyi Bao et.al.|[2505.00630](http://arxiv.org/abs/2505.00630)|null|
+|**2025-05-03**|**Vision Mamba in Remote Sensing: A Comprehensive Survey of Techniques, Applications and Outlook**|Muyi Bao et.al.|[2505.00630](http://arxiv.org/abs/2505.00630)|**[link](https://github.com/baobao0926/awesome-mamba-in-remote-sensing)**|
 |**2025-04-30**|**Mamba Based Feature Extraction And Adaptive Multilevel Feature Fusion For 3D Tumor Segmentation From Multi-modal Medical Image**|Zexin Ji et.al.|[2504.21281](http://arxiv.org/abs/2504.21281)|null|
 |**2025-04-29**|**DYNAMAX: Dynamic computing for Transformers and Mamba based architectures**|Miguel Nogales et.al.|[2504.20922](http://arxiv.org/abs/2504.20922)|null|
 |**2025-04-29**|**ISDrama: Immersive Spatial Drama Generation through Multimodal Prompting**|Yu Zhang et.al.|[2504.20630](http://arxiv.org/abs/2504.20630)|null|
@@ -457,7 +457,7 @@
 |**2024-10-31**|**NIMBA: Towards Robust and Principled Processing of Point Clouds With SSMs**|Nursena Köprücü et.al.|[2411.00151](http://arxiv.org/abs/2411.00151)|null|
 |**2024-11-01**|**Dynamical similarity analysis uniquely captures how computations develop in RNNs**|Quentin Guilhot et.al.|[2410.24070](http://arxiv.org/abs/2410.24070)|**[link](https://github.com/qglht/repal)**|
 
-<p align=right>(<a href=#updated-on-20250507>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250508>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Fortuneteller6/IRSTD-Arxiv-Daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Fortuneteller6/IRSTD-Arxiv-Daily/graphs/contributors
