@@ -73,6 +73,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-12**|**Overflow Prevention Enhances Long-Context Recurrent LLMs**|Assaf Ben-Kish et.al.|[2505.07793](http://arxiv.org/abs/2505.07793)|null|
+|**2025-05-12**|**SmartUT: Receive Beamforming for Spectral Coexistence of NGSO Satellite Systems**|Almoatssimbillah Saifaldawla et.al.|[2505.07714](http://arxiv.org/abs/2505.07714)|null|
+|**2025-05-12**|**ABS-Mamba: SAM2-Driven Bidirectional Spiral Mamba Network for Medical Image Translation**|Feng Yuan et.al.|[2505.07687](http://arxiv.org/abs/2505.07687)|**[link](https://github.com/gatina-yone/abs-mamba)**|
+|**2025-05-10**|**Probing In-Context Learning: Impact of Task Complexity and Model Architecture on Generalization and Efficiency**|Binwen Liu et.al.|[2505.06475](http://arxiv.org/abs/2505.06475)|**[link](https://github.com/Binwen6/CS182_PROJECT_2025)**|
 |**2025-05-09**|**Topo-VM-UNetV2: Encoding Topology into Vision Mamba UNet for Polyp Segmentation**|Diego Adame et.al.|[2505.06210](http://arxiv.org/abs/2505.06210)|null|
 |**2025-05-02**|**MDDFNet: Mamba-based Dynamic Dual Fusion Network for Traffic Sign Detection**|TianYi Yu et.al.|[2505.05491](http://arxiv.org/abs/2505.05491)|null|
 |**2025-05-08**|**PillarMamba: Learning Local-Global Context for Roadside Point Cloud via Hybrid State Space Model**|Zhang Zhang et.al.|[2505.05397](http://arxiv.org/abs/2505.05397)|null|
