@@ -73,6 +73,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-13**|**SPAT: Sensitivity-based Multihead-attention Pruning on Time Series Forecasting Models**|Suhan Guo et.al.|[2505.08768](http://arxiv.org/abs/2505.08768)|null|
+|**2025-05-13**|**A Mamba-based Network for Semi-supervised Singing Melody Extraction Using Confidence Binary Regularization**|Xiaoliang He et.al.|[2505.08681](http://arxiv.org/abs/2505.08681)|null|
+|**2025-05-13**|**ReSurgSAM2: Referring Segment Anything in Surgical Video via Credible Long-term Tracking**|Haofeng Liu et.al.|[2505.08581](http://arxiv.org/abs/2505.08581)|**[link](https://github.com/jinlab-imvr/resurgsam2)**|
+|**2025-05-13**|**Efficient Unstructured Pruning of Mamba State-Space Models for Resource-Constrained Environments**|Ibne Farabi Shihab et.al.|[2505.08299](http://arxiv.org/abs/2505.08299)|null|
 |**2025-05-12**|**Overflow Prevention Enhances Long-Context Recurrent LLMs**|Assaf Ben-Kish et.al.|[2505.07793](http://arxiv.org/abs/2505.07793)|null|
 |**2025-05-12**|**SmartUT: Receive Beamforming for Spectral Coexistence of NGSO Satellite Systems**|Almoatssimbillah Saifaldawla et.al.|[2505.07714](http://arxiv.org/abs/2505.07714)|null|
 |**2025-05-12**|**ABS-Mamba: SAM2-Driven Bidirectional Spiral Mamba Network for Medical Image Translation**|Feng Yuan et.al.|[2505.07687](http://arxiv.org/abs/2505.07687)|**[link](https://github.com/gatina-yone/abs-mamba)**|
