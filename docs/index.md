@@ -75,6 +75,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-20**|**RefiDiff: Refinement-Aware Diffusion for Efficient Missing Data Imputation**|Md Atik Ahamed et.al.|[2505.14451](http://arxiv.org/abs/2505.14451)|null|
+|**2025-05-20**|**TF-Mamba: Text-enhanced Fusion Mamba with Missing Modalities for Robust Multimodal Sentiment Analysis**|Xiang Li et.al.|[2505.14329](http://arxiv.org/abs/2505.14329)|null|
+|**2025-05-20**|**MatchDance: Collaborative Mamba-Transformer Architecture Matching for High-Quality 3D Dance Synthesis**|Kaixing Yang et.al.|[2505.14222](http://arxiv.org/abs/2505.14222)|null|
+|**2025-05-20**|**Scaling Vision Mamba Across Resolutions via Fractal Traversal**|Bo Li et.al.|[2505.14062](http://arxiv.org/abs/2505.14062)|null|
+|**2025-05-20**|**Selective Structured State Space for Multispectral-fused Small Target Detection**|Qianqian Zhang et.al.|[2505.14043](http://arxiv.org/abs/2505.14043)|null|
+|**2025-05-20**|**BiCrossMamba-ST: Speech Deepfake Detection with Bidirectional Mamba Spectro-Temporal Cross-Attention**|Yassine El Kheir et.al.|[2505.13930](http://arxiv.org/abs/2505.13930)|null|
 |**2025-05-19**|**SourceDetMamba: A Graph-aware State Space Model for Source Detection in Sequential Hypergraphs**|Le Cheng et.al.|[2505.12910](http://arxiv.org/abs/2505.12910)|null|
 |**2025-05-19**|**Mamba-Adaptor: State Space Model Adaptor for Visual Recognition**|Fei Xie et.al.|[2505.12685](http://arxiv.org/abs/2505.12685)|null|
 |**2025-05-19**|**Safe-Sora: Safe Text-to-Video Generation via Graphical Watermarking**|Zihan Su et.al.|[2505.12667](http://arxiv.org/abs/2505.12667)|null|
