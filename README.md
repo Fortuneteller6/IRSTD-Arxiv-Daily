@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.20
+## Updated on 2025.05.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -75,7 +75,7 @@
 |**2024-10-04**|**Mapping Degeneration Meets Label Evolution: Learning Infrared Small Target Detection with Single Point Supervision**|Xinyi Ying et.al.|[2304.01484](http://arxiv.org/abs/2304.01484)|**[link](https://github.com/xinyiying/lesps)**|
 |**2023-03-18**|**ABC: Attention with Bilinear Correlation for Infrared Small Target Detection**|Peiwen Pan et.al.|[2303.10321](http://arxiv.org/abs/2303.10321)|**[link](https://github.com/panpeiwen/abc)**|
 
-<p align=right>(<a href=#updated-on-20250520>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
 
 ## Mamba
 
@@ -88,7 +88,7 @@
 |**2025-05-18**|**MTIL: Encoding Full History with Mamba for Temporal Imitation Learning**|Yulin Zhou et.al.|[2505.12410](http://arxiv.org/abs/2505.12410)|null|
 |**2025-05-17**|**WaLRUS: Wavelets for Long-range Representation Using SSMs**|Hossein Babaei et.al.|[2505.12161](http://arxiv.org/abs/2505.12161)|null|
 |**2025-05-17**|**GeoMaNO: Geometric Mamba Neural Operator for Partial Differential Equations**|Xi Han et.al.|[2505.12020](http://arxiv.org/abs/2505.12020)|null|
-|**2025-05-17**|**Multi-modal Collaborative Optimization and Expansion Network for Event-assisted Single-eye Expression Recognition**|Runduo Han et.al.|[2505.12007](http://arxiv.org/abs/2505.12007)|**[link](https://github.com/hrdhrd/MCO-E-Net)**|
+|**2025-05-20**|**Multi-modal Collaborative Optimization and Expansion Network for Event-assisted Single-eye Expression Recognition**|Runduo Han et.al.|[2505.12007](http://arxiv.org/abs/2505.12007)|**[link](https://github.com/hrdhrd/MCO-E-Net)**|
 |**2025-05-17**|**MedVKAN: Efficient Feature Extraction with Mamba and KAN for Medical Image Segmentation**|Hancan Zhu et.al.|[2505.11797](http://arxiv.org/abs/2505.11797)|**[link](https://github.com/beginner-cjh/medvkan)**|
 |**2025-05-16**|**Spatiotemporal Field Generation Based on Hybrid Mamba-Transformer with Physics-informed Fine-tuning**|Peimian Du et.al.|[2505.11578](http://arxiv.org/abs/2505.11578)|null|
 |**2025-05-16**|**Equal is Not Always Fair: A New Perspective on Hyperspectral Representation Non-Uniformity**|Wuzhou Quan et.al.|[2505.11267](http://arxiv.org/abs/2505.11267)|null|
@@ -96,7 +96,7 @@
 |**2025-05-16**|**HSRMamba: Efficient Wavelet Stripe State Space Model for Hyperspectral Image Super-Resolution**|Baisong Li et.al.|[2505.11062](http://arxiv.org/abs/2505.11062)|null|
 |**2025-05-15**|**SRMamba: Mamba for Super-Resolution of LiDAR Point Clouds**|Chuang Chen et.al.|[2505.10601](http://arxiv.org/abs/2505.10601)|null|
 |**2025-05-14**|**Efficient Malicious UAV Detection Using Autoencoder-TSMamba Integration**|Azim Akhtarshenas et.al.|[2505.10585](http://arxiv.org/abs/2505.10585)|null|
-|**2025-05-15**|**HWA-UNETR: Hierarchical Window Aggregate UNETR for 3D Multimodal Gastric Lesion Segmentation**|Jiaming Liang et.al.|[2505.10464](http://arxiv.org/abs/2505.10464)|**[link](https://github.com/jeming-creater/hwa-unetr)**|
+|**2025-05-20**|**HWA-UNETR: Hierarchical Window Aggregate UNETR for 3D Multimodal Gastric Lesion Segmentation**|Jiaming Liang et.al.|[2505.10464](http://arxiv.org/abs/2505.10464)|**[link](https://github.com/jeming-creater/hwa-unetr)**|
 |**2025-05-15**|**MambaControl: Anatomy Graph-Enhanced Mamba ControlNet with Fourier Refinement for Diffusion-Based Disease Trajectory Prediction**|Hao Yang et.al.|[2505.09965](http://arxiv.org/abs/2505.09965)|null|
 |**2025-05-14**|**Dyadic Mamba: Long-term Dyadic Human Motion Synthesis**|Julian Tanke et.al.|[2505.09827](http://arxiv.org/abs/2505.09827)|null|
 |**2025-05-14**|**Spec2VolCAMU-Net: A Spectrogram-to-Volume Model for EEG-to-fMRI Reconstruction based on Multi-directional Time-Frequency Convolutional Attention Encoder and Vision-Mamba U-Net**|Dongyi He et.al.|[2505.09521](http://arxiv.org/abs/2505.09521)|**[link](https://github.com/hdy6438/spec2volcamu-net)**|
@@ -500,7 +500,7 @@
 |**2024-10-31**|**NIMBA: Towards Robust and Principled Processing of Point Clouds With SSMs**|Nursena Köprücü et.al.|[2411.00151](http://arxiv.org/abs/2411.00151)|null|
 |**2024-11-01**|**Dynamical similarity analysis uniquely captures how computations develop in RNNs**|Quentin Guilhot et.al.|[2410.24070](http://arxiv.org/abs/2410.24070)|**[link](https://github.com/qglht/repal)**|
 
-<p align=right>(<a href=#updated-on-20250520>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Fortuneteller6/IRSTD-Arxiv-Daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Fortuneteller6/IRSTD-Arxiv-Daily/graphs/contributors
