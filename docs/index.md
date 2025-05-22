@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-21**|**AuxDet: Auxiliary Metadata Matters for Omni-Domain Infrared Small Target Detection**|Yangting Shi et.al.|[2505.15184](http://arxiv.org/abs/2505.15184)|**[link](https://github.com/grokcv/auxdet)**|
 |**2025-05-15**|**ARFC-WAHNet: Adaptive Receptive Field Convolution and Wavelet-Attentive Hierarchical Network for Infrared Small Target Detection**|Xingye Cui et.al.|[2505.10595](http://arxiv.org/abs/2505.10595)|**[link](https://github.com/leaf2001/arfc-wahnet)**|
 |**2025-05-15**|**CSPENet: Contour-Aware and Saliency Priors Embedding Network for Infrared Small Target Detection**|Jiakun Deng et.al.|[2505.09943](http://arxiv.org/abs/2505.09943)|**[link](https://github.com/idip2025/cspenet)**|
 |**2025-04-30**|**Selective Variable Convolution Meets Dynamic Content Guided Attention for Infrared Small Target Detection**|Yirui Chen et.al.|[2504.21612](http://arxiv.org/abs/2504.21612)|null|
@@ -75,6 +76,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-21**|**HAMF: A Hybrid Attention-Mamba Framework for Joint Scene Context Understanding and Future Motion Representation Learning**|Xiaodong Mei et.al.|[2505.15703](http://arxiv.org/abs/2505.15703)|null|
+|**2025-05-21**|**Hunyuan-TurboS: Advancing Large Language Models through Mamba-Transformer Synergy and Adaptive Chain-of-Thought**|Ao Liu et.al.|[2505.15431](http://arxiv.org/abs/2505.15431)|null|
+|**2025-05-21**|**SAMA-UNet: Enhancing Medical Image Segmentation with Self-Adaptive Mamba-Like Attention and Causal-Resonance Learning**|Saqib Qamar et.al.|[2505.15234](http://arxiv.org/abs/2505.15234)|null|
+|**2025-05-21**|**Mechanistic evaluation of Transformers and state space models**|Aryaman Arora et.al.|[2505.15105](http://arxiv.org/abs/2505.15105)|null|
+|**2025-05-21**|**RLBenchNet: The Right Network for the Right Reinforcement Learning Task**|Ivan Smirnov et.al.|[2505.15040](http://arxiv.org/abs/2505.15040)|**[link](https://github.com/saferl-lab/rlbenchnet)**|
 |**2025-05-20**|**RefiDiff: Refinement-Aware Diffusion for Efficient Missing Data Imputation**|Md Atik Ahamed et.al.|[2505.14451](http://arxiv.org/abs/2505.14451)|null|
 |**2025-05-20**|**TF-Mamba: Text-enhanced Fusion Mamba with Missing Modalities for Robust Multimodal Sentiment Analysis**|Xiang Li et.al.|[2505.14329](http://arxiv.org/abs/2505.14329)|**[link](https://github.com/codemous/tf-mamba)**|
 |**2025-05-21**|**MatchDance: Collaborative Mamba-Transformer Architecture Matching for High-Quality 3D Dance Synthesis**|Kaixing Yang et.al.|[2505.14222](http://arxiv.org/abs/2505.14222)|null|
