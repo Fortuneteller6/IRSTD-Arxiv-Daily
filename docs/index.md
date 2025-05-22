@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.21
+## Updated on 2025.05.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## IRSTD
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-15**|**ARFC-WAHNet: Adaptive Receptive Field Convolution and Wavelet-Attentive Hierarchical Network for Infrared Small Target Detection**|Xingye Cui et.al.|[2505.10595](http://arxiv.org/abs/2505.10595)|null|
+|**2025-05-15**|**ARFC-WAHNet: Adaptive Receptive Field Convolution and Wavelet-Attentive Hierarchical Network for Infrared Small Target Detection**|Xingye Cui et.al.|[2505.10595](http://arxiv.org/abs/2505.10595)|**[link](https://github.com/leaf2001/arfc-wahnet)**|
 |**2025-05-15**|**CSPENet: Contour-Aware and Saliency Priors Embedding Network for Infrared Small Target Detection**|Jiakun Deng et.al.|[2505.09943](http://arxiv.org/abs/2505.09943)|**[link](https://github.com/idip2025/cspenet)**|
 |**2025-04-30**|**Selective Variable Convolution Meets Dynamic Content Guided Attention for Infrared Small Target Detection**|Yirui Chen et.al.|[2504.21612](http://arxiv.org/abs/2504.21612)|null|
 |**2025-05-04**|**Make Both Ends Meet: A Synergistic Optimization Infrared Small Target Detection with Streamlined Computational Overhead**|Yuxin Jing et.al.|[2504.21581](http://arxiv.org/abs/2504.21581)|null|
@@ -76,24 +76,24 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-20**|**RefiDiff: Refinement-Aware Diffusion for Efficient Missing Data Imputation**|Md Atik Ahamed et.al.|[2505.14451](http://arxiv.org/abs/2505.14451)|null|
-|**2025-05-20**|**TF-Mamba: Text-enhanced Fusion Mamba with Missing Modalities for Robust Multimodal Sentiment Analysis**|Xiang Li et.al.|[2505.14329](http://arxiv.org/abs/2505.14329)|null|
-|**2025-05-20**|**MatchDance: Collaborative Mamba-Transformer Architecture Matching for High-Quality 3D Dance Synthesis**|Kaixing Yang et.al.|[2505.14222](http://arxiv.org/abs/2505.14222)|null|
+|**2025-05-20**|**TF-Mamba: Text-enhanced Fusion Mamba with Missing Modalities for Robust Multimodal Sentiment Analysis**|Xiang Li et.al.|[2505.14329](http://arxiv.org/abs/2505.14329)|**[link](https://github.com/codemous/tf-mamba)**|
+|**2025-05-21**|**MatchDance: Collaborative Mamba-Transformer Architecture Matching for High-Quality 3D Dance Synthesis**|Kaixing Yang et.al.|[2505.14222](http://arxiv.org/abs/2505.14222)|null|
 |**2025-05-20**|**Scaling Vision Mamba Across Resolutions via Fractal Traversal**|Bo Li et.al.|[2505.14062](http://arxiv.org/abs/2505.14062)|null|
-|**2025-05-20**|**Selective Structured State Space for Multispectral-fused Small Target Detection**|Qianqian Zhang et.al.|[2505.14043](http://arxiv.org/abs/2505.14043)|null|
+|**2025-05-21**|**Selective Structured State Space for Multispectral-fused Small Target Detection**|Qianqian Zhang et.al.|[2505.14043](http://arxiv.org/abs/2505.14043)|null|
 |**2025-05-20**|**BiCrossMamba-ST: Speech Deepfake Detection with Bidirectional Mamba Spectro-Temporal Cross-Attention**|Yassine El Kheir et.al.|[2505.13930](http://arxiv.org/abs/2505.13930)|null|
 |**2025-05-19**|**SourceDetMamba: A Graph-aware State Space Model for Source Detection in Sequential Hypergraphs**|Le Cheng et.al.|[2505.12910](http://arxiv.org/abs/2505.12910)|null|
 |**2025-05-19**|**Mamba-Adaptor: State Space Model Adaptor for Visual Recognition**|Fei Xie et.al.|[2505.12685](http://arxiv.org/abs/2505.12685)|null|
 |**2025-05-19**|**Safe-Sora: Safe Text-to-Video Generation via Graphical Watermarking**|Zihan Su et.al.|[2505.12667](http://arxiv.org/abs/2505.12667)|null|
 |**2025-05-18**|**Alternators With Noise Models**|Mohammad R. Rezaei et.al.|[2505.12544](http://arxiv.org/abs/2505.12544)|null|
-|**2025-05-18**|**MTIL: Encoding Full History with Mamba for Temporal Imitation Learning**|Yulin Zhou et.al.|[2505.12410](http://arxiv.org/abs/2505.12410)|null|
+|**2025-05-18**|**MTIL: Encoding Full History with Mamba for Temporal Imitation Learning**|Yulin Zhou et.al.|[2505.12410](http://arxiv.org/abs/2505.12410)|**[link](https://github.com/yulinzhouzyl/mtil)**|
 |**2025-05-17**|**WaLRUS: Wavelets for Long-range Representation Using SSMs**|Hossein Babaei et.al.|[2505.12161](http://arxiv.org/abs/2505.12161)|null|
 |**2025-05-17**|**GeoMaNO: Geometric Mamba Neural Operator for Partial Differential Equations**|Xi Han et.al.|[2505.12020](http://arxiv.org/abs/2505.12020)|null|
 |**2025-05-20**|**Multi-modal Collaborative Optimization and Expansion Network for Event-assisted Single-eye Expression Recognition**|Runduo Han et.al.|[2505.12007](http://arxiv.org/abs/2505.12007)|**[link](https://github.com/hrdhrd/MCO-E-Net)**|
 |**2025-05-17**|**MedVKAN: Efficient Feature Extraction with Mamba and KAN for Medical Image Segmentation**|Hancan Zhu et.al.|[2505.11797](http://arxiv.org/abs/2505.11797)|**[link](https://github.com/beginner-cjh/medvkan)**|
-|**2025-05-16**|**Spatiotemporal Field Generation Based on Hybrid Mamba-Transformer with Physics-informed Fine-tuning**|Peimian Du et.al.|[2505.11578](http://arxiv.org/abs/2505.11578)|null|
+|**2025-05-21**|**Spatiotemporal Field Generation Based on Hybrid Mamba-Transformer with Physics-informed Fine-tuning**|Peimian Du et.al.|[2505.11578](http://arxiv.org/abs/2505.11578)|null|
 |**2025-05-16**|**Equal is Not Always Fair: A New Perspective on Hyperspectral Representation Non-Uniformity**|Wuzhou Quan et.al.|[2505.11267](http://arxiv.org/abs/2505.11267)|null|
-|**2025-05-16**|**Hybrid-Emba3D: Geometry-Aware and Cross-Path Feature Hybrid Enhanced State Space Model for Point Cloud Classification**|Bin Liu et.al.|[2505.11099](http://arxiv.org/abs/2505.11099)|null|
-|**2025-05-16**|**HSRMamba: Efficient Wavelet Stripe State Space Model for Hyperspectral Image Super-Resolution**|Baisong Li et.al.|[2505.11062](http://arxiv.org/abs/2505.11062)|null|
+|**2025-05-16**|**Hybrid-Emba3D: Geometry-Aware and Cross-Path Feature Hybrid Enhanced State Space Model for Point Cloud Classification**|Bin Liu et.al.|[2505.11099](http://arxiv.org/abs/2505.11099)|**[link](https://github.com/l1277471578/hybrid-emba3d)**|
+|**2025-05-16**|**HSRMamba: Efficient Wavelet Stripe State Space Model for Hyperspectral Image Super-Resolution**|Baisong Li et.al.|[2505.11062](http://arxiv.org/abs/2505.11062)|**[link](https://github.com/oldsweet/hsrmamba)**|
 |**2025-05-15**|**SRMamba: Mamba for Super-Resolution of LiDAR Point Clouds**|Chuang Chen et.al.|[2505.10601](http://arxiv.org/abs/2505.10601)|null|
 |**2025-05-14**|**Efficient Malicious UAV Detection Using Autoencoder-TSMamba Integration**|Azim Akhtarshenas et.al.|[2505.10585](http://arxiv.org/abs/2505.10585)|null|
 |**2025-05-20**|**HWA-UNETR: Hierarchical Window Aggregate UNETR for 3D Multimodal Gastric Lesion Segmentation**|Jiaming Liang et.al.|[2505.10464](http://arxiv.org/abs/2505.10464)|**[link](https://github.com/jeming-creater/hwa-unetr)**|
