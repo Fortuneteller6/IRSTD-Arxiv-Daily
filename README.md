@@ -82,9 +82,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-22**|**Active Speech Enhancement: Active Speech Denoising Decliping and Deveraberation**|Ofir Yaish et.al.|[2505.16911](http://arxiv.org/abs/2505.16911)|null|
+|**2025-05-22**|**PCMamba: Physics-Informed Cross-Modal State Space Model for Dual-Camera Compressive Hyperspectral Imaging**|Ge Meng et.al.|[2505.16373](http://arxiv.org/abs/2505.16373)|null|
+|**2025-05-22**|**SAMba-UNet: Synergizing SAM2 and Mamba in UNet with Heterogeneous Aggregation for Cardiac MRI Segmentation**|Guohao Huo et.al.|[2505.16304](http://arxiv.org/abs/2505.16304)|null|
+|**2025-05-21**|**FR-Mamba: Time-Series Physical Field Reconstruction Based on State Space Model**|Jiahuan Long et.al.|[2505.16083](http://arxiv.org/abs/2505.16083)|null|
 |**2025-05-21**|**HAMF: A Hybrid Attention-Mamba Framework for Joint Scene Context Understanding and Future Motion Representation Learning**|Xiaodong Mei et.al.|[2505.15703](http://arxiv.org/abs/2505.15703)|null|
 |**2025-05-22**|**Hunyuan-TurboS: Advancing Large Language Models through Mamba-Transformer Synergy and Adaptive Chain-of-Thought**|Tencent Hunyuan Team et.al.|[2505.15431](http://arxiv.org/abs/2505.15431)|null|
-|**2025-05-21**|**SAMA-UNet: Enhancing Medical Image Segmentation with Self-Adaptive Mamba-Like Attention and Causal-Resonance Learning**|Saqib Qamar et.al.|[2505.15234](http://arxiv.org/abs/2505.15234)|null|
+|**2025-05-21**|**SAMA-UNet: Enhancing Medical Image Segmentation with Self-Adaptive Mamba-Like Attention and Causal-Resonance Learning**|Saqib Qamar et.al.|[2505.15234](http://arxiv.org/abs/2505.15234)|**[link](https://github.com/sqbqamar/SAMA-UNet)**|
 |**2025-05-21**|**Mechanistic evaluation of Transformers and state space models**|Aryaman Arora et.al.|[2505.15105](http://arxiv.org/abs/2505.15105)|null|
 |**2025-05-21**|**RLBenchNet: The Right Network for the Right Reinforcement Learning Task**|Ivan Smirnov et.al.|[2505.15040](http://arxiv.org/abs/2505.15040)|**[link](https://github.com/saferl-lab/rlbenchnet)**|
 |**2025-05-20**|**RefiDiff: Refinement-Aware Diffusion for Efficient Missing Data Imputation**|Md Atik Ahamed et.al.|[2505.14451](http://arxiv.org/abs/2505.14451)|null|
