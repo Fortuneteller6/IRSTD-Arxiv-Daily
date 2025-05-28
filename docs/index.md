@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.27
+## Updated on 2025.05.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## IRSTD
@@ -79,7 +79,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-25**|**Latent Mamba Operator for Partial Differential Equations**|Karn Tiwari et.al.|[2505.19105](http://arxiv.org/abs/2505.19105)|null|
 |**2025-05-25**|**FastMamba: A High-Speed and Efficient Mamba Accelerator on FPGA with Accurate Quantization**|Aotao Wang et.al.|[2505.18975](http://arxiv.org/abs/2505.18975)|null|
-|**2025-05-25**|**Hierarchical Mamba Meets Hyperbolic Geometry: A New Paradigm for Structured Language Embeddings**|Sarang Patil et.al.|[2505.18973](http://arxiv.org/abs/2505.18973)|null|
+|**2025-05-27**|**Hierarchical Mamba Meets Hyperbolic Geometry: A New Paradigm for Structured Language Embeddings**|Sarang Patil et.al.|[2505.18973](http://arxiv.org/abs/2505.18973)|null|
 |**2025-05-24**|**TK-Mamba: Marrying KAN with Mamba for Text-Driven 3D Medical Image Segmentation**|Haoyu Yang et.al.|[2505.18525](http://arxiv.org/abs/2505.18525)|null|
 |**2025-05-23**|**Weakly-supervised Mamba-Based Mastoidectomy Shape Prediction for Cochlear Implant Surgery Using 3D T-Distribution Loss**|Yike Zhang et.al.|[2505.18368](http://arxiv.org/abs/2505.18368)|null|
 |**2025-05-23**|**Selection Mechanisms for Sequence Modeling using Linear State Space Models**|Umberto Casti et.al.|[2505.17932](http://arxiv.org/abs/2505.17932)|null|
