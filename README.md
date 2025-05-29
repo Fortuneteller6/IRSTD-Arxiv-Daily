@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.28
+## Updated on 2025.05.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,7 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-05-25**|**DISTA-Net: Dynamic Closely-Spaced Infrared Small Target Unmixing**|Shengdong Han et.al.|[2505.19148](http://arxiv.org/abs/2505.19148)|null|
+|**2025-05-25**|**DISTA-Net: Dynamic Closely-Spaced Infrared Small Target Unmixing**|Shengdong Han et.al.|[2505.19148](http://arxiv.org/abs/2505.19148)|**[link](https://github.com/grokcv/grokcso)**|
 |**2025-05-21**|**AuxDet: Auxiliary Metadata Matters for Omni-Domain Infrared Small Target Detection**|Yangting Shi et.al.|[2505.15184](http://arxiv.org/abs/2505.15184)|**[link](https://github.com/grokcv/auxdet)**|
 |**2025-05-23**|**ARFC-WAHNet: Adaptive Receptive Field Convolution and Wavelet-Attentive Hierarchical Network for Infrared Small Target Detection**|Xingye Cui et.al.|[2505.10595](http://arxiv.org/abs/2505.10595)|**[link](https://github.com/leaf2001/arfc-wahnet)**|
 |**2025-05-15**|**CSPENet: Contour-Aware and Saliency Priors Embedding Network for Infrared Small Target Detection**|Jiakun Deng et.al.|[2505.09943](http://arxiv.org/abs/2505.09943)|**[link](https://github.com/idip2025/cspenet)**|
@@ -77,7 +77,7 @@
 |**2024-10-04**|**Mapping Degeneration Meets Label Evolution: Learning Infrared Small Target Detection with Single Point Supervision**|Xinyi Ying et.al.|[2304.01484](http://arxiv.org/abs/2304.01484)|**[link](https://github.com/xinyiying/lesps)**|
 |**2023-03-18**|**ABC: Attention with Bilinear Correlation for Infrared Small Target Detection**|Peiwen Pan et.al.|[2303.10321](http://arxiv.org/abs/2303.10321)|**[link](https://github.com/panpeiwen/abc)**|
 
-<p align=right>(<a href=#updated-on-20250528>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250529>back to top</a>)</p>
 
 ## Mamba
 
@@ -86,23 +86,23 @@
 |**2025-05-27**|**ZigzagPointMamba: Spatial-Semantic Mamba for Point Cloud Understanding**|Linshuang Diao et.al.|[2505.21381](http://arxiv.org/abs/2505.21381)|null|
 |**2025-05-27**|**Universal Speech Enhancement with Regression and Generative Mamba**|Rong Chao et.al.|[2505.21198](http://arxiv.org/abs/2505.21198)|null|
 |**2025-05-27**|**PMA: Towards Parameter-Efficient Point Cloud Understanding via Point Mamba Adapter**|Yaohua Zha et.al.|[2505.20941](http://arxiv.org/abs/2505.20941)|null|
-|**2025-05-27**|**HTMNet: A Hybrid Network with Transformer-Mamba Bottleneck Multimodal Fusion for Transparent and Reflective Objects Depth Completion**|Guanghu Xie et.al.|[2505.20904](http://arxiv.org/abs/2505.20904)|null|
+|**2025-05-28**|**HTMNet: A Hybrid Network with Transformer-Mamba Bottleneck Multimodal Fusion for Transparent and Reflective Objects Depth Completion**|Guanghu Xie et.al.|[2505.20904](http://arxiv.org/abs/2505.20904)|null|
 |**2025-05-27**|**TimePro: Efficient Multivariate Long-term Time Series Forecasting with Variable- and Time-Aware Hyper-state**|Xiaowen Ma et.al.|[2505.20774](http://arxiv.org/abs/2505.20774)|null|
 |**2025-05-27**|**Sparsified State-Space Models are Efficient Highway Networks**|Woomin Song et.al.|[2505.20698](http://arxiv.org/abs/2505.20698)|null|
 |**2025-05-27**|**OccLE: Label-Efficient 3D Semantic Occupancy Prediction**|Naiyu Fang et.al.|[2505.20617](http://arxiv.org/abs/2505.20617)|null|
 |**2025-05-27**|**Mamba-Driven Topology Fusion for Monocular 3-D Human Pose Estimation**|Zenghao Zheng et.al.|[2505.20611](http://arxiv.org/abs/2505.20611)|null|
-|**2025-05-25**|**Latent Mamba Operator for Partial Differential Equations**|Karn Tiwari et.al.|[2505.19105](http://arxiv.org/abs/2505.19105)|null|
-|**2025-05-25**|**FastMamba: A High-Speed and Efficient Mamba Accelerator on FPGA with Accurate Quantization**|Aotao Wang et.al.|[2505.18975](http://arxiv.org/abs/2505.18975)|null|
+|**2025-05-28**|**Latent Mamba Operator for Partial Differential Equations**|Karn Tiwari et.al.|[2505.19105](http://arxiv.org/abs/2505.19105)|null|
+|**2025-05-28**|**FastMamba: A High-Speed and Efficient Mamba Accelerator on FPGA with Accurate Quantization**|Aotao Wang et.al.|[2505.18975](http://arxiv.org/abs/2505.18975)|null|
 |**2025-05-27**|**Hierarchical Mamba Meets Hyperbolic Geometry: A New Paradigm for Structured Language Embeddings**|Sarang Patil et.al.|[2505.18973](http://arxiv.org/abs/2505.18973)|null|
 |**2025-05-24**|**TK-Mamba: Marrying KAN with Mamba for Text-Driven 3D Medical Image Segmentation**|Haoyu Yang et.al.|[2505.18525](http://arxiv.org/abs/2505.18525)|null|
 |**2025-05-23**|**Weakly-supervised Mamba-Based Mastoidectomy Shape Prediction for Cochlear Implant Surgery Using 3D T-Distribution Loss**|Yike Zhang et.al.|[2505.18368](http://arxiv.org/abs/2505.18368)|null|
 |**2025-05-23**|**Selection Mechanisms for Sequence Modeling using Linear State Space Models**|Umberto Casti et.al.|[2505.17932](http://arxiv.org/abs/2505.17932)|null|
 |**2025-05-23**|**Hybrid Mamba-Transformer Decoder for Error-Correcting Codes**|Shy-el Cohen et.al.|[2505.17834](http://arxiv.org/abs/2505.17834)|null|
-|**2025-05-23**|**Structured Linear CDEs: Maximally Expressive and Parallel-in-Time Sequence Models**|Benjamin Walker et.al.|[2505.17761](http://arxiv.org/abs/2505.17761)|null|
+|**2025-05-23**|**Structured Linear CDEs: Maximally Expressive and Parallel-in-Time Sequence Models**|Benjamin Walker et.al.|[2505.17761](http://arxiv.org/abs/2505.17761)|**[link](https://github.com/benjamin-walker/structured-linear-cdes)**|
 |**2025-05-23**|**Causal Spatio-Temporal Prediction: An Effective and Efficient Multi-Modal Approach**|Yuting Huang et.al.|[2505.17637](http://arxiv.org/abs/2505.17637)|null|
 |**2025-05-23**|**MEGADance: Mixture-of-Experts Architecture for Genre-Aware 3D Dance Generation**|Kaixing Yang et.al.|[2505.17543](http://arxiv.org/abs/2505.17543)|null|
 |**2025-05-23**|**Graph Mamba for Efficient Whole Slide Image Understanding**|Jiaxuan Lu et.al.|[2505.17457](http://arxiv.org/abs/2505.17457)|null|
-|**2025-05-26**|**EVM-Fusion: An Explainable Vision Mamba Architecture with Neural Algorithmic Fusion**|Zichuan Yang et.al.|[2505.17367](http://arxiv.org/abs/2505.17367)|null|
+|**2025-05-27**|**EVM-Fusion: An Explainable Vision Mamba Architecture with Neural Algorithmic Fusion**|Zichuan Yang et.al.|[2505.17367](http://arxiv.org/abs/2505.17367)|null|
 |**2025-05-22**|**JanusDNA: A Powerful Bi-directional Hybrid DNA Foundation Model**|Qihao Duan et.al.|[2505.17257](http://arxiv.org/abs/2505.17257)|null|
 |**2025-05-23**|**Active Speech Enhancement: Active Speech Denoising Decliping and Deveraberation**|Ofir Yaish et.al.|[2505.16911](http://arxiv.org/abs/2505.16911)|null|
 |**2025-05-22**|**PCMamba: Physics-Informed Cross-Modal State Space Model for Dual-Camera Compressive Hyperspectral Imaging**|Ge Meng et.al.|[2505.16373](http://arxiv.org/abs/2505.16373)|null|
@@ -538,7 +538,7 @@
 |**2024-10-31**|**NIMBA: Towards Robust and Principled Processing of Point Clouds With SSMs**|Nursena Köprücü et.al.|[2411.00151](http://arxiv.org/abs/2411.00151)|null|
 |**2024-11-01**|**Dynamical similarity analysis uniquely captures how computations develop in RNNs**|Quentin Guilhot et.al.|[2410.24070](http://arxiv.org/abs/2410.24070)|**[link](https://github.com/qglht/repal)**|
 
-<p align=right>(<a href=#updated-on-20250528>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250529>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Fortuneteller6/IRSTD-Arxiv-Daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Fortuneteller6/IRSTD-Arxiv-Daily/graphs/contributors
