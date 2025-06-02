@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.01
+## Updated on 2025.06.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,7 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-05-29**|**SAMamba: Adaptive State Space Modeling with Hierarchical Vision for Infrared Small Target Detection**|Wenhao Xu et.al.|[2505.23214](http://arxiv.org/abs/2505.23214)|null|
+|**2025-05-29**|**SAMamba: Adaptive State Space Modeling with Hierarchical Vision for Infrared Small Target Detection**|Wenhao Xu et.al.|[2505.23214](http://arxiv.org/abs/2505.23214)|**[link](https://github.com/zhengshuchen/samamba)**|
 |**2025-05-25**|**DISTA-Net: Dynamic Closely-Spaced Infrared Small Target Unmixing**|Shengdong Han et.al.|[2505.19148](http://arxiv.org/abs/2505.19148)|**[link](https://github.com/grokcv/grokcso)**|
 |**2025-05-21**|**AuxDet: Auxiliary Metadata Matters for Omni-Domain Infrared Small Target Detection**|Yangting Shi et.al.|[2505.15184](http://arxiv.org/abs/2505.15184)|**[link](https://github.com/grokcv/auxdet)**|
 |**2025-05-23**|**ARFC-WAHNet: Adaptive Receptive Field Convolution and Wavelet-Attentive Hierarchical Network for Infrared Small Target Detection**|Xingye Cui et.al.|[2505.10595](http://arxiv.org/abs/2505.10595)|**[link](https://github.com/leaf2001/arfc-wahnet)**|
@@ -78,13 +78,13 @@
 |**2024-10-04**|**Mapping Degeneration Meets Label Evolution: Learning Infrared Small Target Detection with Single Point Supervision**|Xinyi Ying et.al.|[2304.01484](http://arxiv.org/abs/2304.01484)|**[link](https://github.com/xinyiying/lesps)**|
 |**2023-03-18**|**ABC: Attention with Bilinear Correlation for Infrared Small Target Detection**|Peiwen Pan et.al.|[2303.10321](http://arxiv.org/abs/2303.10321)|**[link](https://github.com/panpeiwen/abc)**|
 
-<p align=right>(<a href=#updated-on-20250601>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
 
 ## Mamba
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-05-29**|**SAMamba: Adaptive State Space Modeling with Hierarchical Vision for Infrared Small Target Detection**|Wenhao Xu et.al.|[2505.23214](http://arxiv.org/abs/2505.23214)|null|
+|**2025-05-29**|**SAMamba: Adaptive State Space Modeling with Hierarchical Vision for Infrared Small Target Detection**|Wenhao Xu et.al.|[2505.23214](http://arxiv.org/abs/2505.23214)|**[link](https://github.com/zhengshuchen/samamba)**|
 |**2025-05-29**|**Loss-Guided Model Sharing and Local Learning Correction in Decentralized Federated Learning for Crop Disease Classification**|Denis Mamba Kabala et.al.|[2505.23063](http://arxiv.org/abs/2505.23063)|null|
 |**2025-05-29**|**RiverMamba: A State Space Model for Global River Discharge and Flood Forecasting**|Mohamad Hakam Shams Eddin et.al.|[2505.22535](http://arxiv.org/abs/2505.22535)|null|
 |**2025-05-28**|**StateSpaceDiffuser: Bringing Long Context to Diffusion World Models**|Nedko Savov et.al.|[2505.22246](http://arxiv.org/abs/2505.22246)|null|
@@ -100,8 +100,8 @@
 |**2025-05-27**|**Mamba-Driven Topology Fusion for Monocular 3-D Human Pose Estimation**|Zenghao Zheng et.al.|[2505.20611](http://arxiv.org/abs/2505.20611)|null|
 |**2025-05-28**|**Latent Mamba Operator for Partial Differential Equations**|Karn Tiwari et.al.|[2505.19105](http://arxiv.org/abs/2505.19105)|null|
 |**2025-05-28**|**FastMamba: A High-Speed and Efficient Mamba Accelerator on FPGA with Accurate Quantization**|Aotao Wang et.al.|[2505.18975](http://arxiv.org/abs/2505.18975)|null|
-|**2025-05-27**|**Hierarchical Mamba Meets Hyperbolic Geometry: A New Paradigm for Structured Language Embeddings**|Sarang Patil et.al.|[2505.18973](http://arxiv.org/abs/2505.18973)|null|
-|**2025-05-24**|**TK-Mamba: Marrying KAN with Mamba for Text-Driven 3D Medical Image Segmentation**|Haoyu Yang et.al.|[2505.18525](http://arxiv.org/abs/2505.18525)|null|
+|**2025-05-27**|**Hierarchical Mamba Meets Hyperbolic Geometry: A New Paradigm for Structured Language Embeddings**|Sarang Patil et.al.|[2505.18973](http://arxiv.org/abs/2505.18973)|**[link](https://github.com/berrybyte/him)**|
+|**2025-05-24**|**TK-Mamba: Marrying KAN with Mamba for Text-Driven 3D Medical Image Segmentation**|Haoyu Yang et.al.|[2505.18525](http://arxiv.org/abs/2505.18525)|**[link](https://github.com/yhy-whu/tk-mamba)**|
 |**2025-05-23**|**Weakly-supervised Mamba-Based Mastoidectomy Shape Prediction for Cochlear Implant Surgery Using 3D T-Distribution Loss**|Yike Zhang et.al.|[2505.18368](http://arxiv.org/abs/2505.18368)|null|
 |**2025-05-23**|**Selection Mechanisms for Sequence Modeling using Linear State Space Models**|Umberto Casti et.al.|[2505.17932](http://arxiv.org/abs/2505.17932)|null|
 |**2025-05-23**|**Hybrid Mamba-Transformer Decoder for Error-Correcting Codes**|Shy-el Cohen et.al.|[2505.17834](http://arxiv.org/abs/2505.17834)|null|
@@ -545,7 +545,7 @@
 |**2024-10-31**|**NIMBA: Towards Robust and Principled Processing of Point Clouds With SSMs**|Nursena Köprücü et.al.|[2411.00151](http://arxiv.org/abs/2411.00151)|null|
 |**2024-11-01**|**Dynamical similarity analysis uniquely captures how computations develop in RNNs**|Quentin Guilhot et.al.|[2410.24070](http://arxiv.org/abs/2410.24070)|**[link](https://github.com/qglht/repal)**|
 
-<p align=right>(<a href=#updated-on-20250601>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Fortuneteller6/IRSTD-Arxiv-Daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Fortuneteller6/IRSTD-Arxiv-Daily/graphs/contributors
