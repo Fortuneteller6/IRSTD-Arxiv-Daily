@@ -479,7 +479,7 @@ layout: default
 |**2024-12-01**|**Learning Mamba as a Continual Learner**|Chongyang Zhao et.al.|[2412.00776](http://arxiv.org/abs/2412.00776)|null|
 |**2024-12-01**|**Decision Transformer vs. Decision Mamba: Analysing the Complexity of Sequential Decision Making in Atari Games**|Ke Yan et.al.|[2412.00725](http://arxiv.org/abs/2412.00725)|**[link](https://github.com/0x1DA9430/Decision-Transformer-vs-Decision-Mamba)**|
 |**2024-12-01**|**2DMamba: Efficient State Space Model for Image Representation with Applications on Giga-Pixel Whole Slide Image Classification**|Jingwei Zhang et.al.|[2412.00678](http://arxiv.org/abs/2412.00678)|**[link](https://github.com/atlasanalyticslab/2dmamba)**|
-|**2024-12-01**|**MambaNUT: Nighttime UAV Tracking via Mamba and Adaptive Curriculum Learning**|You Wu et.al.|[2412.00626](http://arxiv.org/abs/2412.00626)|null|
+|**2024-12-01**|**MambaNUT: Nighttime UAV Tracking via Mamba and Adaptive Curriculum Learning**|You Wu et.al.|[2412.00626](http://arxiv.org/abs/2412.00626)|**[link](https://github.com/wuyou3474/mambanut)**|
 |**2024-11-29**|**RMIO: A Model-Based MARL Framework for Scenarios with Observation Loss in Some Agents**|Shi Zifeng et.al.|[2411.19639](http://arxiv.org/abs/2411.19639)|null|
 |**2024-11-28**|**MSEMG: Surface Electromyography Denoising with a Mamba-based Efficient Network**|Yu-Tung Liu et.al.|[2411.18902](http://arxiv.org/abs/2411.18902)|**[link](https://github.com/tonyliu0910/msemg)**|
 |**2024-11-27**|**Vision Mamba Distillation for Low-resolution Fine-grained Image Classification**|Yao Chen et.al.|[2411.17980](http://arxiv.org/abs/2411.17980)|**[link](https://github.com/boa2004plaust/vimd)**|
