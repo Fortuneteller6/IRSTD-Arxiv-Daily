@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.02
+## Updated on 2025.06.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## IRSTD
@@ -104,7 +104,7 @@ layout: default
 |**2025-05-23**|**Hybrid Mamba-Transformer Decoder for Error-Correcting Codes**|Shy-el Cohen et.al.|[2505.17834](http://arxiv.org/abs/2505.17834)|null|
 |**2025-05-23**|**Structured Linear CDEs: Maximally Expressive and Parallel-in-Time Sequence Models**|Benjamin Walker et.al.|[2505.17761](http://arxiv.org/abs/2505.17761)|**[link](https://github.com/benjamin-walker/structured-linear-cdes)**|
 |**2025-05-23**|**Causal Spatio-Temporal Prediction: An Effective and Efficient Multi-Modal Approach**|Yuting Huang et.al.|[2505.17637](http://arxiv.org/abs/2505.17637)|null|
-|**2025-05-23**|**MEGADance: Mixture-of-Experts Architecture for Genre-Aware 3D Dance Generation**|Kaixing Yang et.al.|[2505.17543](http://arxiv.org/abs/2505.17543)|null|
+|**2025-05-31**|**MEGADance: Mixture-of-Experts Architecture for Genre-Aware 3D Dance Generation**|Kaixing Yang et.al.|[2505.17543](http://arxiv.org/abs/2505.17543)|null|
 |**2025-05-23**|**Graph Mamba for Efficient Whole Slide Image Understanding**|Jiaxuan Lu et.al.|[2505.17457](http://arxiv.org/abs/2505.17457)|null|
 |**2025-05-27**|**EVM-Fusion: An Explainable Vision Mamba Architecture with Neural Algorithmic Fusion**|Zichuan Yang et.al.|[2505.17367](http://arxiv.org/abs/2505.17367)|null|
 |**2025-05-22**|**JanusDNA: A Powerful Bi-directional Hybrid DNA Foundation Model**|Qihao Duan et.al.|[2505.17257](http://arxiv.org/abs/2505.17257)|null|
