@@ -86,6 +86,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-04**|**A Diffusion-Driven Temporal Super-Resolution and Spatial Consistency Enhancement Framework for 4D MRI imaging**|Xuanru Zhou et.al.|[2506.04116](http://arxiv.org/abs/2506.04116)|null|
+|**2025-06-04**|**MambaNeXt-YOLO: A Hybrid State Space Model for Real-time Object Detection**|Xiaochun Lei et.al.|[2506.03654](http://arxiv.org/abs/2506.03654)|null|
+|**2025-06-04**|**MamFusion: Multi-Mamba with Temporal Fusion for Partially Relevant Video Retrieval**|Xinru Ying et.al.|[2506.03473](http://arxiv.org/abs/2506.03473)|null|
+|**2025-06-03**|**SportMamba: Adaptive Non-Linear Multi-Object Tracking with State Space Models for Team Sports**|Dheeraj Khanna et.al.|[2506.03335](http://arxiv.org/abs/2506.03335)|null|
+|**2025-06-03**|**ConMamba: Contrastive Vision Mamba for Plant Disease Detection**|Abdullah Al Mamun et.al.|[2506.03213](http://arxiv.org/abs/2506.03213)|null|
 |**2025-06-03**|**InterMamba: Efficient Human-Human Interaction Generation with Adaptive Spatio-Temporal Mamba**|Zizhao Wu et.al.|[2506.03084](http://arxiv.org/abs/2506.03084)|null|
 |**2025-06-04**|**MMM4Rec: A Transfer-Efficient Framework for Multi-modal Sequential Recommendation**|Hao Fan et.al.|[2506.02916](http://arxiv.org/abs/2506.02916)|null|
 |**2025-06-03**|**ControlMambaIR: Conditional Controls with State-Space Model for Image Restoration**|Cheng Yang et.al.|[2506.02633](http://arxiv.org/abs/2506.02633)|null|
