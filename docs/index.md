@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.09
+## Updated on 2025.06.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## IRSTD
@@ -83,15 +83,15 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-05**|**DM-SegNet: Dual-Mamba Architecture for 3D Medical Image Segmentation with Global Context Modeling**|Hangyu Ji et.al.|[2506.05297](http://arxiv.org/abs/2506.05297)|null|
 |**2025-06-05**|**MesaNet: Sequence Modeling by Locally Optimal Test-Time Training**|Johannes von Oswald et.al.|[2506.05233](http://arxiv.org/abs/2506.05233)|null|
-|**2025-06-04**|**A Diffusion-Driven Temporal Super-Resolution and Spatial Consistency Enhancement Framework for 4D MRI imaging**|Xuanru Zhou et.al.|[2506.04116](http://arxiv.org/abs/2506.04116)|null|
+|**2025-06-09**|**A Diffusion-Driven Temporal Super-Resolution and Spatial Consistency Enhancement Framework for 4D MRI imaging**|Xuanru Zhou et.al.|[2506.04116](http://arxiv.org/abs/2506.04116)|null|
 |**2025-06-05**|**MambaNeXt-YOLO: A Hybrid State Space Model for Real-time Object Detection**|Xiaochun Lei et.al.|[2506.03654](http://arxiv.org/abs/2506.03654)|null|
 |**2025-06-04**|**MamFusion: Multi-Mamba with Temporal Fusion for Partially Relevant Video Retrieval**|Xinru Ying et.al.|[2506.03473](http://arxiv.org/abs/2506.03473)|null|
 |**2025-06-03**|**SportMamba: Adaptive Non-Linear Multi-Object Tracking with State Space Models for Team Sports**|Dheeraj Khanna et.al.|[2506.03335](http://arxiv.org/abs/2506.03335)|null|
 |**2025-06-03**|**ConMamba: Contrastive Vision Mamba for Plant Disease Detection**|Abdullah Al Mamun et.al.|[2506.03213](http://arxiv.org/abs/2506.03213)|null|
 |**2025-06-03**|**InterMamba: Efficient Human-Human Interaction Generation with Adaptive Spatio-Temporal Mamba**|Zizhao Wu et.al.|[2506.03084](http://arxiv.org/abs/2506.03084)|null|
-|**2025-06-04**|**MMM4Rec: A Transfer-Efficient Framework for Multi-modal Sequential Recommendation**|Hao Fan et.al.|[2506.02916](http://arxiv.org/abs/2506.02916)|null|
+|**2025-06-07**|**Transferable Sequential Recommendation with Vanilla Cross-Entropy Loss**|Hao Fan et.al.|[2506.02916](http://arxiv.org/abs/2506.02916)|null|
 |**2025-06-03**|**ControlMambaIR: Conditional Controls with State-Space Model for Image Restoration**|Cheng Yang et.al.|[2506.02633](http://arxiv.org/abs/2506.02633)|null|
-|**2025-06-03**|**Comba: Improving Nonlinear RNNs with Closed-loop Control**|Jiaxi Hu et.al.|[2506.02475](http://arxiv.org/abs/2506.02475)|null|
+|**2025-06-08**|**Comba: Improving Bilinear RNNs with Closed-loop Control**|Jiaxi Hu et.al.|[2506.02475](http://arxiv.org/abs/2506.02475)|null|
 |**2025-06-02**|**Are Mamba-based Audio Foundation Models the Best Fit for Non-Verbal Emotion Recognition?**|Mohd Mujtaba Akhtar et.al.|[2506.02258](http://arxiv.org/abs/2506.02258)|null|
 |**2025-06-01**|**Mamba Drafters for Speculative Decoding**|Daewon Choi et.al.|[2506.01206](http://arxiv.org/abs/2506.01206)|null|
 |**2025-06-01**|**PARROT: Synergizing Mamba and Attention-based SSL Pre-Trained Models via Parallel Branch Hadamard Optimal Transport for Speech Emotion Recognition**|Orchid Chetia Phukan et.al.|[2506.01138](http://arxiv.org/abs/2506.01138)|null|
@@ -100,7 +100,7 @@ layout: default
 |**2025-06-01**|**General-purpose audio representation learning for real-world sound scenes**|Goksenin Yuksel et.al.|[2506.00934](http://arxiv.org/abs/2506.00934)|null|
 |**2025-06-01**|**3D Skeleton-Based Action Recognition: A Review**|Mengyuan Liu et.al.|[2506.00915](http://arxiv.org/abs/2506.00915)|null|
 |**2025-05-30**|**ACM-UNet: Adaptive Integration of CNNs and Mamba for Efficient Medical Image Segmentation**|Jing Huang et.al.|[2505.24481](http://arxiv.org/abs/2505.24481)|null|
-|**2025-05-30**|**Mamba Knockout for Unraveling Factual Information Flow**|Nir Endy et.al.|[2505.24244](http://arxiv.org/abs/2505.24244)|null|
+|**2025-05-30**|**Mamba Knockout for Unraveling Factual Information Flow**|Nir Endy et.al.|[2505.24244](http://arxiv.org/abs/2505.24244)|**[link](https://github.com/nirendy/mamba-knockout)**|
 |**2025-05-29**|**Mamba Integrated with Physics Principles Masters Long-term Chaotic System Forecasting**|Chang Liu et.al.|[2505.23863](http://arxiv.org/abs/2505.23863)|null|
 |**2025-05-29**|**SAMamba: Adaptive State Space Modeling with Hierarchical Vision for Infrared Small Target Detection**|Wenhao Xu et.al.|[2505.23214](http://arxiv.org/abs/2505.23214)|**[link](https://github.com/zhengshuchen/samamba)**|
 |**2025-05-29**|**Loss-Guided Model Sharing and Local Learning Correction in Decentralized Federated Learning for Crop Disease Classification**|Denis Mamba Kabala et.al.|[2505.23063](http://arxiv.org/abs/2505.23063)|null|
@@ -113,7 +113,7 @@ layout: default
 |**2025-05-27**|**PMA: Towards Parameter-Efficient Point Cloud Understanding via Point Mamba Adapter**|Yaohua Zha et.al.|[2505.20941](http://arxiv.org/abs/2505.20941)|null|
 |**2025-05-28**|**HTMNet: A Hybrid Network with Transformer-Mamba Bottleneck Multimodal Fusion for Transparent and Reflective Objects Depth Completion**|Guanghu Xie et.al.|[2505.20904](http://arxiv.org/abs/2505.20904)|null|
 |**2025-05-27**|**TimePro: Efficient Multivariate Long-term Time Series Forecasting with Variable- and Time-Aware Hyper-state**|Xiaowen Ma et.al.|[2505.20774](http://arxiv.org/abs/2505.20774)|null|
-|**2025-05-27**|**Sparsified State-Space Models are Efficient Highway Networks**|Woomin Song et.al.|[2505.20698](http://arxiv.org/abs/2505.20698)|null|
+|**2025-05-27**|**Sparsified State-Space Models are Efficient Highway Networks**|Woomin Song et.al.|[2505.20698](http://arxiv.org/abs/2505.20698)|**[link](https://github.com/woominsong/simba)**|
 |**2025-05-27**|**OccLE: Label-Efficient 3D Semantic Occupancy Prediction**|Naiyu Fang et.al.|[2505.20617](http://arxiv.org/abs/2505.20617)|null|
 |**2025-05-27**|**Mamba-Driven Topology Fusion for Monocular 3-D Human Pose Estimation**|Zenghao Zheng et.al.|[2505.20611](http://arxiv.org/abs/2505.20611)|null|
 |**2025-05-28**|**Latent Mamba Operator for Partial Differential Equations**|Karn Tiwari et.al.|[2505.19105](http://arxiv.org/abs/2505.19105)|null|
