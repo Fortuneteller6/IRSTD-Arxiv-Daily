@@ -87,6 +87,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-10**|**KARMA: A Multilevel Decomposition Hybrid Mamba Framework for Multivariate Long-Term Time Series Forecasting**|Hang Ye et.al.|[2506.08939](http://arxiv.org/abs/2506.08939)|null|
+|**2025-06-10**|**InceptionMamba: An Efficient Hybrid Network with Large Band Convolution and Bottleneck Mamba**|Yuhang Wang et.al.|[2506.08735](http://arxiv.org/abs/2506.08735)|null|
+|**2025-06-10**|**ECMNet:Lightweight Semantic Segmentation with Efficient CNN-Mamba Network**|Feixiang Du et.al.|[2506.08629](http://arxiv.org/abs/2506.08629)|null|
+|**2025-06-10**|**MLVTG: Mamba-Based Feature Alignment and LLM-Driven Purification for Multi-Modal Video Temporal Grounding**|Zhiyi Zhu et.al.|[2506.08512](http://arxiv.org/abs/2506.08512)|null|
+|**2025-06-10**|**SEMA: a Scalable and Efficient Mamba like Attention via Token Localization and Averaging**|Nhat Thanh Tran et.al.|[2506.08297](http://arxiv.org/abs/2506.08297)|null|
 |**2025-06-09**|**M2Restore: Mixture-of-Experts-based Mamba-CNN Fusion Framework for All-in-One Image Restoration**|Yongzhen Wang et.al.|[2506.07814](http://arxiv.org/abs/2506.07814)|null|
 |**2025-06-09**|**FMaMIL: Frequency-Driven Mamba Multi-Instance Learning for Weakly Supervised Lesion Segmentation in Medical Images**|Hangbei Cheng et.al.|[2506.07652](http://arxiv.org/abs/2506.07652)|null|
 |**2025-06-09**|**FAMSeg: Fetal Femur and Cranial Ultrasound Segmentation Using Feature-Aware Attention and Mamba Enhancement**|Jie He et.al.|[2506.07431](http://arxiv.org/abs/2506.07431)|null|
