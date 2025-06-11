@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.10
+## Updated on 2025.06.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## IRSTD
@@ -114,7 +114,7 @@ layout: default
 |**2025-05-28**|**StateSpaceDiffuser: Bringing Long Context to Diffusion World Models**|Nedko Savov et.al.|[2505.22246](http://arxiv.org/abs/2505.22246)|null|
 |**2025-05-27**|**Revisiting Bi-Linear State Transitions in Recurrent Neural Networks**|M. Reza Ebrahimi et.al.|[2505.21749](http://arxiv.org/abs/2505.21749)|null|
 |**2025-05-29**|**Scaling Up Liquid-Resistance Liquid-Capacitance Networks for Efficient Sequence Modeling**|Mónika Farsang et.al.|[2505.21717](http://arxiv.org/abs/2505.21717)|null|
-|**2025-05-27**|**ZigzagPointMamba: Spatial-Semantic Mamba for Point Cloud Understanding**|Linshuang Diao et.al.|[2505.21381](http://arxiv.org/abs/2505.21381)|null|
+|**2025-06-10**|**ZigzagPointMamba: Spatial-Semantic Mamba for Point Cloud Understanding**|Linshuang Diao et.al.|[2505.21381](http://arxiv.org/abs/2505.21381)|null|
 |**2025-05-27**|**Universal Speech Enhancement with Regression and Generative Mamba**|Rong Chao et.al.|[2505.21198](http://arxiv.org/abs/2505.21198)|null|
 |**2025-05-27**|**PMA: Towards Parameter-Efficient Point Cloud Understanding via Point Mamba Adapter**|Yaohua Zha et.al.|[2505.20941](http://arxiv.org/abs/2505.20941)|null|
 |**2025-05-28**|**HTMNet: A Hybrid Network with Transformer-Mamba Bottleneck Multimodal Fusion for Transparent and Reflective Objects Depth Completion**|Guanghu Xie et.al.|[2505.20904](http://arxiv.org/abs/2505.20904)|null|
