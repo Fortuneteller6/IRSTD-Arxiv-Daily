@@ -81,6 +81,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-11**|**SparseSSM: Efficient Selective Structured State Space Models Can Be Pruned in One-Shot**|Kaiwen Tuo et.al.|[2506.09613](http://arxiv.org/abs/2506.09613)|null|
 |**2025-06-10**|**KARMA: A Multilevel Decomposition Hybrid Mamba Framework for Multivariate Long-Term Time Series Forecasting**|Hang Ye et.al.|[2506.08939](http://arxiv.org/abs/2506.08939)|null|
 |**2025-06-10**|**InceptionMamba: An Efficient Hybrid Network with Large Band Convolution and Bottleneck Mamba**|Yuhang Wang et.al.|[2506.08735](http://arxiv.org/abs/2506.08735)|null|
 |**2025-06-10**|**ECMNet:Lightweight Semantic Segmentation with Efficient CNN-Mamba Network**|Feixiang Du et.al.|[2506.08629](http://arxiv.org/abs/2506.08629)|null|
