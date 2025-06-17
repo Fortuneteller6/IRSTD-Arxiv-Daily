@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.16
+## Updated on 2025.06.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## IRSTD
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-12**|**It's Not the Target, It's the Background: Rethinking Infrared Small Target Detection via Deep Patch-Free Low-Rank Representations**|Guoyi Zhang et.al.|[2506.10425](http://arxiv.org/abs/2506.10425)|null|
+|**2025-06-15**|**It's Not the Target, It's the Background: Rethinking Infrared Small Target Detection via Deep Patch-Free Low-Rank Representations**|Guoyi Zhang et.al.|[2506.10425](http://arxiv.org/abs/2506.10425)|**[link](https://github.com/halongbao/lrrnet)**|
 |**2025-06-06**|**SDS-Net: Shallow-Deep Synergism-detection Network for infrared small target detection**|Taoran Yue et.al.|[2506.06042](http://arxiv.org/abs/2506.06042)|null|
 |**2025-06-03**|**RRCANet: Recurrent Reusable-Convolution Attention Network for Infrared Small Target Detection**|Yongxian Liu et.al.|[2506.02393](http://arxiv.org/abs/2506.02393)|null|
 |**2025-06-02**|**Target Driven Adaptive Loss For Infrared Small Target Detection**|Yuho Shoji et.al.|[2506.01349](http://arxiv.org/abs/2506.01349)|null|
@@ -89,16 +89,16 @@ layout: default
 |**2025-06-11**|**Towards a general-purpose foundation model for fMRI analysis**|Cheng Wang et.al.|[2506.11167](http://arxiv.org/abs/2506.11167)|null|
 |**2025-06-12**|**Sequential-Parallel Duality in Prefix Scannable Models**|Morris Yau et.al.|[2506.10918](http://arxiv.org/abs/2506.10918)|null|
 |**2025-06-12**|**M4V: Multi-Modal Mamba for Text-to-Video Generation**|Jiancheng Huang et.al.|[2506.10915](http://arxiv.org/abs/2506.10915)|null|
-|**2025-06-12**|**DART: Differentiable Dynamic Adaptive Region Tokenizer for Vision Transformer and Mamba**|Shicheng Yin et.al.|[2506.10390](http://arxiv.org/abs/2506.10390)|null|
+|**2025-06-12**|**DART: Differentiable Dynamic Adaptive Region Tokenizer for Vision Transformer and Mamba**|Shicheng Yin et.al.|[2506.10390](http://arxiv.org/abs/2506.10390)|**[link](https://github.com/hcplab-sysu/dart)**|
 |**2025-06-11**|**SparseSSM: Efficient Selective Structured State Space Models Can Be Pruned in One-Shot**|Kaiwen Tuo et.al.|[2506.09613](http://arxiv.org/abs/2506.09613)|null|
-|**2025-06-10**|**KARMA: A Multilevel Decomposition Hybrid Mamba Framework for Multivariate Long-Term Time Series Forecasting**|Hang Ye et.al.|[2506.08939](http://arxiv.org/abs/2506.08939)|null|
+|**2025-06-10**|**KARMA: A Multilevel Decomposition Hybrid Mamba Framework for Multivariate Long-Term Time Series Forecasting**|Hang Ye et.al.|[2506.08939](http://arxiv.org/abs/2506.08939)|**[link](https://github.com/yedadasd/karma)**|
 |**2025-06-12**|**InceptionMamba: An Efficient Hybrid Network with Large Band Convolution and Bottleneck Mamba**|Yuhang Wang et.al.|[2506.08735](http://arxiv.org/abs/2506.08735)|**[link](https://github.com/wake1021/inceptionmamba)**|
 |**2025-06-10**|**ECMNet:Lightweight Semantic Segmentation with Efficient CNN-Mamba Network**|Feixiang Du et.al.|[2506.08629](http://arxiv.org/abs/2506.08629)|null|
 |**2025-06-10**|**MLVTG: Mamba-Based Feature Alignment and LLM-Driven Purification for Multi-Modal Video Temporal Grounding**|Zhiyi Zhu et.al.|[2506.08512](http://arxiv.org/abs/2506.08512)|null|
 |**2025-06-10**|**SEMA: a Scalable and Efficient Mamba like Attention via Token Localization and Averaging**|Nhat Thanh Tran et.al.|[2506.08297](http://arxiv.org/abs/2506.08297)|null|
 |**2025-06-09**|**M2Restore: Mixture-of-Experts-based Mamba-CNN Fusion Framework for All-in-One Image Restoration**|Yongzhen Wang et.al.|[2506.07814](http://arxiv.org/abs/2506.07814)|null|
 |**2025-06-09**|**FMaMIL: Frequency-Driven Mamba Multi-Instance Learning for Weakly Supervised Lesion Segmentation in Medical Images**|Hangbei Cheng et.al.|[2506.07652](http://arxiv.org/abs/2506.07652)|null|
-|**2025-06-09**|**FAMSeg: Fetal Femur and Cranial Ultrasound Segmentation Using Feature-Aware Attention and Mamba Enhancement**|Jie He et.al.|[2506.07431](http://arxiv.org/abs/2506.07431)|null|
+|**2025-06-14**|**FAMSeg: Fetal Femur and Cranial Ultrasound Segmentation Using Feature-Aware Attention and Mamba Enhancement**|Jie He et.al.|[2506.07431](http://arxiv.org/abs/2506.07431)|null|
 |**2025-06-07**|**Polar Hierarchical Mamba: Towards Streaming LiDAR Object Detection with Point Clouds as Egocentric Sequences**|Mellon M. Zhang et.al.|[2506.06944](http://arxiv.org/abs/2506.06944)|null|
 |**2025-06-07**|**Hybrid Vision Transformer-Mamba Framework for Autism Diagnosis via Eye-Tracking Analysis**|Wafaa Kasri et.al.|[2506.06886](http://arxiv.org/abs/2506.06886)|null|
 |**2025-06-07**|**Flood-DamageSense: Multimodal Mamba with Multitask Learning for Building Flood Damage Assessment using SAR Remote Sensing Imagery**|Yu-Hsuan Ho et.al.|[2506.06667](http://arxiv.org/abs/2506.06667)|**[link](https://github.com/violayhho/flood-damagesense)**|
