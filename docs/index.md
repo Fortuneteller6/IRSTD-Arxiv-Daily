@@ -83,6 +83,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-17**|**FADPNet: Frequency-Aware Dual-Path Network for Face Super-Resolution**|Siyu Xu et.al.|[2506.14121](http://arxiv.org/abs/2506.14121)|null|
+|**2025-06-16**|**Scaling Algorithm Distillation for Continuous Control with Mamba**|Samuel Beaussant et.al.|[2506.13892](http://arxiv.org/abs/2506.13892)|null|
 |**2025-06-16**|**Stereo sound event localization and detection based on PSELDnet pretraining and BiMamba sequence modeling**|Wenmiao Gao et.al.|[2506.13455](http://arxiv.org/abs/2506.13455)|null|
 |**2025-06-16**|**MT-PCR: A Hybrid Mamba-Transformer with Spatial Serialization for Hierarchical Point Cloud Registration**|Bingxi Liu et.al.|[2506.13183](http://arxiv.org/abs/2506.13183)|null|
 |**2025-06-15**|**Unleashing Diffusion and State Space Models for Medical Image Segmentation**|Rong Wu et.al.|[2506.12747](http://arxiv.org/abs/2506.12747)|null|
