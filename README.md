@@ -32,7 +32,7 @@
 |**2025-05-04**|**Make Both Ends Meet: A Synergistic Optimization Infrared Small Target Detection with Streamlined Computational Overhead**|Yuxin Jing et.al.|[2504.21581](http://arxiv.org/abs/2504.21581)|null|
 |**2025-04-23**|**Rethinking Generalizable Infrared Small Target Detection: A Real-scene Benchmark and Cross-view Representation Learning**|Yahao Lu et.al.|[2504.16487](http://arxiv.org/abs/2504.16487)|null|
 |**2025-04-19**|**ISTD-YOLO: A Multi-Scale Lightweight High-Performance Infrared Small Target Detection Algorithm**|Shang Zhang et.al.|[2504.14289](http://arxiv.org/abs/2504.14289)|null|
-|**2025-03-21**|**MSCA-Net:Multi-Scale Context Aggregation Network for Infrared Small Target Detection**|Xiaojin Lu et.al.|[2503.17193](http://arxiv.org/abs/2503.17193)|null|
+|**2025-06-20**|**MSCA-Net:Multi-Scale Context Aggregation Network for Infrared Small Target Detection**|Xiaojin Lu et.al.|[2503.17193](http://arxiv.org/abs/2503.17193)|null|
 |**2025-03-10**|**Text-IRSTD: Leveraging Semantic Text to Promote Infrared Small Target Detection in Complex Scenes**|Feng Huang et.al.|[2503.07249](http://arxiv.org/abs/2503.07249)|null|
 |**2025-03-10**|**10K is Enough: An Ultra-Lightweight Binarized Network for Infrared Small-Target Detection**|Biqiao Xin et.al.|[2503.02662](http://arxiv.org/abs/2503.02662)|null|
 |**2025-03-04**|**Low-Level Matters: An Efficient Hybrid Architecture for Robust Multi-frame Infrared Small Target Detection**|Zhihua Shen et.al.|[2503.02220](http://arxiv.org/abs/2503.02220)|null|
@@ -89,6 +89,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-20**|**State-Space Models in Efficient Whispered and Multi-dialect Speech Recognition**|Aref Farhadipour et.al.|[2506.16969](http://arxiv.org/abs/2506.16969)|null|
+|**2025-06-19**|**MambaHash: Visual State Space Deep Hashing Model for Large-Scale Image Retrieval**|Chao He et.al.|[2506.16353](http://arxiv.org/abs/2506.16353)|null|
+|**2025-06-19**|**EDNet: A Distortion-Agnostic Speech Enhancement Framework with Gating Mamba Mechanism and Phase Shift-Invariant Training**|Doyeop Kwak et.al.|[2506.16231](http://arxiv.org/abs/2506.16231)|null|
+|**2025-06-19**|**FlowRAM: Grounding Flow Matching Policy with Region-Aware Mamba Framework for Robotic Manipulation**|Sen Wang et.al.|[2506.16201](http://arxiv.org/abs/2506.16201)|null|
+|**2025-06-19**|**LBMamba: Locally Bi-directional Mamba**|Jingwei Zhang et.al.|[2506.15976](http://arxiv.org/abs/2506.15976)|null|
 |**2025-06-18**|**Emergence of Primacy and Recency Effect in Mamba: A Mechanistic Point of View**|Muhammad Cendekia Airlangga et.al.|[2506.15156](http://arxiv.org/abs/2506.15156)|null|
 |**2025-06-17**|**FADPNet: Frequency-Aware Dual-Path Network for Face Super-Resolution**|Siyu Xu et.al.|[2506.14121](http://arxiv.org/abs/2506.14121)|null|
 |**2025-06-16**|**Scaling Algorithm Distillation for Continuous Control with Mamba**|Samuel Beaussant et.al.|[2506.13892](http://arxiv.org/abs/2506.13892)|null|
