@@ -89,6 +89,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-23**|**MARL-MambaContour: Unleashing Multi-Agent Deep Reinforcement Learning for Active Contour Optimization in Medical Image Segmentation**|Ruicheng Zhang et.al.|[2506.18679](http://arxiv.org/abs/2506.18679)|null|
+|**2025-06-23**|**BSMamba: Brightness and Semantic Modeling for Long-Range Interaction in Low-Light Image Enhancement**|Tongshun Zhang et.al.|[2506.18346](http://arxiv.org/abs/2506.18346)|null|
+|**2025-06-23**|**Jet Reconstruction with Mamba Networks in Collider Events**|Jinmian Li et.al.|[2506.18336](http://arxiv.org/abs/2506.18336)|null|
+|**2025-06-22**|**Memba: Membrane-driven Parameter-Efficient Fine-Tuning for Mamba**|Donghyun Lee et.al.|[2506.18184](http://arxiv.org/abs/2506.18184)|null|
+|**2025-06-22**|**Routing Mamba: Scaling State Space Models with Mixture-of-Experts Projection**|Zheng Zhan et.al.|[2506.18145](http://arxiv.org/abs/2506.18145)|null|
+|**2025-06-22**|**TEM^3-Learning: Time-Efficient Multimodal Multi-Task Learning for Advanced Assistive Driving**|Wenzhuo Liu et.al.|[2506.18084](http://arxiv.org/abs/2506.18084)|null|
+|**2025-06-22**|**OSDMamba: Enhancing Oil Spill Detection from Remote Sensing Images Using Selective State Space Model**|Shuaiyu Chen et.al.|[2506.18006](http://arxiv.org/abs/2506.18006)|null|
+|**2025-06-20**|**VMRA-MaR: An Asymmetry-Aware Temporal Framework for Longitudinal Breast Cancer Risk Prediction**|Zijun Sun et.al.|[2506.17412](http://arxiv.org/abs/2506.17412)|null|
 |**2025-06-20**|**State-Space Models in Efficient Whispered and Multi-dialect Speech Recognition**|Aref Farhadipour et.al.|[2506.16969](http://arxiv.org/abs/2506.16969)|null|
 |**2025-06-19**|**MambaHash: Visual State Space Deep Hashing Model for Large-Scale Image Retrieval**|Chao He et.al.|[2506.16353](http://arxiv.org/abs/2506.16353)|null|
 |**2025-06-19**|**EDNet: A Distortion-Agnostic Speech Enhancement Framework with Gating Mamba Mechanism and Phase Shift-Invariant Training**|Doyeop Kwak et.al.|[2506.16231](http://arxiv.org/abs/2506.16231)|null|
