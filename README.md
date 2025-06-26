@@ -89,6 +89,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-25**|**EAGLE: An Efficient Global Attention Lesion Segmentation Model for Hepatic Echinococcosis**|Jiayan Chen et.al.|[2506.20333](http://arxiv.org/abs/2506.20333)|null|
+|**2025-06-24**|**FlightKooba: A Fast Interpretable FTP Model**|Jing Lu et.al.|[2506.19885](http://arxiv.org/abs/2506.19885)|null|
 |**2025-06-24**|**MambaOutRS: A Hybrid CNN-Fourier Architecture for Remote Sensing Image Classification**|Minjong Cheon et.al.|[2506.19561](http://arxiv.org/abs/2506.19561)|null|
 |**2025-06-24**|**AMF-MedIT: An Efficient Align-Modulation-Fusion Framework for Medical Image-Tabular Data**|Congjing Yu et.al.|[2506.19439](http://arxiv.org/abs/2506.19439)|null|
 |**2025-06-24**|**JCAPT: A Joint Modeling Approach for CAPT**|Tzu-Hsuan Yang et.al.|[2506.19315](http://arxiv.org/abs/2506.19315)|null|
