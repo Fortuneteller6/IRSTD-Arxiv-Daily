@@ -89,6 +89,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-27**|**EAMamba: Efficient All-Around Vision State Space Model for Image Restoration**|Yu-Cheng Lin et.al.|[2506.22246](http://arxiv.org/abs/2506.22246)|null|
+|**2025-06-27**|**RAUM-Net: Regional Attention and Uncertainty-aware Mamba Network**|Mingquan Liu et.al.|[2506.21905](http://arxiv.org/abs/2506.21905)|null|
 |**2025-06-26**|**StruMamba3D: Exploring Structural Mamba for Self-supervised Point Cloud Representation Learning**|Chuxin Wang et.al.|[2506.21541](http://arxiv.org/abs/2506.21541)|null|
 |**2025-06-25**|**EAGLE: An Efficient Global Attention Lesion Segmentation Model for Hepatic Echinococcosis**|Jiayan Chen et.al.|[2506.20333](http://arxiv.org/abs/2506.20333)|null|
 |**2025-06-24**|**FlightKooba: A Fast Interpretable FTP Model**|Jing Lu et.al.|[2506.19885](http://arxiv.org/abs/2506.19885)|null|
