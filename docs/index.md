@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.29
+## Updated on 2025.06.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## IRSTD
@@ -100,7 +100,7 @@ layout: default
 |**2025-06-22**|**TEM^3-Learning: Time-Efficient Multimodal Multi-Task Learning for Advanced Assistive Driving**|Wenzhuo Liu et.al.|[2506.18084](http://arxiv.org/abs/2506.18084)|null|
 |**2025-06-22**|**OSDMamba: Enhancing Oil Spill Detection from Remote Sensing Images Using Selective State Space Model**|Shuaiyu Chen et.al.|[2506.18006](http://arxiv.org/abs/2506.18006)|null|
 |**2025-06-20**|**VMRA-MaR: An Asymmetry-Aware Temporal Framework for Longitudinal Breast Cancer Risk Prediction**|Zijun Sun et.al.|[2506.17412](http://arxiv.org/abs/2506.17412)|null|
-|**2025-06-20**|**State-Space Models in Efficient Whispered and Multi-dialect Speech Recognition**|Aref Farhadipour et.al.|[2506.16969](http://arxiv.org/abs/2506.16969)|null|
+|**2025-06-27**|**State-Space Models in Efficient Whispered and Multi-dialect Speech Recognition**|Aref Farhadipour et.al.|[2506.16969](http://arxiv.org/abs/2506.16969)|null|
 |**2025-06-19**|**MambaHash: Visual State Space Deep Hashing Model for Large-Scale Image Retrieval**|Chao He et.al.|[2506.16353](http://arxiv.org/abs/2506.16353)|**[link](https://github.com/shuaichaochao/mambahash)**|
 |**2025-06-19**|**EDNet: A Distortion-Agnostic Speech Enhancement Framework with Gating Mamba Mechanism and Phase Shift-Invariant Training**|Doyeop Kwak et.al.|[2506.16231](http://arxiv.org/abs/2506.16231)|null|
 |**2025-06-19**|**FlowRAM: Grounding Flow Matching Policy with Region-Aware Mamba Framework for Robotic Manipulation**|Sen Wang et.al.|[2506.16201](http://arxiv.org/abs/2506.16201)|null|
