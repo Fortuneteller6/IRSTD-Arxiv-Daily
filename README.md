@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.01
+## Updated on 2025.07.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -83,7 +83,7 @@
 |**2024-10-04**|**Mapping Degeneration Meets Label Evolution: Learning Infrared Small Target Detection with Single Point Supervision**|Xinyi Ying et.al.|[2304.01484](http://arxiv.org/abs/2304.01484)|**[link](https://github.com/xinyiying/lesps)**|
 |**2023-03-18**|**ABC: Attention with Bilinear Correlation for Infrared Small Target Detection**|Peiwen Pan et.al.|[2303.10321](http://arxiv.org/abs/2303.10321)|**[link](https://github.com/panpeiwen/abc)**|
 
-<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250702>back to top</a>)</p>
 
 ## Mamba
 
@@ -97,7 +97,7 @@
 |**2025-06-27**|**BrainMT: A Hybrid Mamba-Transformer Architecture for Modeling Long-Range Dependencies in Functional MRI Data**|Arunkumar Kannan et.al.|[2506.22591](http://arxiv.org/abs/2506.22591)|null|
 |**2025-06-27**|**EAMamba: Efficient All-Around Vision State Space Model for Image Restoration**|Yu-Cheng Lin et.al.|[2506.22246](http://arxiv.org/abs/2506.22246)|null|
 |**2025-06-27**|**RAUM-Net: Regional Attention and Uncertainty-aware Mamba Network**|Mingquan Liu et.al.|[2506.21905](http://arxiv.org/abs/2506.21905)|null|
-|**2025-06-26**|**StruMamba3D: Exploring Structural Mamba for Self-supervised Point Cloud Representation Learning**|Chuxin Wang et.al.|[2506.21541](http://arxiv.org/abs/2506.21541)|null|
+|**2025-07-01**|**StruMamba3D: Exploring Structural Mamba for Self-supervised Point Cloud Representation Learning**|Chuxin Wang et.al.|[2506.21541](http://arxiv.org/abs/2506.21541)|null|
 |**2025-06-25**|**EAGLE: An Efficient Global Attention Lesion Segmentation Model for Hepatic Echinococcosis**|Jiayan Chen et.al.|[2506.20333](http://arxiv.org/abs/2506.20333)|null|
 |**2025-06-24**|**FlightKooba: A Fast Interpretable FTP Model**|Jing Lu et.al.|[2506.19885](http://arxiv.org/abs/2506.19885)|null|
 |**2025-06-24**|**MambaOutRS: A Hybrid CNN-Fourier Architecture for Remote Sensing Image Classification**|Minjong Cheon et.al.|[2506.19561](http://arxiv.org/abs/2506.19561)|null|
@@ -124,7 +124,7 @@
 |**2025-06-16**|**Scaling Algorithm Distillation for Continuous Control with Mamba**|Samuel Beaussant et.al.|[2506.13892](http://arxiv.org/abs/2506.13892)|null|
 |**2025-06-16**|**Stereo sound event localization and detection based on PSELDnet pretraining and BiMamba sequence modeling**|Wenmiao Gao et.al.|[2506.13455](http://arxiv.org/abs/2506.13455)|null|
 |**2025-06-16**|**MT-PCR: A Hybrid Mamba-Transformer with Spatial Serialization for Hierarchical Point Cloud Registration**|Bingxi Liu et.al.|[2506.13183](http://arxiv.org/abs/2506.13183)|null|
-|**2025-06-15**|**Unleashing Diffusion and State Space Models for Medical Image Segmentation**|Rong Wu et.al.|[2506.12747](http://arxiv.org/abs/2506.12747)|null|
+|**2025-07-01**|**Unleashing Diffusion and State Space Models for Medical Image Segmentation**|Rong Wu et.al.|[2506.12747](http://arxiv.org/abs/2506.12747)|null|
 |**2025-06-14**|**An Exploration of Mamba for Speech Self-Supervised Models**|Tzu-Quan Lin et.al.|[2506.12606](http://arxiv.org/abs/2506.12606)|null|
 |**2025-06-14**|**Generalizable Trajectory Prediction via Inverse Reinforcement Learning with Mamba-Graph Architecture**|Wenyun Li et.al.|[2506.12474](http://arxiv.org/abs/2506.12474)|null|
 |**2025-06-14**|**MS-UMamba: An Improved Vision Mamba Unet for Fetal Abdominal Medical Image Segmentation**|Caixu Xu et.al.|[2506.12441](http://arxiv.org/abs/2506.12441)|null|
@@ -631,7 +631,7 @@
 |**2024-10-31**|**NIMBA: Towards Robust and Principled Processing of Point Clouds With SSMs**|Nursena Köprücü et.al.|[2411.00151](http://arxiv.org/abs/2411.00151)|null|
 |**2024-11-01**|**Dynamical similarity analysis uniquely captures how computations develop in RNNs**|Quentin Guilhot et.al.|[2410.24070](http://arxiv.org/abs/2410.24070)|**[link](https://github.com/qglht/repal)**|
 
-<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250702>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Fortuneteller6/IRSTD-Arxiv-Daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Fortuneteller6/IRSTD-Arxiv-Daily/graphs/contributors
