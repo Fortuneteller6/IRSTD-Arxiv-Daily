@@ -83,6 +83,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-02**|**TrackingMiM: Efficient Mamba-in-Mamba Serialization for Real-time UAV Object Tracking**|Bingxi Liu et.al.|[2507.01535](http://arxiv.org/abs/2507.01535)|null|
+|**2025-07-02**|**Mamba Guided Boundary Prior Matters: A New Perspective for Generalized Polyp Segmentation**|Tapas K. Dutta et.al.|[2507.01509](http://arxiv.org/abs/2507.01509)|null|
+|**2025-07-02**|**MUG: Pseudo Labeling Augmented Audio-Visual Mamba Network for Audio-Visual Video Parsing**|Langyu Wang et.al.|[2507.01384](http://arxiv.org/abs/2507.01384)|null|
+|**2025-07-02**|**SWinMamba: Serpentine Window State Space Model for Vascular Segmentation**|Rongchang Zhao et.al.|[2507.01323](http://arxiv.org/abs/2507.01323)|null|
+|**2025-07-01**|**MEGA: xLSTM with Multihead Exponential Gated Fusion for Precise Aspect-based Sentiment Analysis**|Adamu Lawan et.al.|[2507.01213](http://arxiv.org/abs/2507.01213)|null|
+|**2025-07-01**|**MambAttention: Mamba with Multi-Head Attention for Generalizable Single-Channel Speech Enhancement**|Nikolai Lund Kühne et.al.|[2507.00966](http://arxiv.org/abs/2507.00966)|null|
+|**2025-07-01**|**UAVD-Mamba: Deformable Token Fusion Vision Mamba for Multimodal UAV Detection**|Wei Li et.al.|[2507.00849](http://arxiv.org/abs/2507.00849)|null|
+|**2025-07-01**|**BadViM: Backdoor Attack against Vision Mamba**|Yinghao Wu et.al.|[2507.00577](http://arxiv.org/abs/2507.00577)|null|
+|**2025-07-01**|**Laplace-Mamba: Laplace Frequency Prior-Guided Mamba-CNN Fusion Network for Image Dehazing**|Yongzhen Wang et.al.|[2507.00501](http://arxiv.org/abs/2507.00501)|null|
+|**2025-06-30**|**MamNet: A Novel Hybrid Model for Time-Series Forecasting and Frequency Pattern Analysis in Network Traffic**|Yujun Zhang et.al.|[2507.00304](http://arxiv.org/abs/2507.00304)|null|
 |**2025-06-30**|**Mamba-FETrack V2: Revisiting State Space Model for Frame-Event based Visual Object Tracking**|Shiao Wang et.al.|[2506.23783](http://arxiv.org/abs/2506.23783)|null|
 |**2025-06-30**|**MDPG: Multi-domain Diffusion Prior Guidance for MRI Reconstruction**|Lingtong Zhang et.al.|[2506.23701](http://arxiv.org/abs/2506.23701)|null|
 |**2025-06-29**|**MoMa: Modulating Mamba for Adapting Image Foundation Models to Video Recognition**|Yuhuan Yang et.al.|[2506.23283](http://arxiv.org/abs/2506.23283)|null|
