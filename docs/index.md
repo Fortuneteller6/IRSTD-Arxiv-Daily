@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-03**|**Weakly-supervised Contrastive Learning with Quantity Prompts for Moving Infrared Small Target Detection**|Weiwei Duan et.al.|[2507.02454](http://arxiv.org/abs/2507.02454)|null|
 |**2025-06-15**|**Probing Deep into Temporal Profile Makes the Infrared Small Target Detector Much Better**|Ruojing Li et.al.|[2506.12766](http://arxiv.org/abs/2506.12766)|null|
 |**2025-06-15**|**It's Not the Target, It's the Background: Rethinking Infrared Small Target Detection via Deep Patch-Free Low-Rank Representations**|Guoyi Zhang et.al.|[2506.10425](http://arxiv.org/abs/2506.10425)|**[link](https://github.com/halongbao/lrrnet)**|
 |**2025-06-06**|**SDS-Net: Shallow-Deep Synergism-detection Network for infrared small target detection**|Taoran Yue et.al.|[2506.06042](http://arxiv.org/abs/2506.06042)|null|
@@ -83,6 +84,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-26**|**DKGCM: A Spatio-Temporal Prediction Model for Traffic Flow by Fusing Spatial Node Clustering Method and Fourier Bidirectional Mamba Mechanism**|Siqing Long et.al.|[2507.01982](http://arxiv.org/abs/2507.01982)|null|
 |**2025-07-02**|**TrackingMiM: Efficient Mamba-in-Mamba Serialization for Real-time UAV Object Tracking**|Bingxi Liu et.al.|[2507.01535](http://arxiv.org/abs/2507.01535)|null|
 |**2025-07-02**|**Mamba Guided Boundary Prior Matters: A New Perspective for Generalized Polyp Segmentation**|Tapas K. Dutta et.al.|[2507.01509](http://arxiv.org/abs/2507.01509)|null|
 |**2025-07-02**|**MUG: Pseudo Labeling Augmented Audio-Visual Mamba Network for Audio-Visual Video Parsing**|Langyu Wang et.al.|[2507.01384](http://arxiv.org/abs/2507.01384)|null|
