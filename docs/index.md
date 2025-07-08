@@ -84,6 +84,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-07**|**Bridging Expressivity and Scalability with Adaptive Unitary SSMs**|Arjun Karuvally et.al.|[2507.05238](http://arxiv.org/abs/2507.05238)|null|
+|**2025-07-07**|**FindRec: Stein-Guided Entropic Flow for Multi-Modal Sequential Recommendation**|Maolin Wang et.al.|[2507.04651](http://arxiv.org/abs/2507.04651)|null|
+|**2025-07-06**|**MambaVideo for Discrete Video Tokenization with Channel-Split Quantization**|Dawit Mureja Argaw et.al.|[2507.04559](http://arxiv.org/abs/2507.04559)|null|
+|**2025-07-06**|**MVNet: Hyperspectral Remote Sensing Image Classification Based on Hybrid Mamba-Transformer Vision Backbone Architecture**|Guandong Li et.al.|[2507.04409](http://arxiv.org/abs/2507.04409)|null|
+|**2025-07-06**|**RegistrationMamba: A Mamba-based Registration Framework Integrating Multi-Expert Feature Learning for Cross-Modal Remote Sensing Images**|Wei Wang et.al.|[2507.04397](http://arxiv.org/abs/2507.04397)|null|
+|**2025-07-06**|**DC-Mamber: A Dual Channel Prediction Model based on Mamba and Linear Transformer for Multivariate Time Series Forecasting**|Bing Fan et.al.|[2507.04381](http://arxiv.org/abs/2507.04381)|null|
+|**2025-07-06**|**MambaFusion: Height-Fidelity Dense Global Fusion for Multi-modal 3D Object Detection**|Hanshi Wang et.al.|[2507.04369](http://arxiv.org/abs/2507.04369)|null|
+|**2025-07-06**|**Long-Context Modeling Networks for Monaural Speech Enhancement: A Comparative Study**|Qiquan Zhang et.al.|[2507.04368](http://arxiv.org/abs/2507.04368)|null|
+|**2025-07-06**|**DMAT: An End-to-End Framework for Joint Atmospheric Turbulence Mitigation and Object Detection**|Paul Hill et.al.|[2507.04323](http://arxiv.org/abs/2507.04323)|null|
+|**2025-07-05**|**MCST-Mamba: Multivariate Mamba-Based Model for Traffic Prediction**|Mohamed Hamad et.al.|[2507.03927](http://arxiv.org/abs/2507.03927)|null|
+|**2025-07-04**|**Adaptive Gate-Aware Mamba Networks for Magnetic Resonance Fingerprinting**|Tianyi Ding et.al.|[2507.03369](http://arxiv.org/abs/2507.03369)|null|
+|**2025-07-04**|**Label-Free Long-Horizon 3D UAV Trajectory Prediction via Motion-Aligned RGB and Event Cues**|Hanfang Liang et.al.|[2507.03365](http://arxiv.org/abs/2507.03365)|null|
 |**2025-06-26**|**DKGCM: A Spatio-Temporal Prediction Model for Traffic Flow by Fusing Spatial Node Clustering Method and Fourier Bidirectional Mamba Mechanism**|Siqing Long et.al.|[2507.01982](http://arxiv.org/abs/2507.01982)|null|
 |**2025-07-02**|**TrackingMiM: Efficient Mamba-in-Mamba Serialization for Real-time UAV Object Tracking**|Bingxi Liu et.al.|[2507.01535](http://arxiv.org/abs/2507.01535)|null|
 |**2025-07-02**|**Mamba Guided Boundary Prior Matters: A New Perspective for Generalized Polyp Segmentation**|Tapas K. Dutta et.al.|[2507.01509](http://arxiv.org/abs/2507.01509)|null|
