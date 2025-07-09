@@ -90,6 +90,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-08**|**Differential Mamba**|Nadav Schneider et.al.|[2507.06204](http://arxiv.org/abs/2507.06204)|null|
+|**2025-07-08**|**LangMamba: A Language-driven Mamba Framework for Low-dose CT Denoising with Vision-language Models**|Zhihao Chen et.al.|[2507.06140](http://arxiv.org/abs/2507.06140)|null|
+|**2025-07-08**|**Non-Intrusive Binaural Speech Intelligibility Prediction Using Mamba for Hearing-Impaired Listeners**|Katsuhiko Yamamoto et.al.|[2507.05729](http://arxiv.org/abs/2507.05729)|null|
+|**2025-07-08**|**MMW: Side Talk Rejection Multi-Microphone Whisper on Smart Glasses**|Yang Liu et.al.|[2507.05609](http://arxiv.org/abs/2507.05609)|null|
 |**2025-07-07**|**Bridging Expressivity and Scalability with Adaptive Unitary SSMs**|Arjun Karuvally et.al.|[2507.05238](http://arxiv.org/abs/2507.05238)|null|
 |**2025-07-07**|**FindRec: Stein-Guided Entropic Flow for Multi-Modal Sequential Recommendation**|Maolin Wang et.al.|[2507.04651](http://arxiv.org/abs/2507.04651)|null|
 |**2025-07-06**|**MambaVideo for Discrete Video Tokenization with Channel-Split Quantization**|Dawit Mureja Argaw et.al.|[2507.04559](http://arxiv.org/abs/2507.04559)|null|
