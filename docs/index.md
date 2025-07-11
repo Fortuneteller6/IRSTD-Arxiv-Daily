@@ -84,6 +84,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-10**|**Tree-Mamba: A Tree-Aware Mamba for Underwater Monocular Depth Estimation**|Peixian Zhuang et.al.|[2507.07687](http://arxiv.org/abs/2507.07687)|null|
 |**2025-07-09**|**DIFFUMA: High-Fidelity Spatio-Temporal Video Prediction via Dual-Path Mamba and Diffusion Enhancement**|Xinyu Xie et.al.|[2507.06738](http://arxiv.org/abs/2507.06738)|null|
 |**2025-07-09**|**Spatial-Temporal Graph Mamba for Music-Guided Dance Video Synthesis**|Hao Tang et.al.|[2507.06689](http://arxiv.org/abs/2507.06689)|null|
 |**2025-07-09**|**Exploring State-Space-Model based Language Model in Music Generation**|Wei-Jaw Lee et.al.|[2507.06674](http://arxiv.org/abs/2507.06674)|null|
