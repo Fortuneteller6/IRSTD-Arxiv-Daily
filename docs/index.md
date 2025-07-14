@@ -84,6 +84,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-11**|**White-Basilisk: A Hybrid Model for Code Vulnerability Detection**|Ioannis Lamprou et.al.|[2507.08540](http://arxiv.org/abs/2507.08540)|null|
+|**2025-07-10**|**DARAS: Dynamic Audio-Room Acoustic Synthesis for Blind Room Impulse Response Estimation**|Chunxi Wang et.al.|[2507.08135](http://arxiv.org/abs/2507.08135)|null|
 |**2025-07-10**|**Tree-Mamba: A Tree-Aware Mamba for Underwater Monocular Depth Estimation**|Peixian Zhuang et.al.|[2507.07687](http://arxiv.org/abs/2507.07687)|null|
 |**2025-07-09**|**DIFFUMA: High-Fidelity Spatio-Temporal Video Prediction via Dual-Path Mamba and Diffusion Enhancement**|Xinyu Xie et.al.|[2507.06738](http://arxiv.org/abs/2507.06738)|null|
 |**2025-07-09**|**Spatial-Temporal Graph Mamba for Music-Guided Dance Video Synthesis**|Hao Tang et.al.|[2507.06689](http://arxiv.org/abs/2507.06689)|null|
