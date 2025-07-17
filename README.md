@@ -92,6 +92,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-16**|**HyDRA: A Hybrid Dual-Mode Network for Closed- and Open-Set RFFI with Optimized VMD**|Hanwen Liu et.al.|[2507.12133](http://arxiv.org/abs/2507.12133)|null|
 |**2025-07-13**|**Enhancing Stereo Sound Event Detection with BiMamba and Pretrained PSELDnet**|Wenmiao Gao et.al.|[2507.09570](http://arxiv.org/abs/2507.09570)|null|
 |**2025-07-11**|**White-Basilisk: A Hybrid Model for Code Vulnerability Detection**|Ioannis Lamprou et.al.|[2507.08540](http://arxiv.org/abs/2507.08540)|null|
 |**2025-07-10**|**DARAS: Dynamic Audio-Room Acoustic Synthesis for Blind Room Impulse Response Estimation**|Chunxi Wang et.al.|[2507.08135](http://arxiv.org/abs/2507.08135)|null|
