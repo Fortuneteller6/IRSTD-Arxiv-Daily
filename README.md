@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-17**|**Leveraging Language Prior for Infrared Small Target Detection**|Pranav Singh et.al.|[2507.13113](http://arxiv.org/abs/2507.13113)|null|
 |**2025-07-13**|**SeqCSIST: Sequential Closely-Spaced Infrared Small Target Unmixing**|Ximeng Zhai et.al.|[2507.09556](http://arxiv.org/abs/2507.09556)|null|
 |**2025-07-13**|**DRPCA-Net: Make Robust PCA Great Again for Infrared Small Target Detection**|Zihao Xiong et.al.|[2507.09541](http://arxiv.org/abs/2507.09541)|null|
 |**2025-07-03**|**Weakly-supervised Contrastive Learning with Quantity Prompts for Moving Infrared Small Target Detection**|Weiwei Duan et.al.|[2507.02454](http://arxiv.org/abs/2507.02454)|null|
@@ -92,6 +93,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-17**|**A Real-Time System for Egocentric Hand-Object Interaction Detection in Industrial Domains**|Antonio Finocchiaro et.al.|[2507.13326](http://arxiv.org/abs/2507.13326)|null|
+|**2025-07-17**|**FLDmamba: Integrating Fourier and Laplace Transform Decomposition with Mamba for Enhanced Time Series Prediction**|Qianru Zhang et.al.|[2507.12803](http://arxiv.org/abs/2507.12803)|null|
+|**2025-07-17**|**Unified Medical Image Segmentation with State Space Modeling Snake**|Ruicheng Zhang et.al.|[2507.12760](http://arxiv.org/abs/2507.12760)|null|
 |**2025-07-16**|**HyDRA: A Hybrid Dual-Mode Network for Closed- and Open-Set RFFI with Optimized VMD**|Hanwen Liu et.al.|[2507.12133](http://arxiv.org/abs/2507.12133)|null|
 |**2025-07-13**|**Enhancing Stereo Sound Event Detection with BiMamba and Pretrained PSELDnet**|Wenmiao Gao et.al.|[2507.09570](http://arxiv.org/abs/2507.09570)|null|
 |**2025-07-11**|**White-Basilisk: A Hybrid Model for Code Vulnerability Detection**|Ioannis Lamprou et.al.|[2507.08540](http://arxiv.org/abs/2507.08540)|null|
