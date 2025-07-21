@@ -87,6 +87,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-18**|**Training-free Token Reduction for Vision Mamba**|Qiankun Ma et.al.|[2507.14042](http://arxiv.org/abs/2507.14042)|null|
+|**2025-07-18**|**ParallelTime: Dynamically Weighting the Balance of Short- and Long-Term Temporal Dependencies**|Itay Katav et.al.|[2507.13998](http://arxiv.org/abs/2507.13998)|null|
+|**2025-07-18**|**GRAM-MAMBA: Holistic Feature Alignment for Wireless Perception with Adaptive Low-Rank Compensation**|Weiqi Yang et.al.|[2507.13803](http://arxiv.org/abs/2507.13803)|null|
+|**2025-07-15**|**Flatten Wisely: How Patch Order Shapes Mamba-Powered Vision for MRI Segmentation**|Osama Hardan et.al.|[2507.13384](http://arxiv.org/abs/2507.13384)|null|
 |**2025-07-17**|**A Real-Time System for Egocentric Hand-Object Interaction Detection in Industrial Domains**|Antonio Finocchiaro et.al.|[2507.13326](http://arxiv.org/abs/2507.13326)|null|
 |**2025-07-17**|**FLDmamba: Integrating Fourier and Laplace Transform Decomposition with Mamba for Enhanced Time Series Prediction**|Qianru Zhang et.al.|[2507.12803](http://arxiv.org/abs/2507.12803)|null|
 |**2025-07-17**|**Unified Medical Image Segmentation with State Space Modeling Snake**|Ruicheng Zhang et.al.|[2507.12760](http://arxiv.org/abs/2507.12760)|null|
