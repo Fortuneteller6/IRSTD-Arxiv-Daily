@@ -93,6 +93,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-21**|**DeSamba: Decoupled Spectral Adaptive Framework for 3D Multi-Sequence MRI Lesion Classification**|Dezhen Wang et.al.|[2507.15487](http://arxiv.org/abs/2507.15487)|null|
+|**2025-07-21**|**Few-Shot Object Detection via Spatial-Channel State Space Model**|Zhimeng Xin et.al.|[2507.15308](http://arxiv.org/abs/2507.15308)|null|
+|**2025-07-21**|**MeshMamba: State Space Models for Articulated 3D Mesh Generation and Reconstruction**|Yusuke Yoshiyasu et.al.|[2507.15212](http://arxiv.org/abs/2507.15212)|null|
 |**2025-07-18**|**Training-free Token Reduction for Vision Mamba**|Qiankun Ma et.al.|[2507.14042](http://arxiv.org/abs/2507.14042)|null|
 |**2025-07-18**|**ParallelTime: Dynamically Weighting the Balance of Short- and Long-Term Temporal Dependencies**|Itay Katav et.al.|[2507.13998](http://arxiv.org/abs/2507.13998)|null|
 |**2025-07-18**|**GRAM-MAMBA: Holistic Feature Alignment for Wireless Perception with Adaptive Low-Rank Compensation**|Weiqi Yang et.al.|[2507.13803](http://arxiv.org/abs/2507.13803)|null|
