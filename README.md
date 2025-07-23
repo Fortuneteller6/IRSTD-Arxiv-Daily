@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.22
+## Updated on 2025.07.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -87,13 +87,13 @@
 |**2024-10-04**|**Mapping Degeneration Meets Label Evolution: Learning Infrared Small Target Detection with Single Point Supervision**|Xinyi Ying et.al.|[2304.01484](http://arxiv.org/abs/2304.01484)|**[link](https://github.com/xinyiying/lesps)**|
 |**2023-03-18**|**ABC: Attention with Bilinear Correlation for Infrared Small Target Detection**|Peiwen Pan et.al.|[2303.10321](http://arxiv.org/abs/2303.10321)|**[link](https://github.com/panpeiwen/abc)**|
 
-<p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250723>back to top</a>)</p>
 
 ## Mamba
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-07-21**|**DeSamba: Decoupled Spectral Adaptive Framework for 3D Multi-Sequence MRI Lesion Classification**|Dezhen Wang et.al.|[2507.15487](http://arxiv.org/abs/2507.15487)|null|
+|**2025-07-22**|**DeSamba: Decoupled Spectral Adaptive Framework for 3D Multi-Sequence MRI Lesion Classification**|Dezhen Wang et.al.|[2507.15487](http://arxiv.org/abs/2507.15487)|null|
 |**2025-07-21**|**Few-Shot Object Detection via Spatial-Channel State Space Model**|Zhimeng Xin et.al.|[2507.15308](http://arxiv.org/abs/2507.15308)|null|
 |**2025-07-21**|**MeshMamba: State Space Models for Articulated 3D Mesh Generation and Reconstruction**|Yusuke Yoshiyasu et.al.|[2507.15212](http://arxiv.org/abs/2507.15212)|null|
 |**2025-07-18**|**Training-free Token Reduction for Vision Mamba**|Qiankun Ma et.al.|[2507.14042](http://arxiv.org/abs/2507.14042)|null|
@@ -681,7 +681,7 @@
 |**2024-10-31**|**NIMBA: Towards Robust and Principled Processing of Point Clouds With SSMs**|Nursena Köprücü et.al.|[2411.00151](http://arxiv.org/abs/2411.00151)|null|
 |**2024-11-01**|**Dynamical similarity analysis uniquely captures how computations develop in RNNs**|Quentin Guilhot et.al.|[2410.24070](http://arxiv.org/abs/2410.24070)|**[link](https://github.com/qglht/repal)**|
 
-<p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250723>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Fortuneteller6/IRSTD-Arxiv-Daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Fortuneteller6/IRSTD-Arxiv-Daily/graphs/contributors
