@@ -93,6 +93,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-23**|**MCM: Mamba-based Cardiac Motion Tracking using Sequential Images in MRI**|Jiahui Yin et.al.|[2507.17678](http://arxiv.org/abs/2507.17678)|null|
+|**2025-07-23**|**Mammo-Mamba: A Hybrid State-Space and Transformer Architecture with Sequential Mixture of Experts for Multi-View Mammography**|Farnoush Bayatmakou et.al.|[2507.17662](http://arxiv.org/abs/2507.17662)|null|
+|**2025-07-23**|**DeMo++: Motion Decoupling for Autonomous Driving**|Bozhou Zhang et.al.|[2507.17342](http://arxiv.org/abs/2507.17342)|null|
+|**2025-07-23**|**PointLAMA: Latent Attention meets Mamba for Efficient Point Cloud Pretraining**|Xuanyu Lin et.al.|[2507.17296](http://arxiv.org/abs/2507.17296)|null|
 |**2025-07-22**|**A2Mamba: Attention-augmented State Space Models for Visual Recognition**|Meng Lou et.al.|[2507.16624](http://arxiv.org/abs/2507.16624)|null|
 |**2025-07-22**|**Mamba-OTR: a Mamba-based Solution for Online Take and Release Detection from Untrimmed Egocentric Video**|Alessandro Sebastiano Catinello et.al.|[2507.16342](http://arxiv.org/abs/2507.16342)|null|
 |**2025-07-22**|**AtrousMamaba: An Atrous-Window Scanning Visual State Space Model for Remote Sensing Change Detection**|Tao Wang et.al.|[2507.16172](http://arxiv.org/abs/2507.16172)|null|
