@@ -1,0 +1,13 @@
+# GitHub Pages（Jekyll）站点配置
+title: CV Arxiv Daily - IRSTD
+description: Automatically Update IRSTD Papers Daily using Github Actions
+show_downloads: true
+
+# 复用 minima 远程主题
+remote_theme: jekyll/minima@v2.5.1
+skin: dark
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag

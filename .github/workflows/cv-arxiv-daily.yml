@@ -1,0 +1,46 @@
+# 每日定时抓取 arXiv 论文并自动提交生成的日报文件
+name: Run Arxiv Papers Daily
+
+on:
+  # 允许在 Actions 页面手动触发
+  workflow_dispatch:
+  # 每天 UTC 00:00（北京时间 08:00）运行
+  schedule:
+    - cron: "0 0 * * *"
+
+env:
+  GITHUB_USER_NAME: Fortuneteller6
+  GITHUB_USER_EMAIL: teng_m@yeah.net
+
+jobs:
+  update:
+    name: Fetch and publish daily papers
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run daily arxiv
+        env:
+          # 传入仓库 token 可提升 GitHub 搜索 API 限流配额（30 次/分钟）
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python daily_arxiv.py
+
+      - name: Commit and push generated files
+        uses: github-actions-x/commit@v2.9
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "Github Action Automatic Update Arxiv Papers"
+          files: README.md docs/cv-arxiv-daily.json docs/index.md
+          rebase: "true"
+          name: ${{ env.GITHUB_USER_NAME }}
+          email: ${{ env.GITHUB_USER_EMAIL }}

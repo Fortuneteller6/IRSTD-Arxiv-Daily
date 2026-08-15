@@ -1,0 +1,55 @@
+# =====================================================================
+# CV-ARXIV-DAILY 配置文件
+# ---------------------------------------------------------------------
+# domains 是"领域"配置。后续要新增领域时，复制一个条目并修改
+# enable / max_results / filters 即可，代码无需改动：
+#   - enable      : 是否启用该领域（False 时不再抓取，历史数据保留）
+#   - max_results : 每次运行抓取的最新论文数量（可选，默认用全局值）
+#   - filters     : arXiv 搜索词列表，自动以 OR 连接成一条查询
+# =====================================================================
+
+# 仓库信息（用于 README 底部徽章链接）
+user_name: "Fortuneteller6"
+repo_name: "IRSTD-Arxiv-Daily"
+
+# 全局默认值
+show_authors: true
+show_links: true
+show_badge: true
+max_results: 10
+
+# 代码链接查找（通过 GitHub 搜索 API 匹配代码仓库）
+enable_code_lookup: true
+
+# 发布开关
+publish_readme: true    # 生成 README.md
+publish_gitpage: true   # 生成 docs/index.md（GitHub Pages 页面）
+
+# 文件路径
+data_path: "./docs/cv-arxiv-daily.json"
+md_readme_path: "README.md"
+md_gitpage_path: "./docs/index.md"
+
+# ===================== 领域配置 =====================
+domains:
+    # ---- 红外小目标检测（IRSTD）----
+    "IRSTD":
+        enable: true
+        max_results: 10
+        filters:
+            - "Infrared Small Target Detection"
+            - "Infrared Small Target"
+            - "Infrared Dim Small Target"
+            - "Dim Small Target Detection"
+            - "Infrared Weak Small Target"
+            - "Small Target Detection"
+            - "IRSTD"
+            - "Infrared Target Detection"
+
+    # ---- 新增领域示例（取消注释并按需修改即可启用）----
+    # "New Domain":
+    #     enable: true
+    #     max_results: 10
+    #     filters:
+    #         - "keyword1"
+    #         - "keyword phrase 2"

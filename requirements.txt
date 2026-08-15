@@ -1,0 +1,4 @@
+# 运行时依赖
+arxiv>=2.0          # arXiv 官方 API 封装（搜索/抓取论文元数据）
+pyyaml>=6.0         # 解析 config.yaml
+requests>=2.28      # arxiv 库底层 HTTP 依赖
