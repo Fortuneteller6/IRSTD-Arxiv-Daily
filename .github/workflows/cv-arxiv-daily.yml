@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   # 每天 UTC 00:00（北京时间 08:00）运行
   schedule:
-    - cron: "*/5 * * *"
+    - cron: "*/5 * * * *"
 
 env:
   GITHUB_USER_NAME: Fortuneteller6
