@@ -1,4 +1,4 @@
-## Updated on 2026.08.19
+## Updated on 2026.08.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -63,7 +63,7 @@
 |**2025-11-25**|**IrisNet: Infrared Image Status Awareness Meta Decoder for Infrared Small Targets Detection**|Xuelin Qian et.al.|[2511.20319](http://arxiv.org/abs/2511.20319)|null|
 |**2025-11-24**|**Dual-Granularity Semantic Prompting for Language Guidance Infrared Small Target Detection**|Zixuan Wang et.al.|[2511.19306](http://arxiv.org/abs/2511.19306)|null|
 
-<p align=right>(<a href=#updated-on-20260819>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260820>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Fortuneteller6/IRSTD-Arxiv-Daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Fortuneteller6/IRSTD-Arxiv-Daily/contributors
