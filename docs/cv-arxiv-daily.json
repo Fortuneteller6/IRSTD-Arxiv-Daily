@@ -449,6 +449,24 @@
       "authors": "Zixuan Wang, Haoran Sun, Jiaming Lu, Wenxuan Wang, Zhongling Huang, Dingwen Zhang, Xuelin Qian, Junwei Han",
       "url": "http://arxiv.org/abs/2511.19306",
       "code": null
+    },
+    "2608.20870": {
+      "id": "2608.20870",
+      "publish_date": "2026-08-21",
+      "title": "RDANet: Relative Degradation Aware Network for Infrared Small Target Detection",
+      "first_author": "Rui Liu",
+      "authors": "Rui Liu, Jing Nie, Ying Fu",
+      "url": "http://arxiv.org/abs/2608.20870",
+      "code": "https://github.com/WenCongWu/TSP-RDANet"
+    },
+    "2608.20754": {
+      "id": "2608.20754",
+      "publish_date": "2026-08-21",
+      "title": "SPARK-SAM: Self-Prompt Adaptation with Response Knowledge for SAM in Infrared Small Target Segmentation",
+      "first_author": "Aji Mao",
+      "authors": "Aji Mao, Zhenming Peng, Bailin Mu, Tian Pu",
+      "url": "http://arxiv.org/abs/2608.20754",
+      "code": null
     }
   }
 }
