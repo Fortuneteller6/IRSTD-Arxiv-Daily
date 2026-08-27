@@ -461,8 +461,8 @@
     },
     "2608.20754": {
       "id": "2608.20754",
-      "publish_date": "2026-08-21",
-      "title": "SPARK-SAM: Self-Prompt Adaptation with Response Knowledge for SAM in Infrared Small Target Segmentation",
+      "publish_date": "2026-08-26",
+      "title": "SPARK-SAM: Learning How to Prompt and Respond for Infrared Small Target Segmentation",
       "first_author": "Aji Mao",
       "authors": "Aji Mao, Zhenming Peng, Bailin Mu, Tian Pu",
       "url": "http://arxiv.org/abs/2608.20754",

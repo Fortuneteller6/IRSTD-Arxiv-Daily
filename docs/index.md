@@ -2,15 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.08.26
+## Updated on 2026.08.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## IRSTD
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-26**|**SPARK-SAM: Learning How to Prompt and Respond for Infrared Small Target Segmentation**|Aji Mao et.al.|[2608.20754](http://arxiv.org/abs/2608.20754)|null|
 |**2026-08-21**|**RDANet: Relative Degradation Aware Network for Infrared Small Target Detection**|Rui Liu et.al.|[2608.20870](http://arxiv.org/abs/2608.20870)|[link](https://github.com/WenCongWu/TSP-RDANet)|
-|**2026-08-21**|**SPARK-SAM: Self-Prompt Adaptation with Response Knowledge for SAM in Infrared Small Target Segmentation**|Aji Mao et.al.|[2608.20754](http://arxiv.org/abs/2608.20754)|null|
 |**2026-08-07**|**Understand Before Detect: Vision--Language Learning for Omni-Domain Infrared Small Target Detection**|Haoyang Yuan et.al.|[2608.07015](http://arxiv.org/abs/2608.07015)|null|
 |**2026-08-07**|**HyTBE: Hyperbolic Target-Background Expert Model for Cross-Domain Infrared Small Target Detection**|Aohua Li et.al.|[2608.05771](http://arxiv.org/abs/2608.05771)|[link](https://github.com/PepperCS/HyTBE)|
 |**2026-08-03**|**LCPNet: Latent Consistent Proximal Unfolding Network for Infrared Small Target Detection**|Tianfang Zhang et.al.|[2607.04603](http://arxiv.org/abs/2607.04603)|null|
