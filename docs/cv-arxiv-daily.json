@@ -467,6 +467,24 @@
       "authors": "Aji Mao, Zhenming Peng, Bailin Mu, Tian Pu",
       "url": "http://arxiv.org/abs/2608.20754",
       "code": null
+    },
+    "2609.00853": {
+      "id": "2609.00853",
+      "publish_date": "2026-09-01",
+      "title": "ADGNet: Asymmetric Dual-text Guided Network for Infrared Small Target Detection",
+      "first_author": "Tongtong Wang",
+      "authors": "Tongtong Wang, Mingzhu Xu, Chenglong Yu, Jing Wang, Xiaohui Lin, Weili Guan",
+      "url": "http://arxiv.org/abs/2609.00853",
+      "code": null
+    },
+    "2609.00666": {
+      "id": "2609.00666",
+      "publish_date": "2026-09-01",
+      "title": "DGNet: Dual-knowledge Guided Network for Infrared Small Target Detection",
+      "first_author": "Chenglong Yu",
+      "authors": "Chenglong Yu, Mingzhu Xu, Jing Wang, Tongtong Wang, Pingping Miao, Liqiang Nie",
+      "url": "http://arxiv.org/abs/2609.00666",
+      "code": "https://github.com/GewelsJI/DGNet"
     }
   }
 }
