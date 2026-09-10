@@ -485,6 +485,15 @@
       "authors": "Chenglong Yu, Mingzhu Xu, Jing Wang, Tongtong Wang, Pingping Miao, Liqiang Nie",
       "url": "http://arxiv.org/abs/2609.00666",
       "code": "https://github.com/GewelsJI/DGNet"
+    },
+    "2609.07515": {
+      "id": "2609.07515",
+      "publish_date": "2026-09-07",
+      "title": "PICANet: Physics-Informed Cascaded Asymmetric Network for Infrared Small Target Detection",
+      "first_author": "Jingjing Liu",
+      "authors": "Jingjing Liu, Yinchao Han, Xianchao Xiu, Jianhua Zhang, Wanquan Liu",
+      "url": "http://arxiv.org/abs/2609.07515",
+      "code": "https://github.com/Ugness/PiCANet-Implementation"
     }
   }
 }
