@@ -494,6 +494,15 @@
       "authors": "Jingjing Liu, Yinchao Han, Xianchao Xiu, Jianhua Zhang, Wanquan Liu",
       "url": "http://arxiv.org/abs/2609.07515",
       "code": "https://github.com/Ugness/PiCANet-Implementation"
+    },
+    "2609.18773": {
+      "id": "2609.18773",
+      "publish_date": "2026-09-16",
+      "title": "DISTA-Net++: Rethinking Infrared Small Target Unmixing Beyond Sub-Pixel Separation",
+      "first_author": "Mengze Xu",
+      "authors": "Mengze Xu, Zhu Liu, Weidong Sheng, Boyang Li, Yimian Dai, Ming-Ming Cheng, Jian Yang",
+      "url": "http://arxiv.org/abs/2609.18773",
+      "code": null
     }
   }
 }
