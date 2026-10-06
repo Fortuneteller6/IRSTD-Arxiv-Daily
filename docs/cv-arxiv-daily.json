@@ -503,6 +503,24 @@
       "authors": "Mengze Xu, Zhu Liu, Weidong Sheng, Boyang Li, Yimian Dai, Ming-Ming Cheng, Jian Yang",
       "url": "http://arxiv.org/abs/2609.18773",
       "code": null
+    },
+    "2610.05918": {
+      "id": "2610.05918",
+      "publish_date": "2026-10-05",
+      "title": "Prompt and Refinement: Asymmetric Mutual Learning for Infrared Small Target Detection with Noisy Labels",
+      "first_author": "Yimin Fu",
+      "authors": "Yimin Fu, Songbo Wang, Lizhuo Liu, Baicheng Pan, Zhunga Liu, Michael K. Ng",
+      "url": "http://arxiv.org/abs/2610.05918",
+      "code": "https://github.com/lukasolson/piano-notes"
+    },
+    "2610.05342": {
+      "id": "2610.05342",
+      "publish_date": "2026-10-04",
+      "title": "IRSTD-Agent: Agentic Infrared Small Target Detection via Zoom-Guided Interaction Learning",
+      "first_author": "Jiawen Xi",
+      "authors": "Jiawen Xi, Yu Zhang, Tianyi Zhao, Zhu Liu, Maoxun Yuan, Xingxing Wei",
+      "url": "http://arxiv.org/abs/2610.05342",
+      "code": "https://github.com/fuyimin96/IRSTD-Agent"
     }
   }
 }
