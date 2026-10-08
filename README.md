@@ -1,4 +1,4 @@
-## Updated on 2026.10.07
+## Updated on 2026.10.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,6 +12,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-07**|**SANet: Selective Attention Network for Infrared Small Target Detection**|Yingmei Zhang et.al.|[2610.09875](http://arxiv.org/abs/2610.09875)|null|
 |**2026-10-05**|**Prompt and Refinement: Asymmetric Mutual Learning for Infrared Small Target Detection with Noisy Labels**|Yimin Fu et.al.|[2610.05918](http://arxiv.org/abs/2610.05918)|[link](https://github.com/lukasolson/piano-notes)|
 |**2026-10-04**|**IRSTD-Agent: Agentic Infrared Small Target Detection via Zoom-Guided Interaction Learning**|Jiawen Xi et.al.|[2610.05342](http://arxiv.org/abs/2610.05342)|[link](https://github.com/fuyimin96/IRSTD-Agent)|
 |**2026-09-16**|**DISTA-Net++: Rethinking Infrared Small Target Unmixing Beyond Sub-Pixel Separation**|Mengze Xu et.al.|[2609.18773](http://arxiv.org/abs/2609.18773)|null|
@@ -71,7 +72,7 @@
 |**2025-11-25**|**IrisNet: Infrared Image Status Awareness Meta Decoder for Infrared Small Targets Detection**|Xuelin Qian et.al.|[2511.20319](http://arxiv.org/abs/2511.20319)|null|
 |**2025-11-24**|**Dual-Granularity Semantic Prompting for Language Guidance Infrared Small Target Detection**|Zixuan Wang et.al.|[2511.19306](http://arxiv.org/abs/2511.19306)|null|
 
-<p align=right>(<a href=#updated-on-20261007>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261008>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Fortuneteller6/IRSTD-Arxiv-Daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Fortuneteller6/IRSTD-Arxiv-Daily/contributors

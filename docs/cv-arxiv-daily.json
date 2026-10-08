@@ -521,6 +521,15 @@
       "authors": "Jiawen Xi, Yu Zhang, Tianyi Zhao, Zhu Liu, Maoxun Yuan, Xingxing Wei",
       "url": "http://arxiv.org/abs/2610.05342",
       "code": "https://github.com/fuyimin96/IRSTD-Agent"
+    },
+    "2610.09875": {
+      "id": "2610.09875",
+      "publish_date": "2026-10-07",
+      "title": "SANet: Selective Attention Network for Infrared Small Target Detection",
+      "first_author": "Yingmei Zhang",
+      "authors": "Yingmei Zhang, Wangtao Bao, Qin Xiao, Yong Yang, Weiguo Wan, Yitao Luo, Xueting Zou, Lei Zhang",
+      "url": "http://arxiv.org/abs/2610.09875",
+      "code": null
     }
   }
 }
