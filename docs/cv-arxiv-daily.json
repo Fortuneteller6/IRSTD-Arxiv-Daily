@@ -530,6 +530,24 @@
       "authors": "Yingmei Zhang, Wangtao Bao, Qin Xiao, Yong Yang, Weiguo Wan, Yitao Luo, Xueting Zou, Lei Zhang",
       "url": "http://arxiv.org/abs/2610.09875",
       "code": null
+    },
+    "2610.18291": {
+      "id": "2610.18291",
+      "publish_date": "2026-10-13",
+      "title": "Unsupervised and Supervised Approaches for Infrared Small Target Detection : Overview, Challenges and Perspectives (Part 2)",
+      "first_author": "Thierry Bouwmans",
+      "authors": "Thierry Bouwmans, Anastasia Zakharova, Belmar Garcia, Marwa Chendeb El Rai, Meghna Kapoor, Badri Narayan Subudhi",
+      "url": "http://arxiv.org/abs/2610.18291",
+      "code": null
+    },
+    "2610.18276": {
+      "id": "2610.18276",
+      "publish_date": "2026-10-13",
+      "title": "Traditional and Recent Approaches for Infrared Small Target Detection : Overview, Challenges and Perspectives (Part 1)",
+      "first_author": "Thierry Bouwmans",
+      "authors": "Thierry Bouwmans, Anastasia Zakharova, Belmar Garcia, Marwa Chendeb El Rai, Meghna Kapoor, Badri Narayan Subudhi",
+      "url": "http://arxiv.org/abs/2610.18276",
+      "code": null
     }
   }
 }
