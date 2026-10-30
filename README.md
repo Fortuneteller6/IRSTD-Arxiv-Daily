@@ -1,4 +1,4 @@
-## Updated on 2026.10.29
+## Updated on 2026.10.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,6 +12,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-29**|**Beyond Direct Imaging: Quantum Measurement Design for Small-Target Detection in UAV Hyperspectral Sensing**|Qipeng Qian et.al.|[2610.39226](http://arxiv.org/abs/2610.39226)|null|
 |**2026-10-21**|**Seeing through Denoising: Frequency-guided One-step Denoising for Infrared Small Target Detection**|Xuelin Qian et.al.|[2610.29361](http://arxiv.org/abs/2610.29361)|null|
 |**2026-10-21**|**Traditional and Recent Approaches for Infrared Small Target Detection : Overview, Challenges and Perspectives (Part 2)**|Thierry Bouwmans et.al.|[2610.18291](http://arxiv.org/abs/2610.18291)|null|
 |**2026-10-21**|**Traditional and Recent Approaches for Infrared Small Target Detection : Overview, Challenges and Perspectives (Part 1)**|Thierry Bouwmans et.al.|[2610.18276](http://arxiv.org/abs/2610.18276)|null|
@@ -75,7 +76,7 @@
 |**2025-11-25**|**IrisNet: Infrared Image Status Awareness Meta Decoder for Infrared Small Targets Detection**|Xuelin Qian et.al.|[2511.20319](http://arxiv.org/abs/2511.20319)|null|
 |**2025-11-24**|**Dual-Granularity Semantic Prompting for Language Guidance Infrared Small Target Detection**|Zixuan Wang et.al.|[2511.19306](http://arxiv.org/abs/2511.19306)|null|
 
-<p align=right>(<a href=#updated-on-20261029>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261030>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Fortuneteller6/IRSTD-Arxiv-Daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Fortuneteller6/IRSTD-Arxiv-Daily/contributors

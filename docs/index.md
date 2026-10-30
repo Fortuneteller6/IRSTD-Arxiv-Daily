@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.10.29
+## Updated on 2026.10.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## IRSTD
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-29**|**Beyond Direct Imaging: Quantum Measurement Design for Small-Target Detection in UAV Hyperspectral Sensing**|Qipeng Qian et.al.|[2610.39226](http://arxiv.org/abs/2610.39226)|null|
 |**2026-10-21**|**Seeing through Denoising: Frequency-guided One-step Denoising for Infrared Small Target Detection**|Xuelin Qian et.al.|[2610.29361](http://arxiv.org/abs/2610.29361)|null|
 |**2026-10-21**|**Traditional and Recent Approaches for Infrared Small Target Detection : Overview, Challenges and Perspectives (Part 2)**|Thierry Bouwmans et.al.|[2610.18291](http://arxiv.org/abs/2610.18291)|null|
 |**2026-10-21**|**Traditional and Recent Approaches for Infrared Small Target Detection : Overview, Challenges and Perspectives (Part 1)**|Thierry Bouwmans et.al.|[2610.18276](http://arxiv.org/abs/2610.18276)|null|

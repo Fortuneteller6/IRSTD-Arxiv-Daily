@@ -557,6 +557,15 @@
       "authors": "Xuelin Qian, Zixuan Wang, Chang Xu, Dingwen Zhang, Junwei Han",
       "url": "http://arxiv.org/abs/2610.29361",
       "code": null
+    },
+    "2610.39226": {
+      "id": "2610.39226",
+      "publish_date": "2026-10-29",
+      "title": "Beyond Direct Imaging: Quantum Measurement Design for Small-Target Detection in UAV Hyperspectral Sensing",
+      "first_author": "Qipeng Qian",
+      "authors": "Qipeng Qian, Jialiang Jin, Shihao Wang, Yuntao Qian",
+      "url": "http://arxiv.org/abs/2610.39226",
+      "code": null
     }
   }
 }
