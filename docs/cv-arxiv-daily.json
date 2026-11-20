@@ -566,6 +566,15 @@
       "authors": "Qipeng Qian, Jialiang Jin, Shihao Wang, Yuntao Qian",
       "url": "http://arxiv.org/abs/2610.39226",
       "code": null
+    },
+    "2611.25724": {
+      "id": "2611.25724",
+      "publish_date": "2026-11-19",
+      "title": "Verifying Before Enhancing: Target Evidence Chain Verification for Infrared Small Target Detection",
+      "first_author": "Jiayi Zuo",
+      "authors": "Jiayi Zuo, Songwei Pei, Shuhuai Wang, Yifei Wu, Shangguang Wang",
+      "url": "http://arxiv.org/abs/2611.25724",
+      "code": null
     }
   }
 }
